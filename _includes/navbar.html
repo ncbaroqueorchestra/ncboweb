@@ -1,24 +1,24 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
   <div class="container">
-    <a class="navbar-brand" href="{{"/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="navbar-brand navbar-dark" href="{{"/" | relative_url }}"><img src="img/ncbo_website_horiz.png" style="height:80px"></a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       Menu
       <i class="fa fa-bars"></i>
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/" | relative_url }}">Home</a>
+      <ul class="navbar-nav ml-auto navbar-light">
+        <li class="nav-item" >
+          <a class="nav-link" href="{{"/" | relative_url }}" style="border-top-width: 6px; border-top-color:red">Home</a>
+        </li>
+        <li class="nav-item" style="border-color:#3e61ac">
+          <a class="nav-link" href="{{ "/about" | relative_url }}" style="border-top-width: 6px; border-color:#3e61ac">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{"/about" | relative_url }}">About</a>
+          <a class="nav-link" href="{{ "/posts" | relative_url }}" style="border-top-width: 6px; border-color:#3c8d84">Events</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ "/posts" | relative_url }}">Events</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/contact" | relative_url }}">Contact</a>
+          <a class="nav-link" href="{{ "/contact" | relative_url }}" style="border-top-width: 6px; border-color:#3d3d7a">Contact</a>
         </li>
       </ul>
     </div>
