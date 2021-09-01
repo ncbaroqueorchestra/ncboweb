@@ -2,7 +2,7 @@ title:              NCBO
 email:              your-email@example.com
 description:        Official website of the North Carolina Baroque Orchestra
 author:             North Carolina Baroque Orchestra. A 501(c)(3) organization.
-baseurl:            "https://ncbaroqueorchestra.github.io/ncboweb/"
+baseurl:            "/ncboweb/"
 url:                ""
 
 # Social Profiles
