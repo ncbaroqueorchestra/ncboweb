@@ -2,60 +2,397 @@
 layout: default
 ---
 
-<!-- Page Header -->
-{% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
-  {% else %}
-  <header class="masthead">
-    {% endif %}
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading">
-            <h1>{{ site.title }}</h1>
-            {% if site.description %}
-            <span class="subheading">{{ site.description }}</span>
-            {% endif %}
+
+
+
+  <!-- ======= Mobile nav toggle button ======= -->
+  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="d-flex flex-column">
+
+      <div class="profile">
+        <img src="assets/img/ncbo_logo_no_text.png" style="width: 120px" alt="" >
+        <img src="assets/img/ncbo-text-white.png" alt="" >
+      </div>
+
+      <nav id="navbar" class="nav-menu navbar">
+        <ul>
+          <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="#about" class="nav-link scrollto"><i class="bx bx-music"></i> <span>About</span></a></li>
+          <li><a href="#events" class="nav-link scrollto"><i class="bx bx-calendar"></i> <span>Events</span></a></li>
+          <li><a href="#board" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Board</span></a></li>
+          <li><a href="#support" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Support NCBO</span></a></li>
+          <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="hero-container" data-aos="fade-in">
+      <h1>North Carolina</h1>
+      <h1>Baroque Orchestra</h1>
+      <p><span class="typed" data-typed-items="A Harmonic Adventure, Dramatic, Delightful, Superb"></span></p>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <p>The North Carolina Baroque Orchestra (NCBO), a period instrument ensemble, was co-founded in 2011 by sisters and musical collaborators Frances Blaker and Barbara Blaker Krumdieck for the purpose of providing orchestral and chamber music opportunities for musicians specializing in baroque performance practice.</br></br>
+
+            It was clear from their first concerts in 2011 that there was a need for NCBO. The musicians were hungry for an opportunity to play baroque orchestral music on period instruments at a professional level, and the audiences were excited by their exuberant, refreshing and inspiring performances.</br></br>
+            
+            The North Carolina Baroque Orchestra maintains a goal of presenting refined, stylistic, artistic and fun performances, engaging both the players and the listeners in the stories and historical context behind the music.</br></br>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3" data-aos="fade-right">
+            <img src="assets/img/Sisters.jpeg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+            <h3>Frances Blaker - Conductor & Artistic Director</h3>
+            <p>
+              Frances Blaker is a virtuoso recorder player and world-renowned expert in baroque performance practice, teaching workshops throughout The United States and Europe. She is a unique and exciting conductor, inspiring the NCBO players to bring new life to old music! Ms Blaker lives in the San Francisco Bay Area where she maintains an active teaching studio and works on her compositions.
+            </p>
+            <h3>Barbara Krumdieck - Executive Director & Cellist</h3>
+            <p>
+              Barbara manages all of the details involved in putting performances together. The NCBO players travel in from near and far. Some are in the Carolinas, but a large number of the players travel in from all over the country including California, Indiana, Kentucky, Tennessee , Georgia, Washington, D.C., Texas, New York, Pennsylvania, New Jersey and Virginia. Ms. Krumdieck contracts the musicians, arranges for their transportation and housing, provides them with music and makes them feel welcome and valued within NCBO. She is also liaison between the orchestra and choir directors who contract NCBO for their special projects.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Events Section ======= -->
+    <section id="events" class="portfolio section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Events</h2>
+          <p>Please consider supporting the North Carolina Baroque Orchestra by making a tax-deductible donation today. Your generous gifts allow us to bring our period-instrument performances of the gorgeous music of the 17th and 18th centuries to audiences across the southeastern United States!</p>
+        </div>
+
+        <div class="row" data-aos="fade-up">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*">All</li>
+              <li data-filter=".filter-app" class="filter-active">Upcoming</li>
+              <li data-filter=".filter-card">Past</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <h3>Vespers at Trinity Cathedral</h3>
+              <h4>Thursday, February 24, 2022</h4>
+              <h4>8 pm</h4>
+              <p>Columbia, SC</p>
+              <p>Music: Bach BWV 82 (Cantata for choir, strings and flute)</p>
+              <!-- <div class="portfolio-links">
+                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div> -->
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <h3>Trinity Episcopal Cathedral</h3>
+              <h4>Sunday, March 13, 2022</h4>
+              <h4>4 pm</h4>
+              <p>Columbia, SC</p>
+              <p>Music: Bach B minor Mass</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <h3>Carol Woods</h3>
+              <h4>Wednesday, March 23, 2022</h4>
+              <h4>7:30 pm</h4>
+              <p>Chapel Hill, NC</p>
+              <p>Poetry writtena nd read by Ann Witherspoon with baroque chamber music.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <h3>Vespers at Trinity Cathedral</h3>
+              <h4>Thursday, March 24, 2022</h4>
+              <h4>8 pm</h4>
+              <p>Columbia, SC</p>
+              <p>Music: Bach BWV 10 (Cantata for choir, strings, and oboes)</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Events Section -->
+
+    <!-- ======= Board Section ======= -->
+    <section id="board" class="services">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Board Members</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
+            <div class="icon"><i class="bi bi-person-circle"></i></div>
+            <h4 class="title">Barbara Blaker Krumdieck</h4>
+            <p class="description">Executive Director</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon"><i class="bi bi-person-circle"></i></div>
+            <h4 class="title">George Bohmfalk</h4>
+            <p class="description">Chair</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon"><i class="bi bi-person-circle"></i></div>
+            <h4 class="title">Thomas Miller</h4>
+            <p class="description">Chair Elect</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon"><i class="bi bi-person-circle"></i></div>
+            <h4 class="title">Chuck Latham</h4>
+            <p class="description">Treasurer</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+            <div class="icon"><i class="bi bi-person-circle"></i></div>
+            <h4 class="title">Jane Cain</h4>
+            <p class="description">Member</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
+            <div class="icon"><i class="bi bi-person-circle"></i></div>
+            <h4 class="title">Mary Latham</h4>
+            <p class="description">Member</p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Board Section -->
+
+
+
+    <!-- ======= Support Section ======= -->
+    <section id="support" class="resume">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Support NCBO</h2>
+          <p>Your donations to the North Carolina Baroque Orchestra are critical in supporting the performances of these master musicians.</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6" data-aos="fade-up">
+            <h3 class="resume-title">Levels</h3>
+            <div class="resume-item pb-0">
+              <h4>Friends of Telemann</h4>
+              <h5>Up to $99</h5>
+            </div>
+            <div class="resume-item pb-0">
+              <h4>Friends of Couperin</h4>
+              <h5>$100-$249</h5>
+            </div>
+            <div class="resume-item pb-0">
+              <h4>Friends of Vivaldi</h4>
+              <h5>$250-$499</h5>
+            </div>
+            <div class="resume-item pb-0">
+              <h4>Friends of Handel</h4>
+              <h5>$500-$999</h5>
+            </div>
+            <div class="resume-item pb-0">
+              <h4>The Bach Family</h4>
+              <h5>$1,000+</h5>
+            </div>
+          </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title">Contributions to NCBO</h3>
+            <div class="resume-item">
+              <h4>Fund projects</h4>
+              <p><em>Your donations help fund our instrumental projects with artistic director Frances Blaker.</em></p>
+            </div>
+            <div class="resume-item">
+              <h4>Enrich musicians</h4>
+              <p><em>Your donations help fund our annual orchestra building retreat, a week of working together with Frances Blaker in rehearsals, sectionals and seminars which is followed by several concerts.</em></p>
+            </div>
+            <div class="resume-item">
+              <h4>Support communities</h4>
+              <p><em>Your donations help support our efforts to bring period-instrument orchestral and chamber music concerts to underserved communities through-out the southeastern United States.</em></p>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </header>
+      <div class="row" data-aos="fade-up" style="padding-top: 30px;">
+        <div class="col-lg-12 d-flex justify-content-center">
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"> <input type="hidden" name="cmd" value="_s-xclick"> <input type="hidden" name="hosted_button_id" value="XZN23PSLH2SHQ"> <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button"> <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1"></form>
+        </div>
+      </div>
+      <div class="row" data-aos="fade-up">
+        <div class="col-lg-12 d-flex justify-content-center">
+          ©2020 North Carolina Baroque Orchestra, Inc. A register and approved 501(c)(3) organization.
+        </div>
+      </div>
+    </section><!-- End Support Section -->
 
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials section-bg">
+      <div class="container">
 
-        {{ content }}
+        <div class="section-title">
+          <h2>Testimonials</h2>
+        </div>
 
-        <!-- Home Post List -->
-        {% for post in site.posts reversed limit : 5 %}
+        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
 
-        <article class="post-preview">
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            <h2 class="post-title">{{ post.title }}</h2>
-            {% if post.subtitle %}
-            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-            {% else %}
-            <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
-            {% endif %}
-            <h4>
-              {{ post.performancedatetime }}
-            </h4>
-          </a>
-          
-        </article>
+            <div class="swiper-slide">
+              <div class="testimonial-item" data-aos="fade-up">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  The superb North Carolina Baroque Orchestra accompanied. There were just nine performers for this evening’s concert, but their full tone belied that number. The balance with the choir of about thirty was very fine. Phrasing and rhythm were tight and they created the tone and moods needed in this wide-ranging dramatic work.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <!-- <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt=""> -->
+                <h4>WITH ST. PAUL’S EPISCOPAL CHURCH CHOIR, DIRECTOR RONNIE WISE – HANDEL’S ‘MESSIAH’</h4>
+              </div>
+            </div><!-- End testimonial item -->
 
-        <hr>
+            <div class="swiper-slide">
+              <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  This way-ahead-of-its-time harmonic adventure was a challenge for the orchestra for its difficult intonation, which they passed with sparkling confidence and brilliance.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <!-- <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt=""> -->
+                <h4>DIRECTED BY FRANCES BLAKER – FRANZ BIBER’S PARS III FROM MENSA SONORA (1680)</h4>
+              </div>
+            </div><!-- End testimonial item -->
 
-        {% endfor %}
-
-        <!-- Pager -->
-        <div class="clearfix">
-          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Events &rarr;</a>
+          </div>
+          <div class="swiper-pagination"></div>
         </div>
 
       </div>
+    </section><!-- End Testimonials Section -->
+    
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+          <p>Contact us via email or the address below. We'd love to hear from you!</p>
+        </div>
+
+        <div class="row" data-aos="fade-in">
+
+          <div class="col-lg-5 d-flex align-items-stretch">
+            <div class="info">
+              <div class="address">
+                <i class="bi bi-geo-alt"></i>
+                <h4>Mailing Address:</h4>
+                <p>PO Box 2305, Davidson, NC 28036</p>
+              </div>
+
+              <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <p><a href="mailto:ncbaroqueorchestra@gmail.com">ncbaroqueorchestra@gmail.com</a></p>
+              </div>
+
+              <!-- <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Call:</h4>
+                <p>+1 5589 55488 55s</p>
+              </div> -->
+
+              <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe> -->
+            </div>
+
+          </div>
+
+          <!-- <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="form-group col-md-6">
+                  <label for="name">Your Name</label>
+                  <input type="text" name="name" class="form-control" id="name" required>
+                </div>
+                <div class="form-group col-md-6">
+                  <label for="name">Your Email</label>
+                  <input type="email" class="form-control" name="email" id="email" required>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="name">Subject</label>
+                <input type="text" class="form-control" name="subject" id="subject" required>
+              </div>
+              <div class="form-group">
+                <label for="name">Message</label>
+                <textarea class="form-control" name="message" rows="10" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+          </div> -->
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="profile">
+
+        <div class="social-links mt-3 text-center">
+          <a href="https://www.facebook.com/ncbaroqueorchestra" target="_blank" class="facebook"><i class="bx bxl-facebook-circle"></i></a>
+          <!-- <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a> -->
+          <!-- <a href="#" class="youtube"><i class="bx bxl-youtube"></i></a> -->
+        </div>
+      </div>
     </div>
-  </div>
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
