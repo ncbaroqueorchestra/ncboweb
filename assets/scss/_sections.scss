@@ -291,7 +291,7 @@ section {
       z-index: 2;
       opacity: 0;
     }
-
+    
     .portfolio-links {
       opacity: 1;
       left: 0;
@@ -302,6 +302,7 @@ section {
       transition: all ease-in-out 0.3s;
       display: flex;
       justify-content: center;
+
 
       a {
         color: $white;
