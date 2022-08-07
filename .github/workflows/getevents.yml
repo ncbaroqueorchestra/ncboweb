@@ -1,0 +1,39 @@
+# Replace events file with updated file from Google Sheets
+name: 1-GetEvents
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+#  push:
+ #   branches: [ main ]
+  #pull_request:
+   # branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      # Google sheet must be published through File-Share menu in app. This produces URL that is used by curl
+      - name: Run a one-line script
+        run: |
+          curl -L -o _data/events.yml "https://docs.google.com/spreadsheets/d/e/2PACX-1vRSbLGMUX9nWaqsnS07I5km4wD91aIlvC-A_LEBR3WgJB5HsAyMguf6NbMtq6yi5Hsb-_P7p5lGPlCH/pub?gid=1034468650&single=true&output=csv"
+          echo Completed import of events
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: Steve Hall
+          author_email: srhall@gmail.com
+          message: 'Updated events'
+          add: '*.yml'
