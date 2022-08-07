@@ -1,4 +1,4 @@
-"- heading: SC Bach
+- heading: SC Bach
   evendate: November 19 & 20, 2021
   description: Bach Violin sonatas and trio sonatas
   venue: TBD
@@ -6,8 +6,8 @@
   mapurl: 
   ticketurl: 
   eventimageurl: 
-  eventdetailsurl: "
-"- heading: St. Paul's Episcopal Church
+  eventdetailsurl: 
+- heading: St. Paul's Episcopal Church
   eventdate: 12/3/2021
   eventtime: 3:00 PM
   description: Buxtehude and Schutz (choir with strings)
@@ -16,8 +16,8 @@
   mapurl: MapUrl
   ticketurl: TicketUrl
   eventimageurl: EventImageUrl
-  eventdetailsurl: EventDetailsURL"
-"- heading: St. Paul's Episcopal Church
+  eventdetailsurl: EventDetailsURL
+- heading: St. Paul's Episcopal Church
   eventdate: 04/4/2022
   eventtime: 4:00 PM
   description: Handel's Messiah
@@ -26,8 +26,8 @@
   mapurl: MapUrl
   ticketurl: TicketUrl
   eventimageurl: EventImageUrl
-  eventdetailsurl: EventDetailsURL"
-"- heading: Trinity Episcopal Cathedral
+  eventdetailsurl: EventDetailsURL
+- heading: Trinity Episcopal Cathedral
   eventdate: 12/12/2021
   eventtime: 
   description: Handel's Messiah
@@ -36,8 +36,8 @@
   mapurl: 
   ticketurl: 
   eventimageurl: 
-  eventdetailsurl: "
-"- heading: Lancaster Arts Center
+  eventdetailsurl: 
+- heading: Lancaster Arts Center
   eventdate: 12/19/2021
   eventtime: 
   description: NCBO Chamber Players chamber music for two recorders, cello & harpsichord
@@ -46,8 +46,8 @@
   mapurl: 
   ticketurl: 
   eventimageurl: 
-  eventdetailsurl: "
-"- heading: Vespers at Trinity Cathedral
+  eventdetailsurl: 
+- heading: Vespers at Trinity Cathedral
   eventdate: 1/27/2022
   eventtime: 
   description: Handel Chandos Anthem (choir, strings and oboes)
@@ -56,8 +56,8 @@
   mapurl: 
   ticketurl: 
   eventimageurl: 
-  eventdetailsurl: "
-"- heading: Vespers at Trinity Cathedral
+  eventdetailsurl: 
+- heading: Vespers at Trinity Cathedral
   eventdate: 2/24/2022
   eventtime: 
   description: Bach BWV 82 (Cantata for choir, strings and flute)
@@ -66,8 +66,8 @@
   mapurl: 
   ticketurl: 
   eventimageurl: 
-  eventdetailsurl: "
-"- heading: Trinity Episcopal Cathedral
+  eventdetailsurl: 
+- heading: Trinity Episcopal Cathedral
   eventdate: 3/13/2022
   eventtime: 
   description: Bach B minor Mass
@@ -76,17 +76,17 @@
   mapurl: 
   ticketurl: 
   eventimageurl: 
-  eventdetailsurl: "
-"- heading: Venue TBD
+  eventdetailsurl: 
+- heading: Venue TBD
   evendate: March 19 & 20, 2022
-  description: Handel's ""Esther"" (oratorio for choir, strings, bassoon, oboe, trumpets, timpani)
+  description: Handel's Esther (oratorio for choir, strings, bassoon, oboe, trumpets, timpani)
   venue: 
   address: Charleston, SC
   mapurl: 
   ticketurl: 
   eventimageurl: 
-  eventdetailsurl: "
-"- heading: Carol Woods
+  eventdetailsurl: 
+- heading: Carol Woods
   eventdate: 3/23/2022
   eventtime: 
   description: Bach violin sonatas and trio sonatas
@@ -95,8 +95,8 @@
   mapurl: 
   ticketurl: 
   eventimageurl: 
-  eventdetailsurl: "
-"- heading: Vespers at Trinity Cathedral
+  eventdetailsurl: 
+- heading: Vespers at Trinity Cathedral
   eventdate: 3/24/2022
   eventtime: 8:00 PM
   description: Bach BWV 10 (Cantata for choir, strings and oboes)
@@ -105,8 +105,8 @@
   mapurl: 
   ticketurl: 
   eventimageurl: 
-  eventdetailsurl: "
-"- heading: Venue TBD
+  eventdetailsurl: 
+- heading: Venue TBD
   eventdate: 3/30/2022
   eventtime: 
   description: North Carolina Baroque Orchestra
@@ -115,8 +115,8 @@
   mapurl: 
   ticketurl: 
   eventimageurl: 
-  eventdetailsurl: "
-"- heading: Craven Community College
+  eventdetailsurl: 
+- heading: Craven Community College
   eventdate: 3/31/2022
   eventtime: 7:30 PM
   description: North Carolina Baroque Orchestra
@@ -125,4 +125,4 @@
   mapurl: 
   ticketurl: 
   eventimageurl: 
-  eventdetailsurl: "
+  eventdetailsurl: 
