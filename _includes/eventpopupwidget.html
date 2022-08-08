@@ -1,0 +1,103 @@
+<!-- Modal -->
+<div class="modal fade" id="eventdetails{{numEvents}}" tabindex="-1" role="dialog" aria-labelledby="aria-eventdetails{{numEvents}}" aria-hidden="true">
+    <div class="modal-dialog masa-modal" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div>
+                    <h5 class="modal-title" >{{ event.heading }}</h5>
+                    {{ event.eventdate | date: "%b %d, %Y" }} - {{ event.eventtime }}
+                </div>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="col-md-12">
+                    <div class="row">
+                        <!-- <div class="col-md-6">
+                            <div class="pull-left">
+                                <img style="width: 300px;" src="assets/events/{{ site.data.sitedata.currentseason }}season/{{ event.smallimage }}" alt="{{ event.heading }}">
+                            </div>
+                        </div> -->
+
+                        <div class="col-md-6 contact">
+                            {% if event.program or event.notes or event.bios %}
+                            <div class="info">
+
+                                {% if event.program %}
+                                <a href="{{ event.program }}" target="_blank">
+                                    <i class="icofont-book"></i>
+                                    <h4>Program</h4>
+                                </a>
+                                <p></p>
+                                {% endif %} {% if event.notes %}
+                                <a href="{{ event.notes }}" target="_blank">
+                                    <i class="icofont-notepad"></i>
+                                    <h4>Performance Notes</h4>
+                                </a>
+                                <p></p>
+                                {% endif %} {% if event.bios %}
+                                <a href="{{ event.bios }}" target="_blank">
+                                    <i class="icofont-people"></i>
+                                    <h4>Performer Bios</h4>
+                                </a>
+                                <p></p>
+                                {% endif %} {% if event.videoarchive %}
+                                <a href="{{ event.videoarchive }}" target="_blank">
+                                    <i class="icofont-film"></i>
+                                    <h4>Video Archive</h4>
+                                </a>
+                                <p></p>
+                                {% endif %}
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% if event.notice %}
+                    <br/>
+                    <p style="background-color: #F7F5FF; padding: 30px;">{{ event.notice }}</p>
+                    {% endif %}
+
+                    {% if event.performancelink %}
+                        <br/>
+                        <p>
+                            <a href="{{ event.performancelink }}" target="_blank">
+                                WATCH ON M@SA!
+                            </a>
+                        </p>
+                    {% endif %}
+                    {% if event.fbperformancelink %}
+                        <br/>
+                        <p>
+                            <a href="{{ event.fbperformancelink }}" target="_blank">
+                                WATCH ON FACEBOOK!
+                            </a>
+                        </p>
+                    {% endif %}
+                    {% if event.ytperformancelink %}
+                        <br/>
+                        <p>
+                            <a href="{{ event.ytperformancelink }}" target="_blank">
+                                WATCH ON YOUTUBE!
+                            </a>
+                        </p>
+                    {% endif %}
+                    
+                    <br/>
+                    <div>{{ event.description }}</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="purchasebutton d-lg-block">
+                    <ul>
+                        {% if event.ticketlink contains "https" %}
+                        <li style="width:150px" class="get-started float-right"><a href="{{ event.ticketlink }}" target="_blank">BUY TICKETS</a></li>
+                        {% else %}
+                        <li style="width:150px;" class="get-started float-right"><a href="" style="background: #422F89;">{{ event.ticketlink }}</a></li>
+                        {% endif %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

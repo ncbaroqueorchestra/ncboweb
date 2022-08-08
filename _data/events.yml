@@ -1,24 +1,110 @@
-- heading: Four Horsemen
-  subheading: 
-  smallimage:
-  eventdate: Thursday, May 22, 2022
-  eventtime: 3:00 PM
-  description: Composed of Charlotte Symphony Orchestra members led by Thomas Burge, the Four Horsemen will perform classical music spanning the 17th-21st centuries with a quartet of trombones. The musicians will give a talk and demo sponsored by DavidsonLearns prior to the concert from 2:00-2:45pm.
-  eventurl: https://www.notexactly.science
-  ticketlink: COMING SOON
-
-- heading: Five Horsemen
-  subheading: 
-  smallimage:
-  eventdate: 2022-09-22
-  eventtime: 3:00 PM
-  description: Composed of Charlotte Symphony Orchestra members led by Thomas Burge, the Four Horsemen will perform classical music spanning the 17th-21st centuries with a quartet of trombones. The musicians will give a talk and demo sponsored by DavidsonLearns prior to the concert from 2:00-2:45pm.
-  ticketlink: COMING SOON
-
-- heading: Six Horsemen
-  subheading: 
-  smallimage:
-  eventdate: 2022-09-22
-  eventtime: 3:00 PM
-  description: Composed of Charlotte Symphony Orchestra members led by Thomas Burge, the Four Horsemen will perform classical music spanning the 17th-21st centuries with a quartet of trombones. The musicians will give a talk and demo sponsored by DavidsonLearns prior to the concert from 2:00-2:45pm.
-  ticketlink: COMING SOON
+- heading: Colleton Civic Auditorium
+  eventdate: 9/17/2022
+  eventtime: 6:30pm
+  description: Handel and Pergolesi
+  venue: Colleton Civic Auditorium
+  address: 494 Hampton St, Walterboro, SC 29488
+  mapurl: https://goo.gl/maps/cB1idpi5xnpjB3f96
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://www.thekingscounterpoint.com
+- heading: Old St. Andrew's Parish
+  eventdate: 9/18/2022
+  eventtime: 2:00pm
+  description: Handel and Pergolesi
+  venue: Old St. Andrew's Parish
+  address: 2604 Ashley River Rd, Charleston, SC 29414
+  mapurl: https://goo.gl/maps/cSpZgJkbUxj5GWMC9
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://www.thekingscounterpoint.com
+- heading: Vespers at Trinity Episcopal Cathedral
+  eventdate: 9/25/2022
+  eventtime: 4:00pm
+  description: Bach BWV 180
+  venue: Trinity Episcopal Cathedral
+  address: 1100 Sumter St, Columbia, SC 29201
+  mapurl: https://goo.gl/maps/236md5jdBoqKY8AW7
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://www.trinitysc.org
+- heading: SC Bach
+  eventdate: 10/7/2022
+  eventtime: 
+  description: Bach- Brandenburg 6, BWV 106 & 55
+  venue: 
+  address: Clinton, SC
+  mapurl: 
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://scbach.org
+- heading: SC Bach
+  eventdate: 10/8/2022
+  eventtime: 
+  description: 
+  venue: 
+  address: Tryon, NC
+  mapurl: 
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://scbach.org
+- heading: SC Bach
+  eventdate: 10/9/22
+  eventtime: 
+  description: 
+  venue: 
+  address: Greenville, SC
+  mapurl: 
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://scbach.org
+- heading: Charlotte Master Chorale
+  eventdate: 10/15/2022
+  eventtime: 
+  description: Bach B Minor Mass
+  venue: 
+  address: Charlotte, NC
+  mapurl: 
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://charlottemasterchorale.org
+- heading: Venue TBD
+  eventdate: 10/16/2022
+  eventtime: 
+  description: 
+  venue: 
+  address: TBD
+  mapurl: 
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: 
+- heading: Vespers Trinity Episcopal Cathedral
+  eventdate: 10/30/2022
+  eventtime: 4:00pm
+  description: Bach BWV 80
+  venue: Trinity Episcopal Cathedral
+  address: 1100 Sumter St, Columbia, SC 29201
+  mapurl: https://goo.gl/maps/236md5jdBoqKY8AW7
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://www.trinitysc.org
+- heading: Carol Woods
+  eventdate: 11/9/2022
+  eventtime: 7:30 pm
+  description: NCBO Chamber players. Buxtehude, Telemann & Marais
+  venue: 
+  address: Chapel Hill, NC
+  mapurl: 
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: NCBO Chamber players
+- heading: Trinity Episcopal Cathedral
+  eventdate: 11/13/2022
+  eventtime: 4:00pm
+  description: Music of Purcell
+  venue: 
+  address: 1100 Sumter St, Columbia, SC 29201
+  mapurl: https://goo.gl/maps/236md5jdBoqKY8AW7
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://www.trinitysc.org
