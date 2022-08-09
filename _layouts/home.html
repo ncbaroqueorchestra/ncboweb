@@ -3,7 +3,18 @@ layout: default
 ---
 
 
-
+<script>
+    var InitialImage = true;
+    function replaceHeroBackgroundImage() {
+        var hero = document.getElementById('hero');
+        if (InitialImage) {
+            hero.style.backgroundImage = 'url("../assets/img/hero-bg-goofy.jpg")';
+        } else {
+            hero.style.backgroundImage = 'url("../assets/img/hero-bg.jpg")';
+        }
+        InitialImage = !InitialImage;
+    }
+</script>
 
 <!-- ======= Mobile nav toggle button ======= -->
 <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
@@ -33,7 +44,7 @@ layout: default
 <!-- End Header -->
 
 <!-- ======= Hero Section ======= -->
-<section id="hero" class="d-flex flex-column justify-content-end align-items-center">
+<section id="hero" class="d-flex flex-column justify-content-end align-items-center" onclick="replaceHeroBackgroundImage()">
     <div class="hero-container" data-aos="fade-in">
         <h1>North Carolina</h1>
         <h1>Baroque Orchestra</h1>
@@ -236,7 +247,7 @@ layout: default
                 </div>
 
                 <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-           
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
