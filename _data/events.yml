@@ -49,7 +49,7 @@
   eventimageurl: 
   eventdetailsurl: https://scbach.org
 - heading: SC Bach
-  eventdate: 10/9/2022
+  eventdate: 10/9/22
   eventtime: 
   description: 
   venue: 
@@ -61,7 +61,7 @@
 - heading: Charlotte Master Chorale
   eventdate: 10/15/2022
   eventtime: 
-  description: Bach B Minor Mass
+  description: <b>Bach</b> B Minor Mass
   venue: 
   address: Charlotte, NC
   mapurl: 
@@ -108,3 +108,46 @@
   ticketurl: 
   eventimageurl: 
   eventdetailsurl: https://www.trinitysc.org
+
+
+
+
+- heading: Wake Forest University Choir
+  eventdate: 11/28/2022
+  eventtime: Time TBD
+  description: Handel's Messiah Singalong
+  venue: 
+  address: 
+  mapurl: 
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: 
+- heading: St. Paul's Episcopal, Chattanooga, TN
+  eventdate: 12/2/2022
+  eventtime: 
+  description: Handel's Messiah & BWV 61
+  venue: St. Paul's Episcopal
+  address: 305 W 7th St, Chattanooga, TN 37402
+  mapurl: 
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: 
+- heading: St. Paul's Episcopal, Wilmington, NC
+  evendate: Dec 8-9, 7:30pm
+  description: Handel's Messiah
+  venue: St. Paul's Episcopal
+  address: 16 N 16th St, Wilmington, NC
+  mapurl: 
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://spechurch.com/music-calendar/
+- heading: Trinity Episcopal Cathedral
+  eventdate: 12/11/2022
+  eventtime: 4:00pm
+  description: Handel's Messiah
+  venue: Trinity Cathedral1100 Sumter St, Columbia, SC 29201
+  address: 
+  mapurl: 
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: 
