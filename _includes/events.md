@@ -13,16 +13,15 @@
 
         {% assign numEvents = 0 %}
         {% for event in site.data.events %}
-
             <div class="col-lg-4 col-md-6 portfolio-item">
-              <div class="portfolio-wrap">
-                <a class="portfolio-content" data-toggle="modal" data-target="#eventdetails{{numEvents}}" href="">
+            <a style="text-decoration: none; outline: none;" data-bs-toggle="modal" data-bs-target="#eventdetails{{numEvents}}" href="#eventdetails{{numEvents}}">
+                <div>
                     <h4>{{ event.heading }}</h4>
                     <h5>{{ event.eventdate }}{% if event.eventtime%}&mdash;{% endif %}{{ event.eventtime }}</h5>
-                </a>
-                {% include eventpopupwidget.html %}
-              </div>
+                </div>
+            </a>
           </div>
+          {% include eventpopupwidget.html %}
           {% assign numEvents = numEvents | plus: 1 %}
         {% endfor %}
 
