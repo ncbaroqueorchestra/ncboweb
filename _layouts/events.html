@@ -1,0 +1,104 @@
+---
+layout: default
+---
+
+<!-- ======= Mobile nav toggle button ======= -->
+<i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+<!-- ======= Header ======= -->
+<header id="header">
+    <div class="d-flex flex-column">
+
+        <div class="profile">
+            <img src="assets/img/ncbo_logo_no_text.png" style="width: 120px" alt="">
+            <img src="assets/img/ncbo-text-white.png" alt="">
+        </div>
+
+        <nav id="navbar" class="nav-menu navbar">
+            <ul>
+                <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+                <li><a href="#events" class="nav-link scrollto"><i class="bx bx-calendar"></i> <span>Events</span></a></li>
+                <li><a href="#about" class="nav-link scrollto"><i class="bx bx-music"></i> <span>About</span></a></li>
+                <li><a href="#support" class="nav-link scrollto"><i class="bx bx-gift"></i> <span>Support NCBO</span></a></li>
+                <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact / Subscribe</span></a></li>
+            </ul>
+        </nav>
+        <!-- .nav-menu -->
+    </div>
+</header>
+<!-- End Header -->
+
+<main id="main">
+
+    <!-- Modal -->
+    {% assign numEvents = 0 %}
+    {% for event in site.data.events %}
+        <div id="eventdetails{{numEvents}}">
+            <div>
+                <h5>{{ event.heading }}</h5>
+                {{ event.eventdate | date: "%b %d, %Y" }} - {{ event.eventtime }}
+            </div>
+            <div>
+                <div class="col-md-12">
+                    <div class="row">
+                            <p>{{ event.description }}</p>
+                    </div>
+                    <div class="row">
+                        <p>{{ event.venue }}<br/>
+                        {{ event.address }}
+                        {% if event.mapurl %}
+                            <a href="{{ event.mapurl }}" target="_blank">
+                                Map
+                            </a>
+                        {% endif %}
+                        </p>
+                    </div>
+                    {% if event.ticketurl %}
+                    <div class="row">
+                        <a href="{{ event.ticketurl }}" target="_blank">Buy Tickets</a>
+                    </div>
+                    {% endif %}
+                    {% if event.eventdetailsurl %}
+                    <div class="row">
+                        <a href="{{ event.eventdetailsurl }}" target="_blank">More Details</a>
+                    </div>
+                    {% endif %}
+                    <br/>
+                </div>
+            </div>
+        </div>
+        {% assign numEvents = numEvents | plus: 1 %}
+    {% endfor %}
+
+</main>
+<!-- End #main -->
+
+
+<!-- ======= Footer ======= -->
+<footer id="footer">
+    <div class="container">
+        <div class="profile">
+
+            <div class="social-links mt-3 text-center" style="font-size: 30px;">
+                <a href="https://www.facebook.com/ncbaroqueorchestra" target="_blank" class="facebook"><i class="bx bxl-facebook-circle"></i></a>
+                <!-- <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a> -->
+                <a href="https://www.youtube.com/channel/UCGFPqqVQ2COsjh7OX8Wd0rA" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End  Footer -->
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<!-- Vendor JS Files -->
+<script src="assets/vendor/aos/aos.js"></script>
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="assets/vendor/typed.js/typed.min.js"></script>
+<script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+
+<!-- Template Main JS File -->
+<script src="assets/js/main.js"></script>
