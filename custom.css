@@ -9,6 +9,11 @@
     transition: all ease-in-out 0.3s;
 }
 
+.card:hover {
+    border-left-width: 5px;
+    border-color: rgb(133, 133, 96);
+    transition: all ease-in-out 0.2s;
+}
 .card .card-body:hover {
     background: rgb(241, 241, 203);
     transition: all ease-in-out 0.2s;
