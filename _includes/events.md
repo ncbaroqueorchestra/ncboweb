@@ -3,7 +3,6 @@
 
         <div class="section-title">
             <h2>Upcoming Events</h2>
-            <p>Click on an event for more details!</p>
         </div>
     </div>
 
