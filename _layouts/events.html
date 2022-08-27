@@ -16,11 +16,11 @@ layout: default
 
         <nav id="navbar" class="nav-menu navbar">
             <ul>
-                <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
-                <li><a href="#events" class="nav-link scrollto"><i class="bx bx-calendar"></i> <span>Events</span></a></li>
-                <li><a href="#about" class="nav-link scrollto"><i class="bx bx-music"></i> <span>About</span></a></li>
-                <li><a href="#support" class="nav-link scrollto"><i class="bx bx-gift"></i> <span>Support NCBO</span></a></li>
-                <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact / Subscribe</span></a></li>
+                <li><a href={{ "index#hero" | prepend: site.baseurl | replace: '//', '/' }} class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+                <li><a href={{ "index#events" | prepend: site.baseurl | replace: '//', '/' }} class="nav-link scrollto"><i class="bx bx-calendar"></i> <span>Events</span></a></li>
+                <li><a href={{ "index#about" | prepend: site.baseurl | replace: '//', '/' }} class="nav-link scrollto"><i class="bx bx-music"></i> <span>About</span></a></li>
+                <li><a href={{ "index#support" | prepend: site.baseurl | replace: '//', '/' }} class="nav-link scrollto"><i class="bx bx-gift"></i> <span>Support NCBO</span></a></li>
+                <li><a href={{ "index#contact" | prepend: site.baseurl | replace: '//', '/' }} class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact / Subscribe</span></a></li>
             </ul>
         </nav>
         <!-- .nav-menu -->
@@ -29,46 +29,43 @@ layout: default
 <!-- End Header -->
 
 <main id="main">
+    <div class="container" style="padding-top:40px">
+        <h1>Events</h1>
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+        {% assign numEvents = 0 %}
+        {% for event in site.data.events %}
+            <div class="col">
+                <div class="card" >
+                    <!-- <img src="..." class="card-img-top" alt="..."> -->
+                    <div class="card-body">
+                        <h5 class="card-title">{{ event.heading }}</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">{{ event.eventdate }} - {{ event.eventtime }}</h6>
+                        <p class="card-text">{{ event.description }}</p>
+                        <p class="card-text">{{ event.venue }}</p>
 
-    <!-- Modal -->
-    {% assign numEvents = 0 %}
-    {% for event in site.data.events %}
-        <div id="eventdetails{{numEvents}}">
-            <div>
-                <h5>{{ event.heading }}</h5>
-                {{ event.eventdate | date: "%b %d, %Y" }} - {{ event.eventtime }}
-            </div>
-            <div>
-                <div class="col-md-12">
-                    <div class="row">
-                            <p>{{ event.description }}</p>
-                    </div>
-                    <div class="row">
-                        <p>{{ event.venue }}<br/>
-                        {{ event.address }}
                         {% if event.mapurl %}
                             <a href="{{ event.mapurl }}" target="_blank">
-                                Map
+                                <p class="card-text">{{ event.address }}</p>
                             </a>
+                        {% else %}
+                            <p class="card-text">{{ event.address }}</p>
                         {% endif %}
-                        </p>
+                        <!-- Optional links for tickets and details -->
+                        <div style="padding-top:20px">
+                            {% if event.ticketurl %}
+                                <a class="btn btn-primary" href="{{ event.ticketurl }}" target="_blank">Buy Tickets</a>
+                            {% endif %}
+                            {% if event.eventdetailsurl %}
+                                <a class="btn btn-light" href="{{ event.eventdetailsurl }}" target="_blank">More Details</a>
+                            {% endif %}
+                        </div>
                     </div>
-                    {% if event.ticketurl %}
-                    <div class="row">
-                        <a href="{{ event.ticketurl }}" target="_blank">Buy Tickets</a>
-                    </div>
-                    {% endif %}
-                    {% if event.eventdetailsurl %}
-                    <div class="row">
-                        <a href="{{ event.eventdetailsurl }}" target="_blank">More Details</a>
-                    </div>
-                    {% endif %}
-                    <br/>
                 </div>
             </div>
+            {% assign numEvents = numEvents | plus: 1 %}
+        {% endfor %}
         </div>
-        {% assign numEvents = numEvents | plus: 1 %}
-    {% endfor %}
+    </div>
 
 </main>
 <!-- End #main -->

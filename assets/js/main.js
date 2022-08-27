@@ -253,4 +253,36 @@
     })
   });
 
+
+  /**
+   * CUSTOM NCBO
+   * Accordion isotope and filter
+   */
+   window.addEventListener('load', () => {
+    let accordionContainer = select('.accordion-container');
+    if (accordionContainer) {
+        let accordionIsotope = new Isotope(accordionContainer, {
+            itemSelector: '.accordion-item'
+        });
+
+        let accordionFilters = select('#accordion-filters li', true);
+
+        on('click', '#accordion-filters li', function(e) {
+            e.preventDefault();
+            accordionFilters.forEach(function(el) {
+              el.classList.remove('filter-active');
+            });
+            this.classList.add('filter-active');
+
+            accordionIsotope.arrange({
+                filter: this.getAttribute('data-filter')
+            });
+            accordionIsotope.on('arrangeComplete', function() {
+                AOS.refresh()
+            });
+        }, true);
+    }
+
+    });
+
 })()

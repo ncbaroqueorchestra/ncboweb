@@ -1,0 +1,15 @@
+/*--------------------------------------------------------------
+# Accordion
+--------------------------------------------------------------*/
+
+.accordion .accordion-header:hover {
+    border-left-width: 5px;
+    border-color: #37b3ed;
+    border-left-style: solid;
+    transition: all ease-in-out 0.3s;
+}
+
+.card .card-body:hover {
+    background: rgb(241, 241, 203);
+    transition: all ease-in-out 0.2s;
+}

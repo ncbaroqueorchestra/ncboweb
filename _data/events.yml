@@ -1,16 +1,16 @@
 - heading: Colleton Civic Auditorium
-  eventdate: 9/17/2022
-  eventtime: 6:30pm
+  eventdate: Sep 17, 2022
+  eventtime: 06:30 PM
   description: Handel and Pergolesi
   venue: Colleton Civic Auditorium
   address: 494 Hampton St, Walterboro, SC 29488
   mapurl: https://goo.gl/maps/cB1idpi5xnpjB3f96
-  ticketurl: 
+  ticketurl: https://ncbaroqueorchestra.org
   eventimageurl: 
   eventdetailsurl: https://www.thekingscounterpoint.com
 - heading: Old St. Andrew's Parish
-  eventdate: 9/18/2022
-  eventtime: 2:00pm
+  eventdate: Sep 18, 2022
+  eventtime: 02:00 PM
   description: Handel and Pergolesi
   venue: Old St. Andrew's Parish
   address: 2604 Ashley River Rd, Charleston, SC 29414
@@ -19,8 +19,8 @@
   eventimageurl: 
   eventdetailsurl: https://www.thekingscounterpoint.com
 - heading: Vespers at Trinity Episcopal Cathedral
-  eventdate: 9/25/2022
-  eventtime: 4:00pm
+  eventdate: Sep 25, 2022
+  eventtime: 04:00 PM
   description: Bach BWV 180
   venue: Trinity Episcopal Cathedral
   address: 1100 Sumter St, Columbia, SC 29201
@@ -29,8 +29,8 @@
   eventimageurl: 
   eventdetailsurl: https://www.trinitysc.org
 - heading: SC Bach
-  eventdate: 10/7/2022
-  eventtime: 
+  eventdate: Oct 7, 2022
+  eventtime: 12:00 AM
   description: Bach- Brandenburg 6, BWV 106 & 55
   venue: 
   address: Clinton, SC
@@ -39,8 +39,8 @@
   eventimageurl: 
   eventdetailsurl: https://scbach.org
 - heading: SC Bach
-  eventdate: 10/8/2022
-  eventtime: 
+  eventdate: Oct 8, 2022
+  eventtime: 12:00 AM
   description: 
   venue: 
   address: Tryon, NC
@@ -49,8 +49,8 @@
   eventimageurl: 
   eventdetailsurl: https://scbach.org
 - heading: SC Bach
-  eventdate: 10/9/22
-  eventtime: 
+  eventdate: Oct 9, 2022
+  eventtime: 12:00 AM
   description: 
   venue: 
   address: Greenville, SC
@@ -59,9 +59,9 @@
   eventimageurl: 
   eventdetailsurl: https://scbach.org
 - heading: Charlotte Master Chorale
-  eventdate: 10/15/2022
-  eventtime: 
-  description: <b>Bach</b> B Minor Mass
+  eventdate: Oct 15, 2022
+  eventtime: 12:00 AM
+  description: Bach B Minor Mass
   venue: 
   address: Charlotte, NC
   mapurl: 
@@ -69,8 +69,8 @@
   eventimageurl: 
   eventdetailsurl: https://charlottemasterchorale.org
 - heading: Venue TBD
-  eventdate: 10/16/2022
-  eventtime: 
+  eventdate: Oct 16, 2022
+  eventtime: 12:00 AM
   description: 
   venue: 
   address: TBD
@@ -79,8 +79,8 @@
   eventimageurl: 
   eventdetailsurl: 
 - heading: Vespers Trinity Episcopal Cathedral
-  eventdate: 10/30/2022
-  eventtime: 4:00pm
+  eventdate: Oct 30, 2022
+  eventtime: 04:00 PM
   description: Bach BWV 80
   venue: Trinity Episcopal Cathedral
   address: 1100 Sumter St, Columbia, SC 29201
@@ -89,18 +89,18 @@
   eventimageurl: 
   eventdetailsurl: https://www.trinitysc.org
 - heading: Carol Woods
-  eventdate: 11/9/2022
-  eventtime: 7:30 pm
+  eventdate: Nov 9, 2022
+  eventtime: 07:30 PM
   description: NCBO Chamber players. Buxtehude, Telemann & Marais
   venue: 
   address: Chapel Hill, NC
   mapurl: 
   ticketurl: 
   eventimageurl: 
-  eventdetailsurl: 
+  eventdetailsurl: NCBO Chamber players
 - heading: Trinity Episcopal Cathedral
-  eventdate: 11/13/2022
-  eventtime: 4:00pm
+  eventdate: Nov 13, 2022
+  eventtime: 04:00 PM
   description: Music of Purcell
   venue: 
   address: 1100 Sumter St, Columbia, SC 29201
@@ -108,27 +108,34 @@
   ticketurl: 
   eventimageurl: 
   eventdetailsurl: https://www.trinitysc.org
+- heading: NCBO Strager in a Strange Land
+  eventdate: Nov 18, 2022
+  eventtime: 07:30 PM
+  description: Artistic Director Frances Blaker directs the orchestra in an instrumental program called Stranger in a Strange Land-- a musical story of outsider composers.
 
-
-
-
+  venue: All Souls Cathedral
+  address: 9 Swan St. Asheville, NC
+  mapurl: https://goo.gl/maps/Evj9MaiVMEWYKDBs7
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: 
 - heading: Wake Forest University Choir
-  eventdate: 11/28/2022
-  eventtime: Time TBD
+  eventdate: Nov 28, 2022
+  eventtime: 12:00 AM
   description: Handel's Messiah Singalong
   venue: 
   address: 
   mapurl: 
-  ticketurl: 
+  ticketurl: https://ncbaroqueorchestra.org
   eventimageurl: 
   eventdetailsurl: 
 - heading: St. Paul's Episcopal, Chattanooga, TN
-  eventdate: 12/2/2022
-  eventtime: 
+  eventdate: Dec 2, 2022
+  eventtime: 12:00 AM
   description: Handel's Messiah & BWV 61
   venue: St. Paul's Episcopal
   address: 305 W 7th St, Chattanooga, TN 37402
-  mapurl: 
+  mapurl: https://goo.gl/maps/ouBXHwdsGFCY16au8
   ticketurl: 
   eventimageurl: 
   eventdetailsurl: 
@@ -142,8 +149,8 @@
   eventimageurl: 
   eventdetailsurl: https://spechurch.com/music-calendar/
 - heading: Trinity Episcopal Cathedral
-  eventdate: 12/11/2022
-  eventtime: 4:00pm
+  eventdate: Dec 11, 2022
+  eventtime: 04:00 PM
   description: Handel's Messiah
   venue: Trinity Cathedral1100 Sumter St, Columbia, SC 29201
   address: 
