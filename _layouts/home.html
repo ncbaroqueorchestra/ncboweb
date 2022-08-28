@@ -41,18 +41,25 @@ layout: default
     </div>
 </header>
 <!-- End Header -->
-
+    
 <!-- ======= Hero Section ======= -->
-<section id="hero" class="d-flex flex-column justify-content-end align-items-center" onclick="replaceHeroBackgroundImage()">
+<section id="hero" class="d-flex flex-column justify-content-end align-items-center"> <!-- onclick="replaceHeroBackgroundImage()"> -->
     <div class="hero-container" data-aos="fade-in">
         <h1>North Carolina</h1>
         <h1>Baroque Orchestra</h1>
         <p><span class="typed" data-typed-items="Bringing New Life to Old Music, A Harmonic Adventure, Dramatic, Delightful, Superb"></span></p>
     </div>
+
+    <!-- ======= FrontPage Special Notice Section ======= -->
+    {% include notices.md %}
+    <!-- ======= End of Special Notice Section ====== -->
+
 </section>
 <!-- End Hero -->
 
 <main id="main">
+
+
 
     <!-- ========= Events Section ====== -->
     {% include events.md %} 
