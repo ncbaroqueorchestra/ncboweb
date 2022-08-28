@@ -29,9 +29,11 @@ jobs:
       - name: Run a one-line script
         run: |
           curl -L -o _data/events.pub "https://docs.google.com/spreadsheets/d/e/2PACX-1vRSbLGMUX9nWaqsnS07I5km4wD91aIlvC-A_LEBR3WgJB5HsAyMguf6NbMtq6yi5Hsb-_P7p5lGPlCH/pub?gid=1034468650&single=true&output=csv"
+          curl -L -o _data/notices.pub "https://docs.google.com/spreadsheets/d/e/2PACX-1vRSbLGMUX9nWaqsnS07I5km4wD91aIlvC-A_LEBR3WgJB5HsAyMguf6NbMtq6yi5Hsb-_P7p5lGPlCH/pub?gid=1286428699&single=true&output=csv"
           cat _data/events.pub | sed 's/\"//g' > _data/events.yml
-          rm _data/events.pub
-          echo Completed import of events
+          cat _data/notices.pub | sed 's/\"//g' > _data/notices.yml
+          rm _data/events.pub _data/notices.pub
+          echo Completed import of events and notices
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
