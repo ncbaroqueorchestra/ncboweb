@@ -60,20 +60,20 @@
   eventdetailsurl: https://scbach.org
 - heading: Charlotte Master Chorale
   eventdate: Oct 15, 2022
-  eventtime: 12:00 AM
+  eventtime: 07:30 PM
   description: Bach B Minor Mass
   venue: 
-  address: Charlotte, NC
+  address: Matthews United Methodist Church
   mapurl: 
   ticketurl: 
   eventimageurl: 
   eventdetailsurl: https://charlottemasterchorale.org
-- heading: Venue TBD
+- heading: Charlotte Master Chorale
   eventdate: Oct 16, 2022
-  eventtime: 12:00 AM
-  description: 
+  eventtime: 04:00 PM
+  description: Bach B minor Mass
   venue: 
-  address: TBD
+  address: Myers Park Presbyterian Church
   mapurl: 
   ticketurl: 
   eventimageurl: 
@@ -108,9 +108,10 @@
   ticketurl: 
   eventimageurl: 
   eventdetailsurl: https://www.trinitysc.org
-- heading: NCBO Strager in a Strange Land
+
+- heading: NCBO Stranger in a Strange Land
   eventdate: Nov 18, 2022
-  eventtime: 07:30 PM
+  eventtime: 07:00 PM
   description: Artistic Director Frances Blaker directs the orchestra in an instrumental program called Stranger in a Strange Land-- a musical story of outsider composers.
 
   venue: All Souls Cathedral
