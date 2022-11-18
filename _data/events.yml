@@ -1,34 +1,3 @@
-- heading: St. John's Church Savannah
-  eventdate: Nov 6, 2022
-  eventtime: 05:30 PM
-  description: Prelude music begins at 5:05pm. Solemn Choral Evensong for The Feast of All Saints. Cantatas by Buxtehude and Bach in honor of Mr. Steven Branyon’s 50th anniversary of music ministry.
-  venue: 
-  address: 325 Bull St, Savannah, GA 31401
-  mapurl: 
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: https://stjohnssav.org
-- heading: Carol Woods
-  eventdate: Nov 9, 2022
-  eventtime: 07:30 PM
-  description: NCBO Chamber players. Buxtehude, Telemann & Marais
-  venue: 
-  address: Chapel Hill, NC
-  mapurl: 
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: 
-- heading: Trinity Episcopal Cathedral
-  eventdate: Nov 13, 2022
-  eventtime: 04:00 PM
-  description: Music of Purcell
-  venue: 
-  address: 1100 Sumter St, Columbia, SC 29201
-  mapurl: https://goo.gl/maps/236md5jdBoqKY8AW7
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: https://www.trinitysc.org
-
 - heading: NCBO Stranger in a Strange Land
   eventdate: Nov 18, 2022
   eventtime: 07:00 PM
@@ -187,4 +156,8 @@
 
 
 
+#NUM!
+#NUM!
+#NUM!
+#NUM!
 #NUM!
