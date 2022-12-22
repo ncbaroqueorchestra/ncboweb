@@ -1,23 +1,3 @@
-- heading: St. Paul's Anglican Church, Greenville, SC
-  eventdate: Dec 16, 2022
-  eventtime: 07:00 PM
-  description: Bach, Telemann and Graupner
-  venue: St. Paul's Anglican Church
-  address: 304 E Camperdown Way, Greenville, SC
-  mapurl: 
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: https://scbach.org/20222023-season
-- heading: Central United Methodist Church, Spartanburg, SC
-  eventdate: Dec 17, 2022
-  eventtime: 03:00 PM
-  description: Bach, Telemann and Graupner
-  venue: Central United Methodist 
-  address: 233 N Church St, Spartanburg, SC 29306
-  mapurl: 
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: https://scbach.org/20222023-season
 - heading: Trinity Episcopal Cathedral
   eventdate: Jan 8, 2023
   eventtime: 04:00 PM
@@ -149,6 +129,8 @@
 
 
 
+#NUM!
+#NUM!
 #NUM!
 #NUM!
 #NUM!
