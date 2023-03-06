@@ -45,4 +45,3 @@ If receiving 404 error when accessing either www.* or test.* sites after deploym
 
 1. Make sure that there is no CNAME file in the ncboweb/main repo.
 2. Make sure that the CNAME file in ncboweb/staging is set to 'test.ncbaroqueorchestra.org' and ncboweb-production/prod-site is set to 'www.ncbaroqueorchestra.org'
-
