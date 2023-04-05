@@ -8,19 +8,46 @@
   ticketurl: 
   eventimageurl: 
   eventdetailsurl: trinitysc.org
-- heading: Craven Community College, New Bern, NC
+- heading: Stranger in a Strange Land - New Bern, NC
   eventdate: Apr 20, 2023
   eventtime: 07:30 PM
-  description: NCBO full orchestra directed by Frances Blaker
+  description: A musical story of outsider composers
   venue: Craven Community College Orringer Auditorium
   address: Craven Community College New Bern, NC
-  mapurl: 
+  mapurl: https://goo.gl/maps/ZXZCk8JBZ2Z2K7359
   ticketurl: 
   eventimageurl: 
   eventdetailsurl: https://cravencc.edu/llc/performing-arts-series
-
-
-
+- heading: Stranger in a Strange Land - Kinston, NC
+  eventdate: Apr 21, 2023
+  eventtime: 07:00 PM
+  description: A musical story of outsider composers
+  venue: First Presbyterian Church
+  address: 2101 N Herritage Street, Kinston, NC
+  mapurl: https://goo.gl/maps/pAzE4G19cLwtwRhE9
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: 
+- heading: Stranger in a Strange Land - Durham, NC
+  eventdate: Apr 22, 2023
+  eventtime: 03:00 PM
+  description: A musical story of outsider composers
+  venue: First Presbyterian Church
+  address: 305 E Main Street, Durham, NC
+  mapurl: https://goo.gl/maps/1by1SpSKgtQ3Tkp18
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: 
+- heading: Stranger in a Strange Land - Davidson, NC
+  eventdate: Apr 23, 2023
+  eventtime: 03:00 PM
+  description: A musical story of outsider composers
+  venue: St. Alban's Episcopal Church
+  address: 301 Caldwell Lane, Davidson, NC
+  mapurl: https://goo.gl/maps/V5LMZv2GDpR3rfpf7
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: 
 
 
 
