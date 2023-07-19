@@ -110,16 +110,6 @@
   eventimageurl: 
   eventdetailsurl: https://fpckinston.org
 
-- heading: NCBO at The Hurt Hub
-  eventdate: Dec 14, 2023
-  eventtime: 05:30 PM
-  description: Bach Brandenburg Concerto 4, Corelli Christmas Concerto, Pachelbel Canon, Vivaldi “Folia” and other uplifting favorites.
-  venue: The Hurt Hub
-  address: 210 Delburg Street, Davidson, NC
-  mapurl: https://maps.app.goo.gl/wR4k9WkkD6sp7FA3A?g_st=ic
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: https://hurthub.davidson.edu/
 
 - heading: NCBO at Holy Cross Episcopal
   eventdate: Dec 15, 2023
@@ -222,6 +212,7 @@
 
 
 
+#NUM!
 #NUM!
 #NUM!
 #NUM!
