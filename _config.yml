@@ -2,7 +2,7 @@ title:              NCBO
 email:              ncbaroqueorchestra@gmail.com
 description:        Official website of the North Carolina Baroque Orchestra
 author:             North Carolina Baroque Orchestra. A 501(c)(3) organization.
-baseurl:            "/ncboweb/"
+baseurl:            ""
 url:                ""
 
 # Social Profiles
