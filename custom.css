@@ -18,3 +18,28 @@
     background: rgb(241, 241, 203);
     transition: all ease-in-out 0.2s;
 }
+
+
+.support ul li {
+    list-style-type: none;
+    counter-increment: item;
+    padding: 8px;
+    padding-left: 58px;
+    padding-right: 40px;
+    text-indent: -58px;
+  }
+  
+.support ul li:before {
+    content: counter(item);
+    margin-right: 5px;
+    font-size: 140%;
+    background-color: #f8ec68;
+    color: #7eb4e2;
+    font-weight: bold;
+    padding: 6px 18px;
+    border-radius: 3px;
+}
+    
+.support h2 {
+    margin-top: 20px;
+}
