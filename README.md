@@ -19,6 +19,15 @@ Code repo and test/staging environment for GitHub Pages website
 ## Code
 
 The site is a SPA (single page app) static app using a [Bootstrap template](README-Bootstrap.md) and Jekyll as build engine. Code is primarily in _layouts/home.html
+
+First time setup, run:
+
+        `bundle install`
+
+To test site locally run:
+
+        `bundle exec jekyll serve --baseurl=""`
+
 ## DevOps
 
 Site publishing is handled through GitHub Actions. Once code is committed to ncboweb (main branch), GitHub Actions automatically runs (2-Push to Staging) and pushes code to staging branch where it is accessible through https://test.ncbaroqueorchestra.org.
