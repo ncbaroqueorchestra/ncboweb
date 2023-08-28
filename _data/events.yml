@@ -33,8 +33,19 @@
   eventimageurl: 
   eventdetailsurl: https://trinitysc.org
 
+- heading: Vespers at Trinity Episcopal Cathedral
+  eventdate: Nov 12, 2023
+  eventtime: 04:00 PM
+  description: JS Bach cantata Wachet auf, BWV 140
+  venue: Trinity Episcopal Cathedral
+  address: 1100 Sumter Street, Columbia, SC
+  mapurl: https://maps.app.goo.gl/1yfZf4dY2fMfRsRJA?g_st=ic
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://trinitysc.org
+
 - heading: NCBO with SC Bach
-  eventdate: Oct 17, 2023
+  eventdate: Nov 17, 2023
   eventtime: TBD
   description: JS Bach, cantatas and instrumental music
   venue: 
@@ -45,7 +56,7 @@
   eventdetailsurl: https://scbach.org
 
 - heading: NCBO with SC Bach
-  eventdate: Oct 18, 2023
+  eventdate: Nov 18, 2023
   eventtime: TBD
   description: JS Bach, cantatas and instrumental music
   venue: 
@@ -56,7 +67,7 @@
   eventdetailsurl: https://scbach.org
 
 - heading: NCBO with SC Bach
-  eventdate: Oct 18, 2023
+  eventdate: Nov 19, 2023
   eventtime: TBD
   description: JS Bach, cantatas and instrumental music
   venue: 
@@ -221,8 +232,6 @@
 
 
 
-#NUM!
-#NUM!
 #NUM!
 #NUM!
 #NUM!
