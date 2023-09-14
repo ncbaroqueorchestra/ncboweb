@@ -46,33 +46,33 @@
 
 - heading: NCBO with SC Bach
   eventdate: Nov 17, 2023
-  eventtime: TBD
+  eventtime: 07:00 PM
   description: JS Bach, cantatas and instrumental music
-  venue: 
-  address: 
-  mapurl: 
+  venue: Episcopal Church of the Holy Cross
+  address: 150 Melrose Ave., Tryon, NC 28782
+  mapurl: https://goo.gl/maps/E87idZqifWdLf3DY6
   ticketurl: 
   eventimageurl: 
   eventdetailsurl: https://scbach.org
 
 - heading: NCBO with SC Bach
   eventdate: Nov 18, 2023
-  eventtime: TBD
+  eventtime: 04:00 PM
   description: JS Bach, cantatas and instrumental music
-  venue: 
-  address: 
-  mapurl: 
+  venue: Central United Methodist Church
+  address: 233 North Church Street, Spartanburg, SC
+  mapurl: https://goo.gl/maps/Q7kJcK1kQj13FMBr7
   ticketurl: 
   eventimageurl: 
   eventdetailsurl: https://scbach.org
 
 - heading: NCBO with SC Bach
   eventdate: Nov 19, 2023
-  eventtime: TBD
+  eventtime: 04:00 PM
   description: JS Bach, cantatas and instrumental music
-  venue: 
-  address: 
-  mapurl: 
+  venue: Lutheran Church of the Good Shepherd
+  address: 1601 N. Pleasantburg r. HWY 291, Greenville, SC
+  mapurl: https://goo.gl/maps/DTJMjcvg1FuueTW1A
   ticketurl: 
   eventimageurl: 
   eventdetailsurl: https://scbach.org
@@ -135,7 +135,7 @@
 
 - heading: NCBO at St. Michael's Lutheran
   eventdate: Dec 16, 2023
-  eventtime: TBD
+  eventtime: 07:00 PM
   description: Bach Brandenburg Concerto 4, Corelli Christmas Concerto, Pachelbel Canon, Vivaldi “Folia” and other uplifting favorites.
   venue: St. Michael's Lutheran Church
   address: 2619 Augusta Street, Greenville, SC
@@ -176,6 +176,39 @@
   ticketurl: 
   eventimageurl: 
   eventdetailsurl: https://trinitysc.org
+
+- heading: NCBO with SC Bach
+  eventdate: Mar 22, 2024
+  eventtime: 07:00 PM
+  description: JS Bach, Passion According to St. John - 300th anniversary of the St. John Passion
+  venue: 
+  address: 
+  mapurl: 
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://scbach.org
+
+- heading: NCBO with SC Bach
+  eventdate: Mar 23, 2024
+  eventtime: 07:00 PM
+  description: JS Bach, Passion According to St. John - 300th anniversary of the St. John Passion
+  venue: 
+  address: 
+  mapurl: 
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://scbach.org
+
+- heading: NCBO with SC Bach
+  eventdate: Mar 24, 2024
+  eventtime: 04:00 PM
+  description: JS Bach, Passion According to St. John - 300th anniversary of the St. John Passion
+  venue: Westminister Presbyterian Church
+  address: 2310 Augusta Street, Greenville, SC
+  mapurl: https://goo.gl/maps/QUtNop9u23S6jo746
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://scbach.org
 
 - heading: NCBO Chamber Players
   eventdate: Apr 14, 2024
@@ -232,12 +265,6 @@
 
 
 
-#NUM!
-#NUM!
-#NUM!
-#NUM!
-#NUM!
-#NUM!
 #NUM!
 #NUM!
 #NUM!
