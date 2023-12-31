@@ -1,15 +1,5 @@
 
 
-- heading: NCBO Chamber Players
-  eventdate: Jan 3, 2024
-  eventtime: 07:30 PM
-  description: Basso - Baroque music for bass instruments
-  venue: Carol Woods Retirement Community
-  address: 750 Weaver Dairy Road, Chapel Hill, NC
-  mapurl: https://maps.app.goo.gl/guJfrL5dT5aJDjsC9?g_st=ic
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: https://www.carolwoods.org/
 
 - heading: Vespers at Trinity Episcopal Cathedral
   eventdate: Jan 21, 2024
@@ -80,6 +70,18 @@
   ticketurl: 
   eventimageurl: 
   eventdetailsurl: 
+
+- heading: Vespers at Trinity Episcopal Cathedral
+  eventdate: Feb 11, 2024
+  eventtime: 04:00 PM
+  description: JS Bach, Cantata 230 Lobet Den Herrn. Trinity Cathedral Choirs and NCBO Chamber Players,
+directed by William Douglas
+  venue: Trinity Episcopal Cathedral
+  address: 1100 Sumter Street, Columbia, SC
+  mapurl: https://maps.app.goo.gl/1yfZf4dY2fMfRsRJA?g_st=ic
+  ticketurl: 
+  eventimageurl: 
+  eventdetailsurl: https://trinitysc.org
 
 - heading: NCBO with SC Bach
   eventdate: Mar 22, 2024
