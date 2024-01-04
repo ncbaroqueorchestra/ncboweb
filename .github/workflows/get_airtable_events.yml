@@ -1,0 +1,48 @@
+# Replace events file with updated file from Google Sheets
+name: 1-GetAirtableEvents
+
+# Controls when the workflow will run
+on:
+  issues:
+    types: [labeled]
+
+  # Triggers the workflow on push or pull request events but only for the main branch
+#  push:
+ #   branches: [ main ]
+  #pull_request:
+   # branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    if: ${{ github.event.label.name == 'data_update' }}
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.10
+          cache: 'pip'
+          run: if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: execute py script # run file
+        run: |
+          python my_file.py
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: Steve Hall
+          author_email: srhall@gmail.com
+          message: 'Updated NCBO events'
+          add: '*.yml'
+      - name: Close issue
+        uses: actions-cool/issues-helper@v3
+        with:
+          actions: 'close-issue'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
