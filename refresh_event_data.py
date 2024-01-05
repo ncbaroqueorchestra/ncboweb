@@ -44,6 +44,7 @@ for record in records:
     new_rec['eventdate'] = ny_dt.strftime('%m/%d/%Y')
     new_rec['eventtime'] = ny_dt.strftime('%I:%M %p')
     new_rec['venue'] = fields.get('Venue', '')
+    new_rec['description'] = fields.get('Event info', '')
     new_rec['address'] = fields.get('Address', '')
     new_rec['mapurl'] = fields.get('MapURL', '')
     new_rec['ticketurl'] = fields.get('TicketURL', '')
