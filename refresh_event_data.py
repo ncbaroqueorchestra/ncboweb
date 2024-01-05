@@ -9,7 +9,9 @@ import os
 airtable_base_id = os.environ.get('AIRTABLE_BASE_ID')
 airtable_api_key = os.environ.get('AIRTABLE_API_KEY')
 
-if airtable_base_id or airtable_api_key is None:
+print(f"AIRTABLE_BASE_ID: {airtable_base_id}"  )
+print(f"AIRTABLE_API_KEY: {airtable_api_key}"  )
+if airtable_base_id is None or airtable_api_key is None:
     print(f"Environment variables are not set.")
     exit(1)
 
@@ -49,5 +51,8 @@ for record in records:
     new_rec['eventdetailsurl'] = fields.get('EventDetailsURL', '')
 
     formatted_records.append(new_rec)
+
+# sort formatted_records by eventdate
+formatted_records = sorted(formatted_records, key=lambda k: k['eventdate'])
 
 yaml.dump(formatted_records, default_flow_style=False, allow_unicode=True, stream=open('_data/events.yml', 'w', encoding='utf-8'))
