@@ -1,127 +1,109 @@
-
-
-
-- heading: Vespers at Trinity Episcopal Cathedral
-  eventdate: Jan 21, 2024
-  eventtime: 04:00 PM
-  description: cantatas of JS Bach
-  venue: Trinity Episcopal Cathedral
-  address: 1100 Sumter Street, Columbia, SC
-  mapurl: https://maps.app.goo.gl/1yfZf4dY2fMfRsRJA?g_st=ic
-  ticketurl: 
-  eventimageurl: 
+- address: 1100 Sumter Street, Columbia, SC
+  eventdate: 01/21/2024
   eventdetailsurl: https://trinitysc.org
-
-- heading: Splendid Music from the Time of King George III and Queen Charlotte, Open Dress Rehearsal
-  eventdate: Jan 24, 2024
+  eventimageurl: ''
+  eventtime: 04:00 PM
+  heading: Vespers at Trinity Episcopal Cathedral
+  mapurl: https://maps.app.goo.gl/1yfZf4dY2fMfRsRJA?g_st=ic
+  ticketurl: ''
+  venue: Trinity Episcopal Cathedral
+- address: 100 North Main Street, Davidson, NC
+  eventdate: 01/24/2024
+  eventdetailsurl: ''
+  eventimageurl: ''
   eventtime: 03:00 PM
-  description: Open Dress Rehearsal. NCBO performs music from the time of King George III of England under the direction of our musical director Frances Blaker.
-  venue: Davidson College Presbyterian Church
-  address: 100 North Main Street, Davidson, NC
+  heading: Splendid Music from the Time of King George III and Queen Charlotte, Open
+    Dress Rehearsal
   mapurl: https://maps.app.goo.gl/t89VHt9DkqnJdNLG7
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: 
-
-- heading: Concert-Splendid Music from the Time of King George III and Queen Charlotte
-  eventdate: Jan 25, 2024
-  eventtime: 06:00 PM
-  description: Join the North Carolina Baroque Orchestra in concert for “Splendid Music from the Time of King George III and Queen Charlotte”, including works by Chevalier, Handel, Mozart, Avison and others. The North Carolina Baroque Orchestra performs on period instruments, including baroque strings, oboe, flute, bassoon, harpsichord and theorbo.
-
-  venue: Charlotte Museum of History
-  address: 3500 Shamrock Drive, Charlotte, NC
-  mapurl: https://maps.app.goo.gl/wAJxT4c4pcSw4omQ9
-  ticketurl: 
-  eventimageurl: 
+  ticketurl: ''
+  venue: Davidson College Presbyterian Church
+- address: 3500 Shamrock Drive, Charlotte, NC
+  eventdate: 01/25/2024
   eventdetailsurl: https://charlottemuseum.org/programs-events/events/an-eighteenth-century-evening/
-
-- heading: Concert-Splendid Music from the Time of King George III and Queen Charlotte
-  eventdate: Jan 26, 2024
+  eventimageurl: ''
+  eventtime: 06:00 PM
+  heading: Concert-Splendid Music from the Time of King George III and Queen Charlotte
+  mapurl: https://maps.app.goo.gl/wAJxT4c4pcSw4omQ9
+  ticketurl: ''
+  venue: Charlotte Museum of History
+- address: 207 West John Street, Matthews, NC
+  eventdate: 01/26/2024
+  eventdetailsurl: ''
+  eventimageurl: ''
   eventtime: 07:00 PM
-  description: Join the North Carolina Baroque Orchestra in concert for “Splendid Music from the Time of King George III and Queen Charlotte”, including works by Chevalier, Handel, Mozart, Avison and others. The North Carolina Baroque Orchestra performs on period instruments, including baroque strings, oboe, flute, bassoon, harpsichord and theorbo.
-
-  venue: Matthews Presbyterian Church
-  address: 207 West John Street, Matthews, NC
+  heading: Concert-Splendid Music from the Time of King George III and Queen Charlotte
   mapurl: https://maps.app.goo.gl/pjtk4JGpeGYQNREV9
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: 
-
-- heading: Concert-Splendid Music from the Time of King George III and Queen Charlotte
-  eventdate: Jan 27, 2024
+  ticketurl: ''
+  venue: Matthews Presbyterian Church
+- address: 100 North Main Street, Davidson, NC
+  eventdate: 01/27/2024
+  eventdetailsurl: ''
+  eventimageurl: ''
   eventtime: 07:00 PM
-  description: Join the North Carolina Baroque Orchestra in concert for “Splendid Music from the Time of King George III and Queen Charlotte”, including works by Chevalier, Handel, Mozart, Avison and others. The North Carolina Baroque Orchestra performs on period instruments, including baroque strings, oboe, flute, bassoon, harpsichord and theorbo.
-
-  venue: Davidson College Presbyterian Church
-  address: 100 North Main Street, Davidson, NC
+  heading: Concert-Splendid Music from the Time of King George III and Queen Charlotte
   mapurl: https://maps.app.goo.gl/t89VHt9DkqnJdNLG7
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: 
-
-- heading: Concert-Splendid Music from the Time of King George III and Queen Charlotte
-  eventdate: Jan 28, 2024
+  ticketurl: ''
+  venue: Davidson College Presbyterian Church
+- address: 1700 Fort Bragg Road, Fayetteville, NC
+  eventdate: 01/28/2024
+  eventdetailsurl: ''
+  eventimageurl: ''
   eventtime: 04:00 PM
-  description: Join the North Carolina Baroque Orchestra in concert for “Splendid Music from the Time of King George III and Queen Charlotte”, including works by Chevalier, Handel, Mozart, Avison and others. The North Carolina Baroque Orchestra performs on period instruments, including baroque strings, oboe, flute, bassoon, harpsichord and theorbo. $20 suggested free will offering at the door.
-
-  venue: Haymount United Methodist Church
-  address: 1700 Fort Bragg Road, Fayetteville, NC
+  heading: Concert-Splendid Music from the Time of King George III and Queen Charlotte
   mapurl: https://maps.app.goo.gl/eA95wYqBo2kThPSR9
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: 
-
-- heading: Vespers at Trinity Episcopal Cathedral
-  eventdate: Feb 11, 2024
-  eventtime: 04:00 PM
-  description: JS Bach, Cantata 230 Lobet Den Herrn. Trinity Cathedral Choirs and NCBO Chamber Players. Directed by William Douglas.
-  venue: Trinity Episcopal Cathedral
-  address: 1100 Sumter Street, Columbia, SC
-  mapurl: https://maps.app.goo.gl/1yfZf4dY2fMfRsRJA?g_st=ic
-  ticketurl: 
-  eventimageurl: 
+  ticketurl: ''
+  venue: Haymount United Methodist Church
+- address: ''
+  eventdate: 01/28/2024
+  eventdetailsurl: ''
+  eventimageurl: ''
+  eventtime: 06:30 PM
+  heading: New Event
+  mapurl: ''
+  ticketurl: ''
+  venue: ''
+- address: 1100 Sumter Street, Columbia, SC
+  eventdate: 02/11/2024
   eventdetailsurl: https://trinitysc.org
-
-- heading: NCBO with SC Bach
-  eventdate: Mar 22, 2024
-  eventtime: 07:00 PM
-  description: JS Bach, Passion According to St. John - 300th anniversary of the St. John Passion
-  venue: 
-  address: 
-  mapurl: 
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: https://scbach.org
-
-- heading: NCBO with SC Bach
-  eventdate: Mar 23, 2024
-  eventtime: 07:00 PM
-  description: JS Bach, Passion According to St. John - 300th anniversary of the St. John Passion
-  venue: 
-  address: 
-  mapurl: 
-  ticketurl: 
-  eventimageurl: 
-  eventdetailsurl: https://scbach.org
-
-- heading: NCBO with SC Bach
-  eventdate: Mar 24, 2024
+  eventimageurl: ''
   eventtime: 04:00 PM
-  description: JS Bach, Passion According to St. John - 300th anniversary of the St. John Passion
-  venue: Westminister Presbyterian Church
-  address: 2310 Augusta Street, Greenville, SC
-  mapurl: https://goo.gl/maps/QUtNop9u23S6jo746
-  ticketurl: 
-  eventimageurl: 
+  heading: Vespers at Trinity Episcopal Cathedral
+  mapurl: https://maps.app.goo.gl/1yfZf4dY2fMfRsRJA?g_st=ic
+  ticketurl: ''
+  venue: Trinity Episcopal Cathedral
+- address: ''
+  eventdate: 03/22/2024
   eventdetailsurl: https://scbach.org
-
-- heading: NCBO Chamber Players
-  eventdate: Apr 14, 2024
-  eventtime: 05:00 PM
-  description: Chamber music of Corelli, Bach and Purcell. Freewill offering.
-  venue: The Episcopal Church of the Ascension
-  address: 726 1st Ave. N, Hickory, NC
-  mapurl: https://goo.gl/maps/p3jEkKTwnUctqrsx9
-  ticketurl: 
-  eventimageurl: 
+  eventimageurl: ''
+  eventtime: 07:00 PM
+  heading: NCBO with SC Bach
+  mapurl: ''
+  ticketurl: ''
+  venue: ''
+- address: ''
+  eventdate: 03/23/2024
+  eventdetailsurl: https://scbach.org
+  eventimageurl: ''
+  eventtime: 07:00 PM
+  heading: NCBO with SC Bach
+  mapurl: ''
+  ticketurl: ''
+  venue: ''
+- address: 2310 Augusta Street, Greenville, SC
+  eventdate: 03/24/2024
+  eventdetailsurl: https://scbach.org
+  eventimageurl: ''
+  eventtime: 04:00 PM
+  heading: NCBO with SC Bach
+  mapurl: https://goo.gl/maps/QUtNop9u23S6jo746
+  ticketurl: ''
+  venue: Westminister Presbyterian Church
+- address: 726 1st Ave. N, Hickory, NC
+  eventdate: 04/14/2024
   eventdetailsurl: http://www.ascensionhickory.org/
+  eventimageurl: ''
+  eventtime: 05:00 PM
+  heading: NCBO Chamber Players
+  mapurl: https://goo.gl/maps/p3jEkKTwnUctqrsx9
+  ticketurl: ''
+  venue: The Episcopal Church of the Ascension
