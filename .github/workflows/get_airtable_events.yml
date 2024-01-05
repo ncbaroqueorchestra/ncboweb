@@ -24,7 +24,7 @@ jobs:
           run: if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: execute py script # run file
         run: |
-          python my_file.py
+          python refresh_event_data.py
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
