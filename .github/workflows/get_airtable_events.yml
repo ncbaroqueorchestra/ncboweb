@@ -3,10 +3,9 @@ name: 1-GetAirtableEvents
 
 # Controls when the workflow will run
 on:
+  workflow_dispatch:
   issues:
     types: [labeled]
-
-  workflow_dispatch:
 
 jobs:
   build:
