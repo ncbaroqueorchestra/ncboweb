@@ -46,10 +46,14 @@ for record in records:
     new_rec['venue'] = fields.get('Venue', '')
     new_rec['description'] = fields.get('Event info', '')
     new_rec['address'] = fields.get('Address', '')
-    new_rec['mapurl'] = fields.get('MapURL', '')
-    new_rec['ticketurl'] = fields.get('TicketURL', '')
-    new_rec['eventimageurl'] = fields.get('EventImageURL', '')
-    new_rec['eventdetailsurl'] = fields.get('EventDetailsURL', '')
+    if fields.get('MapURL', '') != '':
+        new_rec['mapurl'] = fields.get('MapURL', '')
+    if fields.get('TicketURL', '') != '':
+        new_rec['ticketurl'] = fields.get('EventDetailsURL', '')
+    if fields.get('EventImageURL', '') != '':
+        new_rec['eventimageurl'] = fields.get('EventImageURL', '')
+    if fields.get('EventDetailsURL', '') != '':
+        new_rec['eventdetailsurl'] = fields.get('EventDetailsURL', '')
 
     formatted_records.append(new_rec)
 
