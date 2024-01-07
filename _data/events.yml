@@ -7,8 +7,11 @@
   mapurl: https://maps.app.goo.gl/1yfZf4dY2fMfRsRJA?g_st=ic
   venue: Trinity Episcopal Cathedral
 - address: 100 North Main Street, Davidson, NC
-  description: Open dress rehearsal. NCBO performs music from the time of King George
+  description: 'Open dress rehearsal. NCBO performs music from the time of King George
     III of England under the direction of our musical director Frances Blaker.
+
+
+    The open rehearsal is Free and open to the public.'
   eventdate: 01/24/2024
   eventtime: 03:00 PM
   heading: Splendid Music from the Time of King George III and Queen Charlotte, Open
@@ -28,11 +31,14 @@
   mapurl: https://maps.app.goo.gl/wAJxT4c4pcSw4omQ9
   venue: Charlotte Museum of History
 - address: 207 West John Street, Matthews, NC
-  description: Join the North Carolina Baroque Orchestra in concert for “Splendid
+  description: 'Join the North Carolina Baroque Orchestra in concert for “Splendid
     Music from the Time of King George III and Queen Charlotte”, including works by
     Chevalier, Handel, Mozart, Avison and others. The North Carolina Baroque Orchestra
     performs on period instruments, including baroque strings, oboe, flute, bassoon,
     harpsichord and theorbo.
+
+
+    The concert is Free and open to the public, but your donations are greatly appreciated.'
   eventdate: 01/26/2024
   eventtime: 07:00 PM
   heading: Concert-Splendid Music from the Time of King George III and Queen Charlotte
@@ -50,11 +56,16 @@
   mapurl: https://maps.app.goo.gl/t89VHt9DkqnJdNLG7
   venue: Davidson College Presbyterian Church
 - address: 1700 Fort Bragg Road, Fayetteville, NC
-  description: Join the North Carolina Baroque Orchestra in concert for “Splendid
+  description: 'Join the North Carolina Baroque Orchestra in concert for “Splendid
     Music from the Time of King George III and Queen Charlotte”, including works by
     Chevalier, Handel, Mozart, Avison and others. The North Carolina Baroque Orchestra
     performs on period instruments, including baroque strings, oboe, flute, bassoon,
     harpsichord and theorbo.
+
+
+    Tickets at the door:
+
+    Suggested donation $20 general, $15 seniors. Students and children free'
   eventdate: 01/28/2024
   eventtime: 04:00 PM
   heading: Concert-Splendid Music from the Time of King George III and Queen Charlotte
@@ -69,22 +80,15 @@
   heading: Vespers at Trinity Episcopal Cathedral
   mapurl: https://maps.app.goo.gl/1yfZf4dY2fMfRsRJA?g_st=ic
   venue: Trinity Episcopal Cathedral
-- address: ''
-  description: JS Bach, Passion According to St. John - 300th anniversary of the St.
-    John Passion
-  eventdate: 03/22/2024
-  eventdetailsurl: https://scbach.org
-  eventtime: 07:00 PM
-  heading: NCBO with SC Bach
-  venue: ''
-- address: ''
+- address: 141 Advent Street, Spartanburg , SC
   description: JS Bach, Passion According to St. John - 300th anniversary of the St.
     John Passion
   eventdate: 03/23/2024
   eventdetailsurl: https://scbach.org
-  eventtime: 07:00 PM
+  eventtime: 04:00 PM
   heading: NCBO with SC Bach
-  venue: ''
+  mapurl: https://maps.app.goo.gl/9fMSszDtTp3UKyDT8
+  venue: Episcopal Church of the Advent
 - address: 2310 Augusta Street, Greenville, SC
   description: JS Bach, Passion According to St. John - 300th anniversary of the St.
     John Passion
