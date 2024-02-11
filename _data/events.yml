@@ -7,6 +7,14 @@
   heading: Vespers at Trinity Episcopal Cathedral
   mapurl: https://maps.app.goo.gl/1yfZf4dY2fMfRsRJA?g_st=ic
   venue: Trinity Episcopal Cathedral
+- address: 98 Wentworth Street, Charleston, SC
+  description: Lenten Music of the Baroque - Directed By Nicholas Quardokus
+  eventdate: 03/13/2024
+  eventdetailsurl: https://www.gracechurchcharleston.org/concert-series
+  eventtime: 07:30 PM
+  heading: NCBO with the choirs of Grace Church Cathedral, Charleston
+  mapurl: https://maps.app.goo.gl/avVvKUssmqeSM7wY6
+  venue: Grace Church Cathedral
 - address: 141 Advent Street, Spartanburg , SC
   description: JS Bach, Passion According to St. John - 300th anniversary of the St.
     John Passion
@@ -25,6 +33,27 @@
   heading: NCBO with SC Bach
   mapurl: https://goo.gl/maps/QUtNop9u23S6jo746
   venue: Westminister Presbyterian Church
+- address: 310 Exploration Blvd. Denver, NC
+  description: Chamber music for flute, violin, and basso continuo.
+  eventdate: 03/26/2024
+  eventtime: 07:30 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/1biYNagSuaKKuceCA
+  venue: Trilogy Lake Norman
+- address: 180 Bald Eagle Drive Lake Frederick, VA
+  description: Chamber music for flute, violin, and basso continuo.
+  eventdate: 03/27/2024
+  eventtime: 07:00 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/5srNyvWETbHAVarv6
+  venue: Trilogy Lake Frederick
+- address: 750 Weaver Dairy Rd., Chapel Hill, NC
+  description: Chamber music for flute, violin, and basso continuo.
+  eventdate: 03/27/2024
+  eventtime: 07:30 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/pNeVqmpXVEGjFMsUA
+  venue: Carol Woods Retirement Community
 - address: 726 1st Ave. N, Hickory, NC
   description: Chamber music of Corelli, Bach and Purcell. Freewill offering.
   eventdate: 04/14/2024
@@ -33,3 +62,17 @@
   heading: NCBO Chamber Players
   mapurl: https://goo.gl/maps/p3jEkKTwnUctqrsx9
   venue: The Episcopal Church of the Ascension
+- address: 2017 6th Ave N, Birmingham, AL 35203
+  description: Handel's oratorio "Messiah," directed by Fred Teardo.
+  eventdate: 04/19/2024
+  eventtime: 06:00 PM
+  heading: Handel's Messiah
+  mapurl: https://maps.app.goo.gl/taXLDRsH2suoqRJLA
+  venue: Cathedral Church of the Advent
+- address: 3115 Providence Road Charlotte, NC
+  description: Marc-Antoine Charpentier's Messe De Minuit, directed by Justin Smith.
+  eventdate: 05/18/2024
+  eventtime: 07:30 PM
+  heading: Charpentier Mass
+  mapurl: https://maps.app.goo.gl/V5PmVQcDMhL1Pd7a8
+  venue: Trinity Presbyterian Church
