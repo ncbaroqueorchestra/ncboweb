@@ -40,13 +40,6 @@
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/1biYNagSuaKKuceCA
   venue: Trilogy Lake Norman
-- address: 180 Bald Eagle Drive Lake Frederick, VA
-  description: Chamber music for flute, violin, and basso continuo.
-  eventdate: 03/27/2024
-  eventtime: 07:00 PM
-  heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/5srNyvWETbHAVarv6
-  venue: Trilogy Lake Frederick
 - address: 750 Weaver Dairy Rd., Chapel Hill, NC
   description: Chamber music for flute, violin, and basso continuo.
   eventdate: 03/27/2024
@@ -54,6 +47,13 @@
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/pNeVqmpXVEGjFMsUA
   venue: Carol Woods Retirement Community
+- address: 180 Bald Eagle Drive Lake Frederick, VA
+  description: Chamber music for flute, violin, and basso continuo.
+  eventdate: 03/28/2024
+  eventtime: 07:00 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/5srNyvWETbHAVarv6
+  venue: Trilogy Lake Frederick
 - address: 726 1st Ave. N, Hickory, NC
   description: Chamber music of Corelli, Bach and Purcell. Freewill offering.
   eventdate: 04/14/2024
