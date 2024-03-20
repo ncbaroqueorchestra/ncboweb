@@ -24,9 +24,20 @@ First time setup, run:
 
         `bundle install`
 
+If errors, carefully follow instructions on installing jekyll (ex: https://jekyllrb.com/docs/installation/ubuntu/)
+
 To test site locally run:
 
         `bundle exec jekyll serve --baseurl=""`
+
+To run jekyll on a server and host, run:
+
+        `bundle exec jekyll serve --baseurl="" --host 0.0.0.0`
+
+
+## Refresh Events Script
+
+Events are maintained in AirTable. There is a script `refresh_event_data.py` that runs in GitHub Actions to pull new event data into the site. Once events are loaded, the site must be published to staging and the production...again with GitHub Actions.
 
 ## DevOps
 
