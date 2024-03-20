@@ -48,16 +48,10 @@ If everything checks out after a manual inspection of the test site, the Action 
 ### Sequence Diagram
 ```mermaid
 sequenceDiagram
-    Google Sheet->>+ncboweb-main: GitHub Actions 1-Get Events
+    AirTable Data->>+ncboweb-main: GitHub Actions 1-Get Events
     ncboweb-main->>+ncboweb-staging: GitHub Actions 2-Push to Staging
     ncboweb-main->>+ncboweb-production-prod-site: GitHub Actions 3-Deploy to Production
 ```
-
-## Google Sheet (Events and Notices Info)
-
-Donor names are retrieved from a [publicly published](https://support.google.com/docs/answer/183965?hl=en&co=GENIE.Platform%3DDesktop#:~:text=%20Publish%20file%20%201%20In%20Google%20Docs%2C,quickly%20to%20advanc...%206%20Click%20Publish.%20More%20) Google Sheet. A GitHub action retrieves the data from each of the tabs on the sheet that are formatted for Markdown and stores it in associated files (_data/events.yml & _data/notices.yml). This action is run manually anytime spreadsheet data changes.
-
-[Google Sheet](https://docs.google.com/spreadsheets/d/1s8rtxz4RuO8eknorelIU73sraxMn-AJCx_JjsBq4ZOs/edit#gid=1551757575)
 
 ## Troubleshooting
 
