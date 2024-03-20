@@ -234,10 +234,22 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
 }
+/* testing iPad adjustment
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
   }
+*/
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (-webkit-min-device-pixel-ratio: 1) {
+  #hero {
+    height: auto; /* Adjust height */
+    min-height: 1024px; /* Set a minimum height */
+    background-size: auto 100%; /* Adjust background size */
+  }
+}
 }
 @media (max-width: 768px) {
   #hero h1 {
