@@ -1,126 +1,168 @@
-- donorname: Jacqueline Dienemann
-  level: Friends of Couperin
-  sortname: Dienemann
-- donorname: Charles and Mary Emerich
-  level: Friends of Couperin
-  sortname: Emerich
-- donorname: Doug Flack and Judy Harris
-  level: Friends of Couperin
-  sortname: Flack
-- donorname: Elizabeth Hindal
-  level: Friends of Couperin
-  sortname: Hindal
-- donorname: Marta Howard
-  level: Friends of Couperin
-  sortname: Howard
-- donorname: Cara Jokell
-  level: Friends of Couperin
-  sortname: Jokell
-- donorname: Rosemary and Ben Klein
-  level: Friends of Couperin
-  sortname: Klein
-- donorname: Helene Neergaard
-  level: Friends of Couperin
-  sortname: Neergaard
-- donorname: William Rahn
-  level: Friends of Couperin
-  sortname: Rahn
-- donorname: Suzanne Rousso
-  level: Friends of Couperin
-  sortname: Rousso
-- donorname: William Stewart
-  level: Friends of Couperin
-  sortname: Stewart
-- donorname: Susan and Guy Beaumont
-  level: Friends of Handel
-  sortname: Beaumont
-- donorname: Catherine Mowry
-  level: Friends of Handel
-  sortname: Mowry
-- donorname: Lance Pedigo
-  level: Friends of Handel
-  sortname: Pedigo
-- donorname: Matt and Cristina Shaul
-  level: Friends of Handel
-  sortname: Shaul
-- donorname: Alice and Al Sudduth
-  level: Friends of Handel
-  sortname: Sudduth
 - donorname: Letitia Berlin
   level: Friends of Telemann
+  levelnumber: 1
   sortname: Berlin
 - donorname: Frances Blaker
   level: Friends of Telemann
+  levelnumber: 1
   sortname: Blaker
 - donorname: Franklin Canning
   level: Friends of Telemann
+  levelnumber: 1
   sortname: Canning
 - donorname: Hyon Suk Cartee
   level: Friends of Telemann
+  levelnumber: 1
   sortname: Cartee
 - donorname: Renee Garner
   level: Friends of Telemann
+  levelnumber: 1
   sortname: Garner
 - donorname: Josiah Marineau
   level: Friends of Telemann
+  levelnumber: 1
   sortname: Marineau
 - donorname: Kelly Nivison
   level: Friends of Telemann
+  levelnumber: 1
   sortname: Nivison
 - donorname: Benjamin Sackmary
   level: Friends of Telemann
+  levelnumber: 1
   sortname: Sackmary
+- donorname: Jacqueline Dienemann
+  level: Friends of Couperin
+  levelnumber: 2
+  sortname: Dienemann
+- donorname: Charles and Mary Emerich
+  level: Friends of Couperin
+  levelnumber: 2
+  sortname: Emerich
+- donorname: Doug Flack and Judy Harris
+  level: Friends of Couperin
+  levelnumber: 2
+  sortname: Flack
+- donorname: Elizabeth Hindal
+  level: Friends of Couperin
+  levelnumber: 2
+  sortname: Hindal
+- donorname: Marta Howard
+  level: Friends of Couperin
+  levelnumber: 2
+  sortname: Howard
+- donorname: Cara Jokell
+  level: Friends of Couperin
+  levelnumber: 2
+  sortname: Jokell
+- donorname: Rosemary and Ben Klein
+  level: Friends of Couperin
+  levelnumber: 2
+  sortname: Klein
+- donorname: Helene Neergaard
+  level: Friends of Couperin
+  levelnumber: 2
+  sortname: Neergaard
+- donorname: William Rahn
+  level: Friends of Couperin
+  levelnumber: 2
+  sortname: Rahn
+- donorname: Suzanne Rousso
+  level: Friends of Couperin
+  levelnumber: 2
+  sortname: Rousso
+- donorname: William Stewart
+  level: Friends of Couperin
+  levelnumber: 2
+  sortname: Stewart
 - donorname: Jan Blodgett
   level: Friends of Vivaldi
+  levelnumber: 3
   sortname: Blodgett
 - donorname: Jane and Larry Cain
   level: Friends of Vivaldi
+  levelnumber: 3
   sortname: Cain
 - donorname: Richard and Jody Carver
   level: Friends of Vivaldi
+  levelnumber: 3
   sortname: Carver
 - donorname: Richard Crandall
   level: Friends of Vivaldi
+  levelnumber: 3
   sortname: Crandall
 - donorname: Katherine Goodson
   level: Friends of Vivaldi
+  levelnumber: 3
   sortname: Goodson
 - donorname: Suzanne Johnson
   level: Friends of Vivaldi
+  levelnumber: 3
   sortname: Johnson
 - donorname: Deborah McRae
   level: Friends of Vivaldi
+  levelnumber: 3
   sortname: McRae
 - donorname: Mike and Susan Melton
   level: Friends of Vivaldi
+  levelnumber: 3
   sortname: Melton
 - donorname: Martha Perry-Heartland Baroque
   level: Friends of Vivaldi
+  levelnumber: 3
   sortname: Perry
 - donorname: Robert and Frances Thomas
   level: Friends of Vivaldi
+  levelnumber: 3
   sortname: Thomas
 - donorname: David Wilson
   level: Friends of Vivaldi
+  levelnumber: 3
   sortname: Wilson
+- donorname: Susan and Guy Beaumont
+  level: Friends of Handel
+  levelnumber: 4
+  sortname: Beaumont
+- donorname: Catherine Mowry
+  level: Friends of Handel
+  levelnumber: 4
+  sortname: Mowry
+- donorname: Lance Pedigo
+  level: Friends of Handel
+  levelnumber: 4
+  sortname: Pedigo
+- donorname: Matt and Cristina Shaul
+  level: Friends of Handel
+  levelnumber: 4
+  sortname: Shaul
+- donorname: Alice and Al Sudduth
+  level: Friends of Handel
+  levelnumber: 4
+  sortname: Sudduth
 - donorname: 'George Bohmfalk '
   level: The Bach Family
+  levelnumber: 5
   sortname: Bohmfalk
 - donorname: Mary and Kent Carpenter
   level: The Bach Family
+  levelnumber: 5
   sortname: Carpenter
 - donorname: Paul and Kay Keller
   level: The Bach Family
+  levelnumber: 5
   sortname: Keller
 - donorname: Chuck and Judy Latham
   level: The Bach Family
+  levelnumber: 5
   sortname: Latham
 - donorname: Thomas and Kim Miller
   level: The Bach Family
+  levelnumber: 5
   sortname: Miller
 - donorname: Edmund Plake
   level: The Bach Family
+  levelnumber: 5
   sortname: Plake
 - donorname: Price and Margaret Zimmermann
   level: The Bach Family
+  levelnumber: 5
   sortname: Zimmermann

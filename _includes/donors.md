@@ -10,19 +10,29 @@
         
         <div class="container" style="padding-top:40px">
         <h1>Donors</h1>
-        <div class="row row-cols-1 row-cols-md-3 g-4">
+        <div class="row row-cols-1  row-cols-md-3 g-4">
+        {% assign currentLevel = 0 %}
         {% for donor in site.data.donors %}
-            <div class="col">
-                <div class="card" >
-                    <!-- <img src="..." class="card-img-top" alt="..."> -->
-                    <div class="card-body">
-                        <h5 class="card-title">{{ donor.donorname }}</h5>
-                        <p class="card-text">{{ donor.level }}</p>
+            {% if currentLevel != donor.levelnumber %}
+                {% if currentLevel != 0 %}
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+                <div class="col">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-text">{{ donor.level }}</h5>
+                {% assign currentLevel = donor.levelnumber %}
+            {% endif %}
+        
+                        <p class="card-title" style="margin-left:10px">{{ donor.donorname }}</p>
                         
+
+        {% endfor %}
                     </div>
                 </div>
             </div>
-        {% endfor %}
         </div>
     </div>
 

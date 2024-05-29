@@ -26,11 +26,12 @@ for record in records:
     new_rec['donorname'] = fields.get('Name', '')
     new_rec['level'] = fields.get('Level', '')
     new_rec['sortname'] = fields.get('SortName', '')
-
+    new_rec['levelnumber'] = fields.get('LevelNumber', '')
+    
 
     formatted_records.append(new_rec)
 
 # Sort formatted_records by level, then by sortname
-formatted_records = sorted(formatted_records, key=lambda x: (x['level'], x['sortname']))
+formatted_records = sorted(formatted_records, key=lambda x: (x['levelnumber'], x['sortname']))
 
 yaml.dump(formatted_records, default_flow_style=False, allow_unicode=True, stream=open('_data/donors.yml', 'w', encoding='utf-8'))
