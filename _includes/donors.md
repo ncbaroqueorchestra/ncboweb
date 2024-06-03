@@ -1,4 +1,4 @@
-<section class="portfolio section-bg" id="events">
+<section class="portfolio section-bg" id="donors">
     <div class="container">
 
         <div class="section-title">
