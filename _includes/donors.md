@@ -8,8 +8,7 @@
 
     <div class="container">
         
-        <div class="container" style="padding-top:40px">
-        <h1>Donors</h1>
+        <div class="container">
         <div class="row row-cols-1  row-cols-md-3 g-4">
         {% assign currentLevel = 0 %}
         {% for donor in site.data.donors %}
