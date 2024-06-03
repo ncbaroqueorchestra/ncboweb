@@ -1,4 +1,4 @@
-# Refresh event data from NCBO Airtable
+# Refresh donor data from NCBO Airtable
 from airtable import Airtable
 import json
 import yaml

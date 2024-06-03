@@ -1,5 +1,5 @@
-# Refreshes events from NCBO Airtable
-name: 1-GetAirtableEvents
+# Refreshes donors and events from NCBO Airtable
+name: 1-GetAirtableData
 
 # Controls when the workflow will run
 on:
@@ -26,6 +26,8 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Refresh events from Airtable
         run: AIRTABLE_API_KEY=${{ secrets.AIRTABLE_API_KEY }} AIRTABLE_BASE_ID=${{ secrets.AIRTABLE_BASE_ID }} python refresh_event_data.py
+      - name: Refresh donors from Airtable
+        run: AIRTABLE_API_KEY=${{ secrets.AIRTABLE_API_KEY }} AIRTABLE_BASE_ID=${{ secrets.AIRTABLE_BASE_ID }} python refresh_donors.py
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
