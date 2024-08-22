@@ -49,7 +49,7 @@ for record in records:
     if fields.get('MapURL', '') != '':
         new_rec['mapurl'] = fields.get('MapURL', '')
     if fields.get('TicketURL', '') != '':
-        new_rec['ticketurl'] = fields.get('EventDetailsURL', '')
+        new_rec['ticketurl'] = fields.get('TicketURL', '')
     if fields.get('EventImageURL', '') != '':
         new_rec['eventimageurl'] = fields.get('EventImageURL', '')
     if fields.get('EventDetailsURL', '') != '':
