@@ -59,7 +59,7 @@
   eventtime: 06:30 PM
   heading: JS Bach and his Contemporaries
   mapurl: https://maps.app.goo.gl/nQGFmgQGXzj6cK447
-  ticketurl: 'https://www.lcactickets.org'
+  ticketurl: https://www.lcactickets.org
   venue: Lancaster Cultural Arts Center
 - address: 301 Caldwell Lane, Davidson, NC
   description: 'The North Carolina Baroque Orchestra directed by Frances Blaker presents
@@ -69,5 +69,5 @@
   eventtime: 03:00 PM
   heading: JS Bach and his Contemporaries
   mapurl: https://maps.app.goo.gl/vwBspaCakZzsrCtq8
-  ticketurl: 'https://www.musicatstalbansdavidson.org'
+  ticketurl: https://www.musicatstalbansdavidson.org
   venue: St. Alban's Episcopal Church
