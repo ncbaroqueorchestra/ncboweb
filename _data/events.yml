@@ -123,9 +123,9 @@
   venue: Trinity Episcopal Cathedral
 - address: 1840 Selwyn Avenue, Charlotte, NC 28274
   description: "\"And the angel said unto them:\" music old and new celebrating the\
-    \ divine proclamation of the heavenly host. \n\nJS Bach, Magnificat\nGiacamo Perti,\
-    \ Magnificat (modern premiere performance)\nRihards Dubra, Stetit Angelus\n\n\
-    Royal Voices of Charlotte, Justin Smith, director"
+    \ divine proclamation of the heavenly host. \n\nJS Bach, Magnificat\n\nGiacamo\
+    \ Perti, Magnificat (modern premiere performance)\n\nRihards Dubra, Stetit Angelus\n\
+    \nRoyal Voices of Charlotte, Justin Smith, director"
   eventdate: 11/13/2024
   eventdetailsurl: https://calendar.queens.edu/event/royal-voices-north-carolina-baroque-orchestra-concert
   eventtime: 07:30 PM
@@ -144,13 +144,13 @@
   eventtime: 03:00 PM
   heading: SC Bach
   venue: Greenville
-- address: 6844 Shoal Creek Dr, Denver, NC
+- address: 310 Exploration Blvd, Denver, NC
   description: '"Out Of Italy:" the NCBO Chamber Players presents a program featuring
     Lisa Liske, cello, Barbara Blaker Krumdieck, cello, and Francis Yun, harpsichord.'
   eventdate: 11/19/2024
   eventtime: 04:00 PM
   heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/xXSqfADhMGPWBaYB8
+  mapurl: https://maps.app.goo.gl/bvbpa7PxcurxzHeP9
   venue: Trilogy Lake Norman
 - address: 750 Weaver Dairy Road, Chapel Hill, NC
   description: '"Out Of Italy:" the NCBO Chamber Players presents a program featuring
@@ -160,13 +160,15 @@
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/gNKrVJ6jBFzXtzZAA
   venue: Carol Woods Retirement Community
-- address: ''
+- address: 112 S. Salisbury Street, Raleigh, NC
   description: '"Out Of Italy:" the NCBO Chamber Players presents a program featuring
-    Lisa Liske, cello, Barbara Blaker Krumdieck, cello, and Francis Yun, harpsichord.'
+    Lisa Liske, cello, Barbara Blaker Krumdieck, cello, and Francis Yun, harpsichord.
+    Free and open to the public.'
   eventdate: 11/23/2024
-  eventtime: 07:00 PM
+  eventtime: 03:00 PM
   heading: NCBO Chamber Players
-  venue: Raleigh
+  mapurl: https://maps.app.goo.gl/FAQEvk6RQ47GQgWm9
+  venue: First Presbyterian Chuch
 - address: 2101 N. Herritage St., Kinston, NC
   description: Handel's "Messiah" with the Kinston-Lenoir Community Chorus.
   eventdate: 12/09/2024
@@ -199,11 +201,15 @@
 
     Guest Soprano: Kathryn Knauer
 
+
     Violins: David Wilson & Martie Perry
+
 
     Recorders: Frances Blaker & Tish Berlin
 
+
     Harpsichord: Barbara Weiss
+
 
     Cello: Barbara Krumdieck'
   eventdate: 12/20/2024
@@ -219,11 +225,15 @@
 
     Guest Soprano: Kathryn Knauer
 
+
     Violins: David Wilson & Martie Perry
+
 
     Recorders: Frances Blaker & Tish Berlin
 
+
     Harpsichord: Barbara Weiss
+
 
     Cello: Barbara Krumdieck'
   eventdate: 12/21/2024
@@ -239,11 +249,15 @@
 
     Guest Soprano: Kathryn Knauer
 
+
     Violins: David Wilson & Martie Perry
+
 
     Recorders: Frances Blaker & Tish Berlin
 
+
     Harpsichord: Barbara Weiss
+
 
     Cello: Barbara Krumdieck'
   eventdate: 12/22/2024
@@ -251,9 +265,10 @@
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/ETjmoZLPD7UYvfPr6
   venue: Lancaster Cultural Arts Center
-- address: ''
-  description: ''
+- address: 125 N. Meeting Street, Statesville, NC
+  description: Christmas Eve prelude music and church service
   eventdate: 12/24/2024
-  eventtime: 06:00 PM
+  eventtime: 05:30 PM
   heading: Christmas Eve service
-  venue: Statesville
+  mapurl: https://maps.app.goo.gl/Mi4xEAZhNMV9ifTPA
+  venue: First Presbyterian Church
