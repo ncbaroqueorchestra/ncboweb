@@ -55,7 +55,10 @@ for record in records:
     if fields.get('EventDetailsURL', '') != '':
         new_rec['eventdetailsurl'] = fields.get('EventDetailsURL', '')
 
-    formatted_records.append(new_rec)
+
+    #only append if date has not passed
+    if utc_dt > datetime.now(pytz.utc):
+        formatted_records.append(new_rec)
 
 # sort formatted_records by eventdate
 formatted_records = sorted(formatted_records, key=lambda k: k['eventdate'])
