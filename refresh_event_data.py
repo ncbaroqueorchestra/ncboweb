@@ -19,6 +19,7 @@ airtable = Airtable(airtable_base_id, 'Events', api_key=airtable_api_key)
 
 records = airtable.get_all()
 formatted_records = []
+expired_events = []
 
 for record in records:
     new_rec = {}
@@ -59,8 +60,15 @@ for record in records:
     #only append if date has not passed
     if utc_dt > datetime.now(pytz.utc):
         formatted_records.append(new_rec)
+    else:
+        expired_events.append(new_rec)
 
 # sort formatted_records by eventdate
 formatted_records = sorted(formatted_records, key=lambda k: k['eventdate'])
+expired_events = sorted(expired_events, key=lambda k: k['eventdate'],
+                        reverse=True)
 
 yaml.dump(formatted_records, default_flow_style=False, allow_unicode=True, stream=open('_data/events.yml', 'w', encoding='utf-8'))
+yaml.dump(expired_events, default_flow_style=False, allow_unicode=True,
+          stream=open('_data/past_events.yml', 'w', encoding='utf-8'))
+
