@@ -1,110 +1,3 @@
-- address: 1100 Sumter Street, Columbia, SC 29201
-  description: Episcopal Vespers service featuring Bach's cantata 118, O Jesu Christ,
-    mein's Leben's Licht.
-  eventdate: 01/26/2025
-  eventtime: 04:00 PM
-  heading: Bach Vespers at Trinity Episcopal Cathedral
-  mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
-  venue: Trinity Episcopal Cathedral
-- address: ''
-  description: NCBO Chamber Players (Sung Lee, oboe, Janelle Davis, violin and viola,
-    David Wilson, viola, Barbara Krumdieck, cello) presents "The Oboe in the Time
-    of Mozart," quartets for oboe and strings by František Kramár, Johann Gottlieb
-    Janitsch, and Wolfgang Amadeus Mozart.
-  eventdate: 01/30/2025
-  eventtime: 07:30 PM
-  heading: NCBO Chamber Players
-  venue: Central Piedmont Community College
-- address: ''
-  description: NCBO Chamber Players (Frances Blaker, recorders, Jeanne Johnson, violin,
-    Barbara Krumdieck, cello, Barbara Weiss, harpsichord) presents a program of 17th
-    century chamber music.
-  eventdate: 02/13/2025
-  eventtime: 07:00 PM
-  heading: NCBO Chamber Players
-  venue: ''
-- address: ''
-  description: NCBO Chamber Players (Frances Blaker, recorders, Jeanne Johnson, violin,
-    Barbara Krumdieck, cello, Barbara Weiss, harpsichord) presents a program of 17th
-    century chamber music.
-  eventdate: 02/14/2025
-  eventtime: 07:00 PM
-  heading: NCBO Chamber Players
-  venue: ''
-- address: ''
-  description: NCBO Chamber Players (Frances Blaker, recorders, Jeanne Johnson, violin,
-    Barbara Krumdieck, cello, Barbara Weiss, harpsichord) presents a program of 17th
-    century chamber music.
-  eventdate: 02/15/2025
-  eventtime: 07:00 PM
-  heading: NCBO Chamber Players
-  venue: ''
-- address: 520 Summit St, Winston-Salem, NC
-  description: NCBO Chamber Players (Martie Perry and David Wilson, violins, Barbara
-    Krumdieck, cello, Barbara Weiss, harpsichord) play music of JS Bach and Arcangelo
-    Corelli, in a concert presented by the Friends of Music at St. Paul's Episcopal
-    Church in Winston-Salem. $20 donation requested.
-  eventdate: 02/20/2025
-  eventtime: 07:00 PM
-  heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/LpeBmGg3huuKH98c8
-  venue: St. Paul's Episcopal Church
-- address: 350 E Massachusetts Ave, Southern Pines, NC
-  description: NCBO Chamber Players (Martie Perry and David Wilson, violins, Barbara
-    Krumdieck, cello, Barbara Weiss, harpsichord) plays music of JS Bach and Arcangelo
-    Corelli.
-  eventdate: 02/21/2025
-  eventtime: 12:00 PM
-  heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/cA9rAd8EBYuNLJyD7
-  venue: Emmanuel Episcopal Church
-- address: 204 W Salisbury St, Pittsboro, NC
-  description: NCBO Chamber Players (Martie Perry and David Wilson, violins, Barbara
-    Krumdieck, cello, Barbara Weiss, harpsichord) plays music of JS Bach and Arcangelo
-    Corelli.
-  eventdate: 02/22/2025
-  eventtime: 03:00 PM
-  heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/krUDA4MKxhCvrHoY7
-  venue: St. Bartholomew Episcopal Church
-- address: 1100 Sumter Street, Columbia, SC 29201
-  description: Episcopal Vespers service with the choirs of Trinity Episcopal Cathedral,
-    featuring Bach's cantata 127, Herr Jesu Christ, wahr' Mensch und Gott.
-  eventdate: 02/23/2025
-  eventtime: 04:00 PM
-  heading: Bach Vespers at Trinity Episcopal Cathedral
-  mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
-  venue: Trinity Episcopal Cathedral
-- address: 1200 W Cornwallis Rd, Durham, NC
-  description: NCBO Chamber Players (Sung Lee, oboe, Janelle Davis, violin and viola,
-    David Wilson, viola, Barbara Krumdieck, cello) presents "The Oboe in the Time
-    of Mozart," quartets for oboe and strings by František Kramár, Johann Gottlieb
-    Janitsch, and Wolfgang Amadeus Mozart. This concert is part of the North Carolina
-    H.I.P. Festival.
-  eventdate: 03/01/2025
-  eventtime: 03:00 PM
-  heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/1ZKUvkT2KS4KPjLv7
-  venue: St. Paul's Lutheran Church
-- address: 213 W Home Ave, Hartsville, SC
-  description: NCBO Chamber Players (David Wilson, violin, Barbara Krumdieck, cello)
-    with organist Nick Quardokus perform on First Presbyterian's First Friday Concert
-    Series.
-  eventdate: 03/07/2025
-  eventdetailsurl: https://visithartsvillesc.com/series/first-friday-concert-series/
-  eventtime: 12:00 PM
-  heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/7kJesFXKprHEg7Jy6
-  venue: First Presbyterian Church
-- address: 1100 Sumter Street, Columbia, SC 29201
-  description: Episcopal Vespers service with the NCBO Viol Consort (lead by Gail
-    Schroeder) and the choirs of Trinity Episcopal Cathedral, featuring music by Orlando
-    Gibbons.
-  eventdate: 05/01/2025
-  eventtime: 04:00 PM
-  heading: Vespers at Trinity Episcopal Cathedral
-  mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
-  venue: Trinity Episcopal Cathedral
 - address: 2101 N Herritage St, Kinston, NC 28501
   description: Handel's "Messiah" with the Kinston-Lenoir Community Chorus.
   eventdate: 12/09/2024
@@ -112,6 +5,7 @@
   eventtime: 07:00 PM
   heading: Messiah in Kinston
   mapurl: https://maps.app.goo.gl/iFT8MZSuyJfWCvXh7
+  sortdate: '20241209'
   venue: First Presbyterian Church
 - address: 16 N 16th St, Wilmington, NC 28401
   description: Handel's "Messiah" with the choir of St. Paul's Episcopal Church, Wilmington,
@@ -120,6 +14,7 @@
   eventtime: 07:30 PM
   heading: Messiah in Wilmington
   mapurl: https://maps.app.goo.gl/4GxLqBrHRS6uKMuZ8
+  sortdate: '20241213'
   venue: St. Paul's Episcopal Church
 - address: 1100 Sumter Street, Columbia, SC 29201
   description: Handel's "Messiah" with the choirs of Trinity Episcopal Cathedral,
@@ -128,6 +23,7 @@
   eventtime: 04:00 PM
   heading: Messiah in Columbia, SC
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
+  sortdate: '20241215'
   venue: Trinity Episcopal Cathedral
 - address: 2619 Augusta St, Greenville, SC
   description: '"Glorious Baroque Music to Celebrate the Holidays"
@@ -152,6 +48,7 @@
   eventtime: 07:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/wFEcqAAXeaBrPn4K8
+  sortdate: '20241220'
   venue: St. Michael's Lutheran Church
 - address: 6844 Shoal Creek Dr, Denver, NC
   description: '"Glorious Baroque Music to Celebrate the Holidays"
@@ -176,6 +73,7 @@
   eventtime: 11:30 AM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/xXSqfADhMGPWBaYB8
+  sortdate: '20241221'
   venue: Trilogy Lake Norman
 - address: 309 W Gay St, Lancaster, SC
   description: '"Glorious Baroque Music to Celebrate the Holidays"
@@ -200,6 +98,7 @@
   eventtime: 03:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/ETjmoZLPD7UYvfPr6
+  sortdate: '20241222'
   venue: Lancaster Cultural Arts Center
 - address: 125 N. Meeting Street, Statesville, NC
   description: Christmas Eve prelude music and church service
@@ -207,4 +106,124 @@
   eventtime: 05:30 PM
   heading: Christmas Eve service
   mapurl: https://maps.app.goo.gl/Mi4xEAZhNMV9ifTPA
+  sortdate: '20241224'
   venue: First Presbyterian Church
+- address: 1100 Sumter Street, Columbia, SC 29201
+  description: Episcopal Vespers service featuring Bach's cantata 118, O Jesu Christ,
+    mein's Leben's Licht.
+  eventdate: 01/26/2025
+  eventtime: 04:00 PM
+  heading: Bach Vespers at Trinity Episcopal Cathedral
+  mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
+  sortdate: '20250126'
+  venue: Trinity Episcopal Cathedral
+- address: ''
+  description: NCBO Chamber Players (Sung Lee, oboe, Janelle Davis, violin and viola,
+    David Wilson, viola, Barbara Krumdieck, cello) presents "The Oboe in the Time
+    of Mozart," quartets for oboe and strings by František Kramár, Johann Gottlieb
+    Janitsch, and Wolfgang Amadeus Mozart.
+  eventdate: 01/30/2025
+  eventtime: 07:30 PM
+  heading: NCBO Chamber Players
+  sortdate: '20250130'
+  venue: Central Piedmont Community College
+- address: ''
+  description: NCBO Chamber Players (Frances Blaker, recorders, Jeanne Johnson, violin,
+    Barbara Krumdieck, cello, Barbara Weiss, harpsichord) presents a program of 17th
+    century chamber music.
+  eventdate: 02/13/2025
+  eventtime: 07:00 PM
+  heading: NCBO Chamber Players
+  sortdate: '20250213'
+  venue: ''
+- address: ''
+  description: NCBO Chamber Players (Frances Blaker, recorders, Jeanne Johnson, violin,
+    Barbara Krumdieck, cello, Barbara Weiss, harpsichord) presents a program of 17th
+    century chamber music.
+  eventdate: 02/14/2025
+  eventtime: 07:00 PM
+  heading: NCBO Chamber Players
+  sortdate: '20250214'
+  venue: ''
+- address: ''
+  description: NCBO Chamber Players (Frances Blaker, recorders, Jeanne Johnson, violin,
+    Barbara Krumdieck, cello, Barbara Weiss, harpsichord) presents a program of 17th
+    century chamber music.
+  eventdate: 02/15/2025
+  eventtime: 07:00 PM
+  heading: NCBO Chamber Players
+  sortdate: '20250215'
+  venue: ''
+- address: 520 Summit St, Winston-Salem, NC
+  description: NCBO Chamber Players (Martie Perry and David Wilson, violins, Barbara
+    Krumdieck, cello, Barbara Weiss, harpsichord) play music of JS Bach and Arcangelo
+    Corelli, in a concert presented by the Friends of Music at St. Paul's Episcopal
+    Church in Winston-Salem. $20 donation requested.
+  eventdate: 02/20/2025
+  eventtime: 07:00 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/LpeBmGg3huuKH98c8
+  sortdate: '20250220'
+  venue: St. Paul's Episcopal Church
+- address: 350 E Massachusetts Ave, Southern Pines, NC
+  description: NCBO Chamber Players (Martie Perry and David Wilson, violins, Barbara
+    Krumdieck, cello, Barbara Weiss, harpsichord) plays music of JS Bach and Arcangelo
+    Corelli.
+  eventdate: 02/21/2025
+  eventtime: 12:00 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/cA9rAd8EBYuNLJyD7
+  sortdate: '20250221'
+  venue: Emmanuel Episcopal Church
+- address: 204 W Salisbury St, Pittsboro, NC
+  description: NCBO Chamber Players (Martie Perry and David Wilson, violins, Barbara
+    Krumdieck, cello, Barbara Weiss, harpsichord) plays music of JS Bach and Arcangelo
+    Corelli.
+  eventdate: 02/22/2025
+  eventtime: 03:00 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/krUDA4MKxhCvrHoY7
+  sortdate: '20250222'
+  venue: St. Bartholomew Episcopal Church
+- address: 1100 Sumter Street, Columbia, SC 29201
+  description: Episcopal Vespers service with the choirs of Trinity Episcopal Cathedral,
+    featuring Bach's cantata 127, Herr Jesu Christ, wahr' Mensch und Gott.
+  eventdate: 02/23/2025
+  eventtime: 04:00 PM
+  heading: Bach Vespers at Trinity Episcopal Cathedral
+  mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
+  sortdate: '20250223'
+  venue: Trinity Episcopal Cathedral
+- address: 1200 W Cornwallis Rd, Durham, NC
+  description: NCBO Chamber Players (Sung Lee, oboe, Janelle Davis, violin and viola,
+    David Wilson, viola, Barbara Krumdieck, cello) presents "The Oboe in the Time
+    of Mozart," quartets for oboe and strings by František Kramár, Johann Gottlieb
+    Janitsch, and Wolfgang Amadeus Mozart. This concert is part of the North Carolina
+    H.I.P. Festival.
+  eventdate: 03/01/2025
+  eventtime: 03:00 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/1ZKUvkT2KS4KPjLv7
+  sortdate: '20250301'
+  venue: St. Paul's Lutheran Church
+- address: 213 W Home Ave, Hartsville, SC
+  description: NCBO Chamber Players (David Wilson, violin, Barbara Krumdieck, cello)
+    with organist Nick Quardokus perform on First Presbyterian's First Friday Concert
+    Series.
+  eventdate: 03/07/2025
+  eventdetailsurl: https://visithartsvillesc.com/series/first-friday-concert-series/
+  eventtime: 12:00 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/7kJesFXKprHEg7Jy6
+  sortdate: '20250307'
+  venue: First Presbyterian Church
+- address: 1100 Sumter Street, Columbia, SC 29201
+  description: Episcopal Vespers service with the NCBO Viol Consort (lead by Gail
+    Schroeder) and the choirs of Trinity Episcopal Cathedral, featuring music by Orlando
+    Gibbons.
+  eventdate: 05/01/2025
+  eventtime: 04:00 PM
+  heading: Vespers at Trinity Episcopal Cathedral
+  mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
+  sortdate: '20250501'
+  venue: Trinity Episcopal Cathedral
