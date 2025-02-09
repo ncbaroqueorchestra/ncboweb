@@ -1,22 +1,3 @@
-- address: 1100 Sumter Street, Columbia, SC 29201
-  description: Episcopal Vespers service featuring Bach's cantata 118, O Jesu Christ,
-    mein's Leben's Licht.
-  eventdate: 01/26/2025
-  eventtime: 04:00 PM
-  heading: Bach Vespers at Trinity Episcopal Cathedral
-  mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
-  sortdate: '20250126'
-  venue: Trinity Episcopal Cathedral
-- address: ''
-  description: NCBO Chamber Players (Sung Lee, oboe, Janelle Davis, violin and viola,
-    David Wilson, viola, Barbara Krumdieck, cello) presents "The Oboe in the Time
-    of Mozart," quartets for oboe and strings by František Kramár, Johann Gottlieb
-    Janitsch, and Wolfgang Amadeus Mozart.
-  eventdate: 01/29/2025
-  eventtime: 07:00 PM
-  heading: NCBO Chamber Players
-  sortdate: '20250129'
-  venue: Central Piedmont Community College
 - address: 309 West Gay Street, Lancaster, SC
   description: 'In honor of Valentine''s Day, North Carolina Baroque Orchestra Chamber
     Players presents “Musica da Amare," baroque chamber music you can''t help falling
@@ -101,8 +82,9 @@
   description: NCBO Chamber Players (Sung Lee, oboe, Janelle Davis, violin and viola,
     David Wilson, viola, Barbara Krumdieck, cello) presents "The Oboe in the Time
     of Mozart," quartets for oboe and strings by František Kramár, Johann Gottlieb
-    Janitsch, and Wolfgang Amadeus Mozart. This concert is part of the North Carolina
-    H.I.P. Festival.
+    Janitsch, and Wolfgang Amadeus Mozart. This event is part of the 2025 North Carolina
+    HIP Music Festival, "the hippest musicians on period instruments." Please see
+    https://www.mallarmemusic.org/2025-north-carolina-hip-music-festival/ for details.
   eventdate: 03/01/2025
   eventtime: 03:00 PM
   heading: NCBO Chamber Players
@@ -120,6 +102,120 @@
   mapurl: https://maps.app.goo.gl/7kJesFXKprHEg7Jy6
   sortdate: '20250307'
   venue: First Presbyterian Church
+- address: 100 N. Main Street, Davidson, NC
+  description: 'The Davidson Bach Festival opens with a performance of Bach''s "Goldberg
+    Variations," BWV 988.
+
+
+    $20 general admission
+
+    $15 students'
+  eventdate: 03/28/2025
+  eventtime: 07:30 PM
+  heading: ' Davidson Bach Festival - Goldberg Variations'
+  mapurl: https://maps.app.goo.gl/iVQh6KEseYdaBsMW6
+  sortdate: '20250328'
+  venue: Davidson College Presbyterian Church (sanctuary)
+- address: ''
+  description: An inspiring and inventive weekend of music awaits local audiences
+    at the upcoming Davidson Bach Festival running March 28-30, 2025. A collaborative
+    effort between the North Carolina Baroque Orchestra, the Davidson College Music
+    Department, and Organ at Davidson, this four-concert event brings together many
+    of our community’s most outstanding musicians to celebrate the life and legacy
+    of iconic Baroque composer J.S. Bach.
+  eventdate: 03/28/2025
+  eventtime: 07:30 PM
+  heading: Davidson Bach Festival
+  sortdate: '20250328'
+  venue: ''
+- address: 218 Concord Road, Davidson
+  description: 'The Davidson Bach Festival continues with Bach''s beautiful and humorous
+    "Coffee Cantata" Schweigt stille, plaudert nicht, BWV 211.
+
+
+    $20 general admission
+
+    $15 students
+
+    Davidson College students free'
+  eventdate: 03/29/2025
+  eventtime: 11:30 AM
+  heading: Davidson Bach Festival - Coffee Cantata
+  mapurl: https://maps.app.goo.gl/7ng5nrVjovdGuKYW6
+  sortdate: '20250329'
+  venue: Davidson College Presbyterian Church (Congregation House)
+- address: 100 N. Main Street, Davidson, NC
+  description: 'The Davidson Bach Festival continues with a program of beloved chamber
+    music by JS Bach.
+
+
+    $20 general admission
+
+    $15 students'
+  eventdate: 03/29/2025
+  eventtime: 05:00 PM
+  heading: Davidson Bach Festival - Glorious Chamber Music of JS Bach
+  mapurl: https://maps.app.goo.gl/iVQh6KEseYdaBsMW6
+  sortdate: '20250329'
+  venue: Davidson College Presbyterian Church (sanctuary)
+- address: 100 N. Main Street, Davidson, NC
+  description: 'The Davidson Bach Festival concludes with a performance by Dr. Timothy
+    Olsen.
+
+
+    This concert is free; donations appreciated.'
+  eventdate: 03/30/2025
+  eventtime: 07:00 PM
+  heading: Davidson Bach Festival - Organ Music of Bach - Dr. Timothy Olsen, organ
+  mapurl: https://maps.app.goo.gl/iVQh6KEseYdaBsMW6
+  sortdate: '20250330'
+  venue: Davidson College Presbyterian Church (sanctuary)
+- address: 125 N. Meeting Street, Statesville, NC
+  description: 'NCBO presents a program of baroque concerti by Bach, Handel, Corelli,
+    and others, featuring soloists from the orchestra.
+
+
+    Donations appreciated at the door or via our website.'
+  eventdate: 04/03/2025
+  eventtime: 07:00 PM
+  heading: Brilliant Concerti of the Baroque
+  mapurl: https://maps.app.goo.gl/6tRj9Sj3tLiL1qwa8
+  sortdate: '20250403'
+  venue: First Presbyterian Church
+- address: 520 Summit Street, Winston Salem, NC
+  description: 'NCBO presents a program of baroque concerti for strings by Bach, Handel,
+    Corelli, and others, with soloists from the orchestra. This concert is presented
+    by The Friends of Music of St. Paul''s Episcopal Church.
+
+
+    $20 requested donation at the door.'
+  eventdate: 04/04/2025
+  eventtime: 07:00 PM
+  heading: Brilliant Concerti of the Baroque
+  mapurl: https://maps.app.goo.gl/ahC6dHfZtTrr59uq5
+  sortdate: '20250404'
+  venue: St. Paul's Episcopal Church
+- address: 800 College Ct., New Bern, NC
+  description: NCBO presents a program of baroque concerti for strings by Bach, Handel,
+    Corelli, and others, with soloists from the orchestra.
+  eventdate: 04/05/2025
+  eventtime: 02:30 PM
+  heading: Brilliant Concerti of the Baroque
+  mapurl: https://maps.app.goo.gl/HxmTnbMGLjybcALh7
+  sortdate: '20250405'
+  venue: Orringer Auditorium, Craven Community College
+- address: 2209 Fairview Road, Raleigh, NC
+  description: 'NCBO presents a program of baroque concerti for strings by Bach, Handel,
+    Corelli, and others, with soloists from the orchestra.
+
+
+    Donations appreciated at the door or via our website.'
+  eventdate: 04/06/2025
+  eventtime: 03:00 PM
+  heading: Brilliant Concerti of the Baroque
+  mapurl: https://maps.app.goo.gl/WKwuBHYRx386HNU67
+  sortdate: '20250406'
+  venue: Hayes Barton United Methodist Church
 - address: 1100 Sumter Street, Columbia, SC 29201
   description: Episcopal Vespers service with the NCBO Viol Consort (lead by Gail
     Schroeder) and the choirs of Trinity Episcopal Cathedral, featuring music by Orlando
@@ -130,6 +226,38 @@
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
   sortdate: '20250501'
   venue: Trinity Episcopal Cathedral
+- address: 100 Pete Hollis Blvd., Greenville, SC
+  description: NCBO performs music of the baroque as part of the first-ever South
+    Carolina Baroque Music Festival, presented by SC Bach.
+  eventdate: 05/16/2025
+  eventtime: 07:00 PM
+  heading: South Carolina Baroque Music Festival - NCBO
+  mapurl: https://maps.app.goo.gl/xtyT4jxA6wPfAiSf8
+  sortdate: '20250516'
+  ticketurl: https://ti.to/baroque-music-festival/2025-baroque-music-festival
+  venue: Trinity Church of Greenville
+- address: 304 E. Eamperdown Way, Greenville, SC
+  description: The South Carolina Baroque Music Festival concludes with a performance
+    of Bach's monumental Mass in B minor. NCBO joins the South Carolina Bach Choir
+    and Soloists and conductor David Rhyne.
+  eventdate: 05/18/2025
+  eventtime: 07:00 PM
+  heading: South Carolina Baroque Music Festival - Mass in B minor
+  mapurl: https://maps.app.goo.gl/8zErrg6Ndy5WFGf2A
+  sortdate: '20250518'
+  ticketurl: https://ti.to/baroque-music-festival/2025-baroque-music-festival
+  venue: St. Paul's Anglican Church
+- address: 420 College Street, Greenville, SC
+  description: As part of the first-ever South Carolina Baroque Music Festival, NCBO
+    violinist David Wilson performs a recital of unaccompanied works by Telemann and
+    Bach.
+  eventdate: 05/18/2025
+  eventtime: 02:00 PM
+  heading: South Carolina Baroque Music Festival - David Wilson, baroque violin
+  mapurl: https://maps.app.goo.gl/2kDv1rGSoeyhRbBQ6
+  sortdate: '20250518'
+  ticketurl: https://ti.to/baroque-music-festival/2025-baroque-music-festival
+  venue: Greenville County Museum of Art
 - address: 309 West Gay Street, Lancaster, SC
   description: NCBO Chamber Players performs music of the baroque
   eventdate: 05/24/2025

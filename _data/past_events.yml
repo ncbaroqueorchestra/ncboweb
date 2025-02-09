@@ -1,3 +1,22 @@
+- address: ''
+  description: NCBO Chamber Players (Sung Lee, oboe, Janelle Davis, violin and viola,
+    David Wilson, viola, Barbara Krumdieck, cello) presents "The Oboe in the Time
+    of Mozart," quartets for oboe and strings by František Kramár, Johann Gottlieb
+    Janitsch, and Wolfgang Amadeus Mozart.
+  eventdate: 01/29/2025
+  eventtime: 07:00 PM
+  heading: NCBO Chamber Players
+  sortdate: '20250129'
+  venue: Central Piedmont Community College
+- address: 1100 Sumter Street, Columbia, SC 29201
+  description: Episcopal Vespers service featuring Bach's cantata 118, O Jesu Christ,
+    mein's Leben's Licht.
+  eventdate: 01/26/2025
+  eventtime: 04:00 PM
+  heading: Bach Vespers at Trinity Episcopal Cathedral
+  mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
+  sortdate: '20250126'
+  venue: Trinity Episcopal Cathedral
 - address: 125 N. Meeting Street, Statesville, NC
   description: Christmas Eve prelude music and church service
   eventdate: 12/24/2024
