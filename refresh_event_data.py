@@ -55,6 +55,8 @@ for record in records:
         new_rec['eventimageurl'] = fields.get('EventImageURL', '')
     if fields.get('EventDetailsURL', '') != '':
         new_rec['eventdetailsurl'] = fields.get('EventDetailsURL', '')
+    if fields.get('EventImage', '') != '':
+        new_rec['eventimage'] = fields.get('EventImage', '')
 
     # only append if date has not passed
     if utc_dt > datetime.now(pytz.utc):
