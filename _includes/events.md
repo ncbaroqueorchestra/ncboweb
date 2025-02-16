@@ -15,6 +15,9 @@
                 <div class="card" >
                     <!-- <img src="..." class="card-img-top" alt="..."> -->
                     <div class="card-body">
+                        {% if event.eventimage %}
+                            <img src="{{ event.eventimage }}" class="card-img-top" alt="...">
+                        {% endif %}
                         <h5 class="card-title">{{ event.heading }}</h5>
                         <h6 class="card-subtitle mb-2 text-muted">{{ event.eventdate }} - {{ event.eventtime }}</h6>
                         <p class="card-text">{{ event.description }}</p>
