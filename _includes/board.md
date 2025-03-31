@@ -27,6 +27,11 @@
             <h4 class="title">Chuck Latham</h4>
             <p class="description">Treasurer</p>
           </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon"><i class="bi bi-person-circle"></i></div>
+            <h4 class="title">Paul Keller</h4>
+            <p class="description">Member</p>
+          </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
             <div class="icon"><i class="bi bi-person-circle"></i></div>
             <h4 class="title">Mary Lathem</h4>
