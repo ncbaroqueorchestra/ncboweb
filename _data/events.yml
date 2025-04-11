@@ -1,24 +1,3 @@
-- address: 800 College Ct., New Bern, NC
-  description: NCBO presents a program of baroque concerti for strings by Bach, Handel,
-    Corelli, and others, with soloists from the orchestra.
-  eventdate: 04/05/2025
-  eventtime: 02:30 PM
-  heading: Brilliant Concerti of the Baroque
-  mapurl: https://maps.app.goo.gl/HxmTnbMGLjybcALh7
-  sortdate: '20250405'
-  venue: Orringer Auditorium, Craven Community College
-- address: 2209 Fairview Road, Raleigh, NC
-  description: 'NCBO presents a program of baroque concerti for strings by Bach, Handel,
-    Corelli, and others, with soloists from the orchestra.
-
-
-    Donations appreciated at the door or via our website.'
-  eventdate: 04/06/2025
-  eventtime: 03:00 PM
-  heading: Brilliant Concerti of the Baroque
-  mapurl: https://maps.app.goo.gl/WKwuBHYRx386HNU67
-  sortdate: '20250406'
-  venue: Hayes Barton United Methodist Church
 - address: 750 Weaver Dairy Road, Chapel Hill, NC
   description: Join NCBO Chamber Players David Wilson and Jeanne Johnson, violin,
     Barbara Krumdieck, cello, and Barbara Weiss, harpsichord, for "Amare da Musica"--17th
@@ -39,6 +18,18 @@
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
   sortdate: '20250501'
   venue: Trinity Episcopal Cathedral
+- address: 100 N. Main Street, Davidson, NC
+  description: Baroque violinist David Wilson, longtime member of NCBO, will perform
+    an unaccompanied recital featuring for Fantasias by Georg Philipp Telemann and
+    the d minor Partita by Johann Sebastian Bach (which includes the famous Chaconne).
+    Donations gratefully accepted.
+  eventdate: 05/09/2025
+  eventtime: 07:00 PM
+  heading: David Wilson, baroque violin
+  mapurl: https://maps.app.goo.gl/dG2VvzsoHRCkoqHcA
+  sortdate: '20250509'
+  venue: Davidson College Presbyterian Church, Lingle Chapel (entrance faces Main
+    Street)
 - address: 100 Pete Hollis Blvd., Greenville, SC
   description: NCBO performs music of the baroque as part of the first-ever South
     Carolina Baroque Music Festival, presented by SC Bach.
