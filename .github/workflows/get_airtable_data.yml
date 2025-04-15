@@ -4,12 +4,14 @@ name: 1-GetAirtableData
 # Controls when the workflow will run
 on:
   workflow_dispatch:
-  #issues:
-  #  types: [labeled]
+  issues:
+    types: [opened]
 
 jobs:
-  build:
-   # if: ${{ github.event.label.name == 'data_update' }}
+  get_airtable_data:
+    if: >
+      github.event.issue.user.login == 'steverhall' &&
+      contains(github.event.issue.labels.*.name, 'data_update')
     runs-on: ubuntu-latest
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
@@ -35,9 +37,9 @@ jobs:
           author_email: srhall@gmail.com
           message: 'Updated NCBO events'
           add: '*.yml'
-     # - name: Close issue
-     #   uses: actions-cool/issues-helper@v3
-     #   with:
-     #     actions: 'close-issue'
-     #     token: ${{ secrets.GITHUB_TOKEN }}
-     #     issue-number: ${{ github.event.issue.number }}
+      - name: Close issue
+        uses: actions-cool/issues-helper@v3
+        with:
+          actions: 'close-issue'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
