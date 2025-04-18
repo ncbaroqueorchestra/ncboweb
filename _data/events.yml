@@ -1,13 +1,3 @@
-- address: 750 Weaver Dairy Road, Chapel Hill, NC
-  description: Join NCBO Chamber Players David Wilson and Jeanne Johnson, violin,
-    Barbara Krumdieck, cello, and Barbara Weiss, harpsichord, for "Amare da Musica"--17th
-    century chamber music we love!
-  eventdate: 04/16/2025
-  eventtime: 07:30 PM
-  heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/KXbYA3tMU73UvWJM6
-  sortdate: '20250416'
-  venue: Carol Woods Retirement Community
 - address: 1100 Sumter Street, Columbia, SC 29201
   description: Episcopal Vespers service with the NCBO Viol Consort (lead by Gail
     Schroeder) and the choirs of Trinity Episcopal Cathedral, featuring music by Orlando
@@ -70,3 +60,106 @@
   mapurl: https://maps.app.goo.gl/a1RcryhdLWXVPdKv7
   sortdate: '20250524'
   venue: Lancaster Cultural Arts Center
+- address: 95 Hasell Street, Charleston, SC
+  description: "As part of the Piccolo Spoleto Festival, NCBO Chamber Players performs\
+    \ \"The Glory of Handel.\" Trio sonatas, German arias, and the lovely Gloria in\
+    \ Excelsis Deo by Georg Frideric Handel. \n\nDavid Wilson and Annie Loud, violins\n\
+    Barbara Krumdieck, cello\nNicholas Quardokus, harpsichord\nKathryn Knauer, guest\
+    \ soprano"
+  eventdate: 05/26/2025
+  eventtime: 03:00 PM
+  heading: NCBO Chamber Players at Piccolo Spoleto
+  mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
+  sortdate: '20250526'
+  ticketurl: https://www.citypapertickets.com/events/165765341/ps-25-the-glory-of-handel
+  venue: St. Mary's Catholic Church
+- address: 95 Hasell Street, Charleston, SC
+  description: 'As part of the Piccolo Spoleto Festival, NCBO Chamber Players performs
+    "Brilliant Bach and Buxtehude." Trio sonatas by Bach and Biber, arias from Bach
+    cantatas, the Toccata in G major by Buxtehude, and the motet "O dulcis Jesu" by
+    Buxtehude.
+
+
+    David Wilson and Annie Loud, violins
+
+    Barbara Krumdieck, cello
+
+    Nicholas Quardokus, harpsichord
+
+    Kathryn Knauer, guest soprano'
+  eventdate: 05/27/2025
+  eventtime: 03:00 PM
+  heading: NCBO Chamber Players at Piccolo Spoleto
+  mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
+  sortdate: '20250527'
+  ticketurl: https://www.citypapertickets.com/events/165765419/ps-25-brilliant-bach-buxtehude-and-a-bit-of-biber
+  venue: St. Mary's Catholic Church
+- address: 95 Hasell Street, Charleston, SC
+  description: 'As part of the Piccolo Spoleto Festival, NCBO Chamber Players performs
+    "Travels through Europe: Ciaconnas, Passacaglias & more." Delightful ground-bass
+    works from baroque Italy, France, and Germany.
+
+
+    David Wilson and Annie Loud, violins
+
+    Barbara Krumdieck, cello
+
+    Nicholas Quardokus, harpsichord'
+  eventdate: 05/29/2025
+  eventtime: 03:00 PM
+  heading: NCBO Chamber Players at Piccolo Spoleto
+  mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
+  sortdate: '20250529'
+  ticketurl: https://www.citypapertickets.com/events/165765674/ps-25-travels-through-europe-ciaconnas-passacaglias-and-more-
+  venue: St. Mary's Catholic Church
+- address: 95 Hasell Street, Charleston, SC
+  description: 'As part of the Piccolo Spoleto Festival, NCBO Chamber Players performs
+    "Flowers of the French Baroque." A lovely bouquet of works for solo harpsichord,
+    trio sonatas, and instrumental suites by Leclair, L. Couperin, Forqueray, and
+    Rebel.
+
+
+    David Wilson and Annie Loud, violins
+
+    Barbara Krumdieck, cello
+
+    Nicholas Quardokus, harpsichord'
+  eventdate: 05/30/2025
+  eventtime: 03:00 PM
+  heading: NCBO Chamber Players at Piccolo Spoleto
+  mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
+  sortdate: '20250530'
+  ticketurl: https://www.citypapertickets.com/events/165765862/ps-25-flowers-of-the-french-baroque
+  venue: St. Mary's Catholic Church
+- address: 95 Hasell Street, Charleston, SC
+  description: 'As part of the Piccolo Spoleto Festival, NCBO Chamber Players performs
+    "The Best of the North Carolina Baroque Orchestra Chamber Players," a program
+    of highlights from our previous four concerts at Piccolo Spoleto.
+
+
+    David Wilson and Annie Loud, violins
+
+    Barbara Krumdieck, cello
+
+    Nicholas Quardokus, harpsichord
+
+    Kathryn Knauer, guest soprano'
+  eventdate: 05/31/2025
+  eventtime: 03:00 PM
+  heading: NCBO Chamber Players at Piccolo Spoleto
+  mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
+  sortdate: '20250531'
+  ticketurl: https://www.citypapertickets.com/events/165766084/ps-25-the-best-of-nc-baroque
+  venue: St. Mary's Catholic Church
+- address: 6844 Shoal Creek Dr, Denver, NC 28037, United States
+  description: "NCBO Chamber Players presents \"Welcoming Summer.\" The program includes\
+    \ two concerti from Vivaldi's \"Four Seasons,\" Spring and Summer, plus the Concerto\
+    \ for Violin in a minor by J.S. Bach. \n\nDavid Wilson, Jeanne Johnson, and Janelle\
+    \ Davis, violin\nAsa Zimmerman, viola\nBarbara Krumdieck, cello\nWilliam Simms,\
+    \ theorbo\nBarbara Weiss, harpsichord"
+  eventdate: 06/27/2025
+  eventtime: 04:00 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/L8qNkPmWWumjq8ySA
+  sortdate: '20250627'
+  venue: Trilogy Lake Norman
