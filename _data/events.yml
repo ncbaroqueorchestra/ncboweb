@@ -1,3 +1,14 @@
+- address: 824 Jetton Street, Davidson, NC
+  description: Sip, shop, and celebrate spring! Join us with hostess Barbara Krumdieck
+    for an afternoon of sips and spring clothing shopping, with music provided by
+    David Wilson, baroque violin, and Barbara Norton, baroque flute. 10% of sales
+    will benefit NCBO!
+  eventdate: 04/24/2025
+  eventtime: 03:00 PM
+  heading: 'Sip & Shop - NCBO Chamber Players at J. McLaughlin '
+  mapurl: https://maps.app.goo.gl/mSNon1ckZSEGjtML8
+  sortdate: '20250424'
+  venue: J. McLaughlin
 - address: 1100 Sumter Street, Columbia, SC 29201
   description: Episcopal Vespers service with the NCBO Viol Consort (lead by Gail
     Schroeder) and the choirs of Trinity Episcopal Cathedral, featuring music by Orlando
@@ -52,13 +63,27 @@
   sortdate: '20250518'
   ticketurl: https://ti.to/baroque-music-festival/2025-baroque-music-festival
   venue: Greenville County Museum of Art
-- address: 309 West Gay Street, Lancaster, SC 29720
-  description: NCBO Chamber Players performs music of the baroque
+- address: 120 East Edenton Street, Raleigh, NC
+  description: NCBO Chamber Players presents music by Corelli, Rosenmüller, Muffat,
+    Schmelzer, and Vivaldi.
+  eventdate: 05/22/2025
+  eventtime: 07:00 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/Qm3ijxr34Lmcu2zZA
+  sortdate: '20250522'
+  venue: Christ Church on Capitol Square
+- address: 307 West Gay Street, Lancaster, SC 29720
+  description: 'NCBO Chamber Players performs music by Corelli, Muffat, Schmelzer,
+    and Vivaldi.
+
+
+    Admission $21'
   eventdate: 05/24/2025
   eventtime: 06:30 PM
   heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/a1RcryhdLWXVPdKv7
+  mapurl: https://maps.app.goo.gl/RYwfXrNV3zXDTuEX6
   sortdate: '20250524'
+  ticketurl: https://www.lcactickets.org/product/north-carolina-baroque-chamber-orchestra-valentines-concert-thursday-feb-13-2025-6-30-pm/120?cs=true&cst=custom
   venue: Lancaster Cultural Arts Center
 - address: 95 Hasell Street, Charleston, SC
   description: "As part of the Piccolo Spoleto Festival, NCBO Chamber Players performs\
