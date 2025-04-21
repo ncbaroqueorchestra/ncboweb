@@ -38,14 +38,16 @@ jobs:
           author_email: srhall@gmail.com
           message: 'Updated NCBO events'
           add: '*.yml'
+      # only run next if triggered by issue
       - name: Close issue
+        if : contains(github.event.issue.labels.*.name, 'data_update')
         uses: actions-cool/issues-helper@v3
         with:
           actions: 'close-issue'
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
       - name: Trigger 2-Staging Deployment
-        if: success() && contains(github.event.issue.labels.*.name, 'data_update')
+        if: success()
         run: |
           curl -X POST \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
