@@ -7,7 +7,7 @@
   eventtime: 03:00 PM
   heading: 'Sip & Shop - NCBO Chamber Players at J. McLaughlin '
   mapurl: https://maps.app.goo.gl/mSNon1ckZSEGjtML8
-  sortdate: '20250424'
+  sortdate: 1745521200
   venue: J. McLaughlin
 - address: 1100 Sumter Street, Columbia, SC 29201
   description: Episcopal Vespers service with the NCBO Viol Consort (lead by Gail
@@ -17,7 +17,7 @@
   eventtime: 04:00 PM
   heading: Vespers at Trinity Episcopal Cathedral
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
-  sortdate: '20250501'
+  sortdate: 1746129600
   venue: Trinity Episcopal Cathedral
 - address: 100 N. Main Street, Davidson, NC
   description: Baroque violinist David Wilson, longtime member of NCBO, will perform
@@ -28,7 +28,7 @@
   eventtime: 07:00 PM
   heading: David Wilson, baroque violin
   mapurl: https://maps.app.goo.gl/dG2VvzsoHRCkoqHcA
-  sortdate: '20250509'
+  sortdate: 1746831600
   venue: Davidson College Presbyterian Church, Lingle Chapel (entrance faces Main
     Street)
 - address: 100 Pete Hollis Blvd., Greenville, SC
@@ -40,20 +40,9 @@
   eventtime: 07:00 PM
   heading: South Carolina Baroque Music Festival - NCBO
   mapurl: https://maps.app.goo.gl/xtyT4jxA6wPfAiSf8
-  sortdate: '20250516'
+  sortdate: 1747436400
   ticketurl: https://ti.to/baroque-music-festival/2025-baroque-music-festival
   venue: Trinity Church of Greenville
-- address: 304 E. Camperdown Way, Greenville, SC
-  description: The South Carolina Baroque Music Festival concludes with a performance
-    of Bach's monumental Mass in B minor. NCBO joins the South Carolina Bach Choir
-    and Soloists and conductor David Rhyne.
-  eventdate: 05/18/2025
-  eventtime: 07:00 PM
-  heading: South Carolina Baroque Music Festival - Mass in B minor
-  mapurl: https://maps.app.goo.gl/8zErrg6Ndy5WFGf2A
-  sortdate: '20250518'
-  ticketurl: https://ti.to/baroque-music-festival/2025-baroque-music-festival
-  venue: St. Paul's Anglican Church
 - address: 420 College Street, Greenville, SC
   description: As part of the first-ever South Carolina Baroque Music Festival, NCBO
     violinist David Wilson performs a recital of unaccompanied works by Telemann and
@@ -62,9 +51,20 @@
   eventtime: 02:00 PM
   heading: South Carolina Baroque Music Festival - David Wilson, baroque violin
   mapurl: https://maps.app.goo.gl/2kDv1rGSoeyhRbBQ6
-  sortdate: '20250518'
+  sortdate: 1747591200
   ticketurl: https://ti.to/baroque-music-festival/2025-baroque-music-festival
   venue: Greenville County Museum of Art
+- address: 304 E. Camperdown Way, Greenville, SC
+  description: The South Carolina Baroque Music Festival concludes with a performance
+    of Bach's monumental Mass in B minor. NCBO joins the South Carolina Bach Choir
+    and Soloists and conductor David Rhyne.
+  eventdate: 05/18/2025
+  eventtime: 07:00 PM
+  heading: South Carolina Baroque Music Festival - Mass in B minor
+  mapurl: https://maps.app.goo.gl/8zErrg6Ndy5WFGf2A
+  sortdate: 1747609200
+  ticketurl: https://ti.to/baroque-music-festival/2025-baroque-music-festival
+  venue: St. Paul's Anglican Church
 - address: 120 East Edenton Street, Raleigh, NC
   description: NCBO Chamber Players presents music by Corelli, Rosenmüller, Muffat,
     Schmelzer, and Vivaldi.
@@ -72,7 +72,7 @@
   eventtime: 07:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/Qm3ijxr34Lmcu2zZA
-  sortdate: '20250522'
+  sortdate: 1747954800
   venue: Christ Church on Capitol Square
 - address: 307 West Gay Street, Lancaster, SC 29720
   description: 'NCBO Chamber Players performs music by Corelli, Muffat, Schmelzer,
@@ -84,7 +84,7 @@
   eventtime: 06:30 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/RYwfXrNV3zXDTuEX6
-  sortdate: '20250524'
+  sortdate: 1748125800
   venue: Lancaster Cultural Arts Center
 - address: 95 Hasell Street, Charleston, SC
   description: "As part of the Piccolo Spoleto Festival, NCBO Chamber Players performs\
@@ -96,7 +96,7 @@
   eventtime: 03:00 PM
   heading: NCBO Chamber Players at Piccolo Spoleto
   mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
-  sortdate: '20250526'
+  sortdate: 1748286000
   ticketurl: https://www.citypapertickets.com/events/165765341/ps-25-the-glory-of-handel
   venue: St. Mary's Catholic Church
 - address: 95 Hasell Street, Charleston, SC
@@ -117,7 +117,7 @@
   eventtime: 03:00 PM
   heading: NCBO Chamber Players at Piccolo Spoleto
   mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
-  sortdate: '20250527'
+  sortdate: 1748372400
   ticketurl: https://www.citypapertickets.com/events/165765419/ps-25-brilliant-bach-buxtehude-and-a-bit-of-biber
   venue: St. Mary's Catholic Church
 - address: 95 Hasell Street, Charleston, SC
@@ -135,7 +135,7 @@
   eventtime: 03:00 PM
   heading: NCBO Chamber Players at Piccolo Spoleto
   mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
-  sortdate: '20250529'
+  sortdate: 1748545200
   ticketurl: https://www.citypapertickets.com/events/165765674/ps-25-travels-through-europe-ciaconnas-passacaglias-and-more-
   venue: St. Mary's Catholic Church
 - address: 95 Hasell Street, Charleston, SC
@@ -154,7 +154,7 @@
   eventtime: 03:00 PM
   heading: NCBO Chamber Players at Piccolo Spoleto
   mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
-  sortdate: '20250530'
+  sortdate: 1748631600
   ticketurl: https://www.citypapertickets.com/events/165765862/ps-25-flowers-of-the-french-baroque
   venue: St. Mary's Catholic Church
 - address: 95 Hasell Street, Charleston, SC
@@ -174,7 +174,7 @@
   eventtime: 03:00 PM
   heading: NCBO Chamber Players at Piccolo Spoleto
   mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
-  sortdate: '20250531'
+  sortdate: 1748718000
   ticketurl: https://www.citypapertickets.com/events/165766084/ps-25-the-best-of-nc-baroque
   venue: St. Mary's Catholic Church
 - address: 6844 Shoal Creek Dr, Denver, NC 28037, United States
@@ -187,7 +187,7 @@
   eventtime: 04:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/L8qNkPmWWumjq8ySA
-  sortdate: '20250627'
+  sortdate: 1751054400
   venue: Trilogy Lake Norman
 - address: 100 North Main Street, Davidson, NC
   description: "NCBO Chamber Players presents \"Welcoming Summer.\" The program includes\
@@ -199,5 +199,5 @@
   eventtime: 03:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/fL3tAGz2uMRs5gkb8
-  sortdate: '20250629'
+  sortdate: 1751223600
   venue: Davidson College Presbyterian Church (Sanctuary)

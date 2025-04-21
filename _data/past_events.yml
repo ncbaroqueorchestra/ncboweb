@@ -6,7 +6,7 @@
   eventtime: 07:30 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/KXbYA3tMU73UvWJM6
-  sortdate: '20250416'
+  sortdate: 1744846200
   venue: Carol Woods Retirement Community
 - address: 2209 Fairview Road, Raleigh, NC
   description: 'NCBO presents a program of baroque concerti for strings by Bach, Handel,
@@ -18,7 +18,7 @@
   eventtime: 03:00 PM
   heading: Brilliant Concerti of the Baroque
   mapurl: https://maps.app.goo.gl/WKwuBHYRx386HNU67
-  sortdate: '20250406'
+  sortdate: 1743966000
   venue: Hayes Barton United Methodist Church
 - address: 800 College Ct., New Bern, NC
   description: NCBO presents a program of baroque concerti for strings by Bach, Handel,
@@ -27,7 +27,7 @@
   eventtime: 02:30 PM
   heading: Brilliant Concerti of the Baroque
   mapurl: https://maps.app.goo.gl/HxmTnbMGLjybcALh7
-  sortdate: '20250405'
+  sortdate: 1743877800
   venue: Orringer Auditorium, Craven Community College
 - address: 520 Summit Street, Winston Salem, NC
   description: 'NCBO presents a program of baroque concerti for strings by Bach, Handel,
@@ -40,7 +40,7 @@
   eventtime: 07:00 PM
   heading: Brilliant Concerti of the Baroque
   mapurl: https://maps.app.goo.gl/ahC6dHfZtTrr59uq5
-  sortdate: '20250404'
+  sortdate: 1743807600
   venue: St. Paul's Episcopal Church
 - address: 125 N. Meeting Street, Statesville, NC
   description: 'NCBO presents a program of baroque concerti by Bach, Handel, Corelli,
@@ -52,7 +52,7 @@
   eventtime: 07:00 PM
   heading: Brilliant Concerti of the Baroque
   mapurl: https://maps.app.goo.gl/6tRj9Sj3tLiL1qwa8
-  sortdate: '20250403'
+  sortdate: 1743721200
   venue: First Presbyterian Church
 - address: 218 Concord Road, Davidson
   description: 'Open rehearsal 4:00-5:30 pm of NCBO''s program "Brilliant Concerti
@@ -64,7 +64,7 @@
   eventtime: 04:00 PM
   heading: Open Rehearsal - Brilliant Concerti of the Baroque
   mapurl: https://maps.app.goo.gl/2HL5t4EJhkpEkvaWA
-  sortdate: '20250402'
+  sortdate: 1743624000
   venue: Davidson College Presbyterian Church, Congregation House
 - address: 100 N. Main Street, Davidson, NC
   description: 'The Davidson Bach Festival concludes with a performance by Dr. Timothy
@@ -77,7 +77,23 @@
   eventtime: 05:00 PM
   heading: Davidson Bach Festival - Organ Music of Bach - Dr. Timothy Olsen, organ
   mapurl: https://maps.app.goo.gl/iVQh6KEseYdaBsMW6
-  sortdate: '20250330'
+  sortdate: 1743368400
+  venue: Davidson College Presbyterian Church (sanctuary)
+- address: 100 N. Main Street, Davidson, NC
+  description: 'The Davidson Bach Festival continues with a program of beloved chamber
+    music by JS Bach.
+
+
+    $20 general admission
+
+    $15 students'
+  eventdate: 03/29/2025
+  eventimage: bachfestival.jpeg
+  eventtime: 05:00 PM
+  heading: Davidson Bach Festival - Glorious Chamber Music of JS Bach
+  mapurl: https://maps.app.goo.gl/iVQh6KEseYdaBsMW6
+  sortdate: 1743282000
+  ticketurl: https://bit.ly/davidsonbach_chamber
   venue: Davidson College Presbyterian Church (sanctuary)
 - address: 218 Concord Road, Davidson
   description: 'The Davidson Bach Festival continues with Bach''s beautiful and humorous
@@ -94,25 +110,9 @@
   eventtime: 11:30 AM
   heading: Davidson Bach Festival - Coffee Cantata
   mapurl: https://maps.app.goo.gl/7ng5nrVjovdGuKYW6
-  sortdate: '20250329'
+  sortdate: 1743262200
   ticketurl: https://bit.ly/davidsonbach_coffee
   venue: Davidson College Presbyterian Church (Congregation House)
-- address: 100 N. Main Street, Davidson, NC
-  description: 'The Davidson Bach Festival continues with a program of beloved chamber
-    music by JS Bach.
-
-
-    $20 general admission
-
-    $15 students'
-  eventdate: 03/29/2025
-  eventimage: bachfestival.jpeg
-  eventtime: 05:00 PM
-  heading: Davidson Bach Festival - Glorious Chamber Music of JS Bach
-  mapurl: https://maps.app.goo.gl/iVQh6KEseYdaBsMW6
-  sortdate: '20250329'
-  ticketurl: https://bit.ly/davidsonbach_chamber
-  venue: Davidson College Presbyterian Church (sanctuary)
 - address: 100 N. Main Street, Davidson, NC
   description: 'The Davidson Bach Festival opens with a performance of Bach''s "Goldberg
     Variations," BWV 988.
@@ -126,7 +126,7 @@
   eventtime: 07:30 PM
   heading: ' Davidson Bach Festival - Goldberg Variations'
   mapurl: https://maps.app.goo.gl/iVQh6KEseYdaBsMW6
-  sortdate: '20250328'
+  sortdate: 1743204600
   ticketurl: https://bit.ly/davidsonbach_goldberg
   venue: Davidson College Presbyterian Church (sanctuary)
 - address: ''
@@ -140,7 +140,7 @@
   eventimage: bachfestival.jpeg
   eventtime: 07:30 PM
   heading: Davidson Bach Festival
-  sortdate: '20250328'
+  sortdate: 1743204600
   venue: ''
 - address: 213 W Home Ave, Hartsville, SC
   description: NCBO Chamber Players (David Wilson, violin, Barbara Krumdieck, cello)
@@ -151,7 +151,7 @@
   eventtime: 12:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/7kJesFXKprHEg7Jy6
-  sortdate: '20250307'
+  sortdate: 1741366800
   venue: First Presbyterian Church
 - address: 1200 W Cornwallis Rd, Durham, NC
   description: NCBO Chamber Players (Sung Lee, oboe, Janelle Davis, violin and viola,
@@ -164,7 +164,7 @@
   eventtime: 03:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/1ZKUvkT2KS4KPjLv7
-  sortdate: '20250301'
+  sortdate: 1740859200
   venue: St. Paul's Lutheran Church
 - address: 1100 Sumter Street, Columbia, SC 29201
   description: Episcopal Vespers service with the choirs of Trinity Episcopal Cathedral,
@@ -173,7 +173,7 @@
   eventtime: 04:00 PM
   heading: Bach Vespers at Trinity Episcopal Cathedral
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
-  sortdate: '20250223'
+  sortdate: 1740344400
   venue: Trinity Episcopal Cathedral
 - address: 204 W Salisbury St, Pittsboro, NC
   description: 'CANCELED - NCBO regrets that our mid-February Chamber Players set,
@@ -187,7 +187,7 @@
   eventtime: 03:00 PM
   heading: CANCELED - NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/krUDA4MKxhCvrHoY7
-  sortdate: '20250222'
+  sortdate: 1740254400
   venue: St. Bartholomew Episcopal Church
 - address: 350 E Massachusetts Ave, Southern Pines, NC
   description: 'CANCELED - NCBO regrets that our mid-February Chamber Players set,
@@ -201,7 +201,7 @@
   eventtime: 12:00 PM
   heading: CANCELED - NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/cA9rAd8EBYuNLJyD7
-  sortdate: '20250221'
+  sortdate: 1740157200
   venue: Emmanuel Episcopal Church
 - address: 520 Summit St, Winston-Salem, NC
   description: "CANCELLED - NCBO regrets that our mid-February Chamber Players set,\
@@ -214,7 +214,7 @@
   eventtime: 07:00 PM
   heading: CANCELED - NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/LpeBmGg3huuKH98c8
-  sortdate: '20250220'
+  sortdate: 1740096000
   venue: St. Paul's Episcopal Church
 - address: 100 N. Main Street, Davidson, NC
   description: 'In honor of Valentine''s Day, North Carolina Baroque Orchestra Chamber
@@ -234,7 +234,7 @@
   eventtime: 07:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/fUvpSuQAVxK3anHV7
-  sortdate: '20250214'
+  sortdate: 1739577600
   venue: Davidson College Presbyterian Church (Sanctuary
 - address: 309 West Gay Street, Lancaster, SC
   description: 'In honor of Valentine''s Day, North Carolina Baroque Orchestra Chamber
@@ -254,7 +254,7 @@
   eventtime: 06:30 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/a1RcryhdLWXVPdKv7
-  sortdate: '20250213'
+  sortdate: 1739489400
   venue: Lancaster Cultural Arts Center
 - address: ''
   description: NCBO Chamber Players (Sung Lee, oboe, Janelle Davis, violin and viola,
@@ -264,7 +264,7 @@
   eventdate: 01/29/2025
   eventtime: 07:00 PM
   heading: NCBO Chamber Players
-  sortdate: '20250129'
+  sortdate: 1738195200
   venue: Central Piedmont Community College
 - address: 1100 Sumter Street, Columbia, SC 29201
   description: Episcopal Vespers service featuring Bach's cantata 118, O Jesu Christ,
@@ -273,7 +273,7 @@
   eventtime: 04:00 PM
   heading: Bach Vespers at Trinity Episcopal Cathedral
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
-  sortdate: '20250126'
+  sortdate: 1737925200
   venue: Trinity Episcopal Cathedral
 - address: 125 N. Meeting Street, Statesville, NC
   description: Christmas Eve prelude music and church service
@@ -281,7 +281,7 @@
   eventtime: 05:30 PM
   heading: Christmas Eve service
   mapurl: https://maps.app.goo.gl/Mi4xEAZhNMV9ifTPA
-  sortdate: '20241224'
+  sortdate: 1735079400
   venue: First Presbyterian Church
 - address: 309 W Gay St, Lancaster, SC
   description: '"Glorious Baroque Music to Celebrate the Holidays"
@@ -306,7 +306,7 @@
   eventtime: 03:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/ETjmoZLPD7UYvfPr6
-  sortdate: '20241222'
+  sortdate: 1734897600
   venue: Lancaster Cultural Arts Center
 - address: 6844 Shoal Creek Dr, Denver, NC
   description: '"Glorious Baroque Music to Celebrate the Holidays"
@@ -331,7 +331,7 @@
   eventtime: 11:30 AM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/xXSqfADhMGPWBaYB8
-  sortdate: '20241221'
+  sortdate: 1734798600
   venue: Trilogy Lake Norman
 - address: 2619 Augusta St, Greenville, SC
   description: '"Glorious Baroque Music to Celebrate the Holidays"
@@ -356,7 +356,7 @@
   eventtime: 07:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/wFEcqAAXeaBrPn4K8
-  sortdate: '20241220'
+  sortdate: 1734739200
   venue: St. Michael's Lutheran Church
 - address: 1100 Sumter Street, Columbia, SC 29201
   description: Handel's "Messiah" with the choirs of Trinity Episcopal Cathedral,
@@ -365,7 +365,7 @@
   eventtime: 04:00 PM
   heading: Messiah in Columbia, SC
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
-  sortdate: '20241215'
+  sortdate: 1734296400
   venue: Trinity Episcopal Cathedral
 - address: 16 N 16th St, Wilmington, NC 28401
   description: Handel's "Messiah" with the choir of St. Paul's Episcopal Church, Wilmington,
@@ -374,7 +374,7 @@
   eventtime: 07:30 PM
   heading: Messiah in Wilmington
   mapurl: https://maps.app.goo.gl/4GxLqBrHRS6uKMuZ8
-  sortdate: '20241213'
+  sortdate: 1734136200
   venue: St. Paul's Episcopal Church
 - address: 2101 N Herritage St, Kinston, NC 28501
   description: Handel's "Messiah" with the Kinston-Lenoir Community Chorus.
@@ -383,7 +383,7 @@
   eventtime: 07:00 PM
   heading: Messiah in Kinston
   mapurl: https://maps.app.goo.gl/iFT8MZSuyJfWCvXh7
-  sortdate: '20241209'
+  sortdate: 1733788800
   venue: First Presbyterian Church
 - address: St. Margaret's Episcopal Church
   description: NCBO Chamber Players presents quartets for oboe and strings by František
@@ -392,7 +392,7 @@
   eventtime: 06:30 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/xyYNfKKvTvKi222P6
-  sortdate: '20241122'
+  sortdate: 1732318200
   venue: St. Margaret's Episcopal Church
 - address: 750 Weaver Dairy Road, Chapel Hill, NC
   description: NCBO Chamber Players performs some of our favorite tunes, including
@@ -401,7 +401,7 @@
   eventtime: 07:30 PM
   heading: NCBO Chamber Players - Greatest Hits
   mapurl: https://maps.app.goo.gl/gNKrVJ6jBFzXtzZAA
-  sortdate: '20241120'
+  sortdate: 1732149000
   venue: Carol Woods Retirement Community
 - address: 310 Exploration Blvd, Denver, NC
   description: NCBO Chamber Players presents quartets for oboe and strings by František
@@ -410,7 +410,7 @@
   eventtime: 04:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/bvbpa7PxcurxzHeP9
-  sortdate: '20241119'
+  sortdate: 1732050000
   venue: Trilogy Lake Norman
 - address: 100 Pete Hollis Blvd., Greenville, SC
   description: '"The French Connection," with the SC Bach Choir and soloists. The
@@ -425,7 +425,7 @@
   eventtime: 04:00 PM
   heading: SC Bach
   mapurl: https://maps.app.goo.gl/Avc9oAMhV82CXyG39
-  sortdate: '20241117'
+  sortdate: 1731877200
   venue: Trinity Church of Greenville
 - address: 10 West Liberty Street, York, SC
   description: '"The French Connection," with the SC Bach Choir and soloists. The
@@ -440,7 +440,7 @@
   eventtime: 07:00 PM
   heading: SC Bach
   mapurl: https://maps.app.goo.gl/8L1y3cxhBPnmq9R78
-  sortdate: '20241116'
+  sortdate: 1731801600
   venue: First Presbyterian Church
 - address: 141 Advent Street, Spartanburg, SC
   description: '"The French Connection," with the SC Bach Choir and soloists. The
@@ -455,7 +455,7 @@
   eventtime: 07:00 PM
   heading: SC Bach
   mapurl: https://maps.app.goo.gl/YJBBpqkQLUieWb3c9
-  sortdate: '20241115'
+  sortdate: 1731715200
   venue: Church of the Advent
 - address: 2287 Radcliffe Ave., Charlotte, NC 28274
   description: "\"And the angel said unto them:\" music old and new celebrating the\
@@ -467,7 +467,7 @@
   eventtime: 07:30 PM
   heading: Bach Magnificat with Royal Voices of Charlotte
   mapurl: https://maps.app.goo.gl/kakNbLb5akgF47Ge8
-  sortdate: '20241113'
+  sortdate: 1731544200
   venue: Belk Chapel
 - address: cc
   description: Episcopal Vespers featuring Bach's cantata "Nur jedem das Seine," BWV
@@ -476,7 +476,7 @@
   eventtime: 04:00 PM
   heading: Bach Vespers at Trinity Episcopal Cathedral, Columbia, SC
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
-  sortdate: '20241110'
+  sortdate: 1731272400
   venue: Trinity Episcopal Cathedral
 - address: Huntersville
   description: NCBO Chamber Players presents music of the Baroque for oboe, violin,
@@ -484,7 +484,7 @@
   eventdate: 11/09/2024
   eventtime: 02:00 PM
   heading: NCBO Chamber Players
-  sortdate: '20241109'
+  sortdate: 1731178800
   venue: Album Huntersville
 - address: 14401 Ramah Church Road, Huntersville, NC
   description: NCBO Chamber Players presents music of the Baroque for oboe, violin,
@@ -494,7 +494,7 @@
   eventtime: 06:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/rzJ6AkznUnt8mBU18
-  sortdate: '20241108'
+  sortdate: 1731106800
   venue: Ramah Presbyterian Church
 - address: 108 E. Liberty Street, York, SC 29745
   description: 'The NCBO Chamber Players presents a concert of music by three Johanns:
@@ -504,7 +504,7 @@
   eventtime: 03:00 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/JkPxzRGcjc4iUtkF6
-  sortdate: '20241027'
+  sortdate: 1730055600
   venue: Episcopal Church of the Good Shepherd
 - address: 301 Caldwell Lane, Davidson, NC
   description: 'Music Helping Communities
@@ -537,7 +537,7 @@
   eventtime: 04:00 PM
   heading: Music Helping Communities - Hurricane Relief Fundraising Conc
   mapurl: https://maps.app.goo.gl/vwBspaCakZzsrCtq8
-  sortdate: '20241026'
+  sortdate: 1729972800
   venue: St. Alban's Episcopal Church
 - address: 1100 Sumter Street, Columbia, SC 29201
   description: Episcopal Vespers featuring Bach's cantata "Sei Lob und Ehr dem höchsten
@@ -547,7 +547,7 @@
   eventtime: 04:00 PM
   heading: Bach Vespers at Trinity Episcopal Cathedral, Columbia, SC
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
-  sortdate: '20241013'
+  sortdate: 1728849600
   venue: Trinity Episcopal Cathedral
 - address: 750 Weaver Dairy Road, Chapel Hill, NC
   description: NCBO Chamber Players presents quartets for oboe and strings by František
@@ -556,7 +556,7 @@
   eventtime: 07:30 PM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/gNKrVJ6jBFzXtzZAA
-  sortdate: '20241009'
+  sortdate: 1728516600
   venue: Carol Woods Retirement Community
 - address: 301 Caldwell Lane, Davidson, NC
   description: 'The North Carolina Baroque Orchestra directed by Frances Blaker presents
@@ -566,18 +566,9 @@
   eventtime: 03:00 PM
   heading: JS Bach and his Contemporaries
   mapurl: https://maps.app.goo.gl/vwBspaCakZzsrCtq8
-  sortdate: '20240922'
+  sortdate: 1727031600
   ticketurl: https://www.musicatstalbansdavidson.org
   venue: St. Alban's Episcopal Church
-- address: 825 Peninsula Drive, Davidson, NC
-  description: NCBO Members perform chamber music for the residents, their friends
-    and family. 11:00-11:40 am.
-  eventdate: 09/21/2024
-  eventtime: 11:00 AM
-  heading: Chamber Music
-  mapurl: https://maps.app.goo.gl/gxVqvg9kcVovt3DJ7
-  sortdate: '20240921'
-  venue: Williams Place Retirement Center
 - address: 309 West Gay Street, Lancaster, SC
   description: 'The North Carolina Baroque Orchestra directed by Frances Blaker Presents
     “The Glorious Orchestral Music of JS Bach and his Contemporaries: celebratory
@@ -586,9 +577,18 @@
   eventtime: 06:30 PM
   heading: JS Bach and his Contemporaries
   mapurl: https://maps.app.goo.gl/nQGFmgQGXzj6cK447
-  sortdate: '20240921'
+  sortdate: 1726957800
   ticketurl: https://www.lcactickets.org
   venue: Lancaster Cultural Arts Center
+- address: 825 Peninsula Drive, Davidson, NC
+  description: NCBO Members perform chamber music for the residents, their friends
+    and family. 11:00-11:40 am.
+  eventdate: 09/21/2024
+  eventtime: 11:00 AM
+  heading: Chamber Music
+  mapurl: https://maps.app.goo.gl/gxVqvg9kcVovt3DJ7
+  sortdate: 1726930800
+  venue: Williams Place Retirement Center
 - address: 426 Oakland Avenue, Rock Hill, SC
   description: 'The North Carolina Baroque Orchestra directed by Frances Blaker Presents
     “The Glorious Orchestral Music of JS Bach and his Contemporaries: celebratory
@@ -601,7 +601,7 @@
   eventtime: 07:00 PM
   heading: JS Bach and his Contemporaries
   mapurl: https://maps.app.goo.gl/1uqSkYy3sayoNBXQ8
-  sortdate: '20240920'
+  sortdate: 1726873200
   venue: Grace Lutheran Church
 - address: 207 W. John Street, Matthews, NC 28105
   description: 'The North Carolina Baroque Orchestra directed by Frances Blaker presents
@@ -615,7 +615,7 @@
   eventtime: 07:00 PM
   heading: JS Bach and his Contemporaries
   mapurl: https://maps.app.goo.gl/vww888wJ3gdXJndZ8
-  sortdate: '20240919'
+  sortdate: 1726786800
   venue: Matthews Presbyterian Church
 - address: 18121 Old Statesville Road, Cornelius, NC
   description: "\"Meet the Instruments of the Baroque Orchestra.\" An afternoon of\
@@ -627,7 +627,7 @@
   eventtime: 04:00 PM
   heading: 'Community Outreach: Meet the Instruments'
   mapurl: https://maps.app.goo.gl/jHYokKuA5FZV7cdH7
-  sortdate: '20240918'
+  sortdate: 1726689600
   venue: Northern Regional Recreation and Senior Center
 - address: 301 Caldwell Lane, Davidson, NC
   description: "Open rehearsal of NCBO with Music Director Frances Blaker conducting.\
@@ -636,5 +636,5 @@
   eventtime: 07:00 PM
   heading: 'Community Outreach: Open Rehearsal'
   mapurl: https://maps.app.goo.gl/vwBspaCakZzsrCtq8
-  sortdate: '20240917'
+  sortdate: 1726614000
   venue: St. Alban's Episcopal Church
