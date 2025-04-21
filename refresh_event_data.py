@@ -42,7 +42,9 @@ for record in records:
     ny_dt = utc_dt.astimezone(ny_tz)
 
     new_rec['eventdate'] = ny_dt.strftime('%m/%d/%Y')
-    new_rec['sortdate'] = ny_dt.strftime('%Y%m%d')
+    #Change sortdate to epoch time
+    new_rec['sortdate'] = int(ny_dt.timestamp())
+    #new_rec['sortdate'] = ny_dt.strftime('%Y%m%d')
     new_rec['eventtime'] = ny_dt.strftime('%I:%M %p')
     new_rec['venue'] = fields.get('Venue', '')
     new_rec['description'] = fields.get('Event info', '')
