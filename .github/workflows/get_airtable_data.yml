@@ -10,8 +10,9 @@ on:
 jobs:
   get_airtable_data:
     if: >
-      github.event.issue.user.login == 'steverhall' &&
-      contains(github.event.issue.labels.*.name, 'data_update')
+      (github.event.issue.user.login == 'steverhall' &&
+      contains(github.event.issue.labels.*.name, 'data_update')) ||
+      github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
