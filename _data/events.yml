@@ -1,15 +1,3 @@
-- address: 100 N. Main Street, Davidson, NC
-  description: Baroque violinist David Wilson, longtime member of NCBO, will perform
-    an unaccompanied recital featuring four Fantasias by Georg Philipp Telemann and
-    the d minor Partita by Johann Sebastian Bach (which includes the famous Chaconne).
-    Donations gratefully accepted.
-  eventdate: 05/09/2025
-  eventtime: 07:00 PM
-  heading: David Wilson, baroque violin
-  mapurl: https://maps.app.goo.gl/dG2VvzsoHRCkoqHcA
-  sortdate: 1746831600
-  venue: Davidson College Presbyterian Church, Lingle Chapel (entrance faces Main
-    Street)
 - address: 100 Pete Hollis Blvd., Greenville, SC
   description: NCBO performs music of the baroque as part of the first-ever South
     Carolina Baroque Music Festival, presented by SC Bach. Our program includes Vivaldi's
@@ -168,6 +156,18 @@
   mapurl: https://maps.app.goo.gl/L8qNkPmWWumjq8ySA
   sortdate: 1751054400
   venue: Trilogy Lake Norman
+- address: 117 Montreat Rd, Black Mountain, NC 28711
+  description: "NCBO Chamber Players presents \"Welcoming Summer.\" The program includes\
+    \ two concerti from Vivaldi's \"Four Seasons,\" Spring and Summer, plus the Concerto\
+    \ for Violin in a minor by J.S. Bach. \n\nDavid Wilson, Jeanne Johnson, and Janelle\
+    \ Davis, violin, Asa Zimmerman, viola, Barbara Krumdieck, cello, William Simms,\
+    \ theorbo, Barbara Weiss, harpsichord."
+  eventdate: 06/28/2025
+  eventtime: 03:00 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/YomxxyBetJxrcXUU8
+  sortdate: 1751137200
+  venue: Black Mountain Presbyterian Church
 - address: 100 North Main Street, Davidson, NC
   description: "NCBO Chamber Players presents \"Welcoming Summer.\" The program includes\
     \ two concerti from Vivaldi's \"Four Seasons,\" Spring and Summer, plus the Concerto\
