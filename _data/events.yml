@@ -1,41 +1,35 @@
-- address: 310 Exploration Blvd . Denver, NC 28037, United States
-  description: "NCBO Chamber Players presents \"Welcoming Summer.\" The program includes\
-    \ two concerti from Vivaldi's \"Four Seasons,\" Spring and Summer, plus the Concerto\
-    \ for Violin in a minor by J.S. Bach. \n\nDavid Wilson, Jeanne Johnson, and Janelle\
-    \ Davis, violin;\nAsa Zimmerman, viola;\nBarbara Krumdieck, cello;\nWilliam Simms,\
-    \ theorbo;\nBarbara Weiss, harpsichord.\n\nFor tickets please call 704 585-8785."
-  eventdate: 06/27/2025
-  eventtime: 04:00 PM
-  heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/L8qNkPmWWumjq8ySA
-  sortdate: 1751054400
-  venue: Trilogy Lake Norman
-- address: 117 Montreat Rd, Black Mountain, NC 28711
-  description: "NCBO Chamber Players presents \"Welcoming Summer.\" The program includes\
-    \ two concerti from Vivaldi's \"Four Seasons,\" Spring and Summer, plus the Concerto\
-    \ for Violin in a minor by J.S. Bach. \n\nDavid Wilson, Jeanne Johnson, and Janelle\
-    \ Davis, violin, Asa Zimmerman, viola, Barbara Krumdieck, cello, William Simms,\
-    \ theorbo, Barbara Weiss, harpsichord.\n\nAdmission free, donations gratefully\
-    \ accepted."
-  eventdate: 06/28/2025
+- address: 1001 Queens Road, Charlotte, NC
+  description: "Join the North Carolina Baroque Orchestra for an inspiring concert\
+    \ of magnificent music by J.S. Bach, Vivaldi, Heinichen, and Boismortier. Artistic\
+    \ director Frances Blaker directs the orchestra which includes baroque strings,\
+    \ baroque oboe, baroque flute and harpsichord.\nThe North Carolina Baroque Orchestra\
+    \ is a nonprofit organization  composed of professional musicians specializing\
+    \ in historically informed performance of 17th and 18th century music on period\
+    \ instruments.\nhttps://www.ncbaroqueorchestra.org/\nQuestions? Contact Barbara\
+    \ at ncbaroqueorchestra@gmail.com \n\nFree and open to the public.\nDonations\
+    \ are greatly appreciated and are used to support the orchestra's special projects."
+  eventdate: 08/08/2025
+  eventtime: 07:00 PM
+  heading: Magnificent Orchestral Music of the Baroque
+  mapurl: https://maps.app.goo.gl/7knCdwEh11HYxGyy9
+  sortdate: 1754694000
+  venue: St. Mark's Lutheran Church
+- address: 164 Fairview Road, Mooresville, NC
+  description: "Join the North Carolina Baroque Orchestra for an inspiring concert\
+    \ of magnificent music by J.S. Bach, Vivaldi, Heinichen, and Boismortier. Artistic\
+    \ director Frances Blaker directs the orchestra which includes baroque strings,\
+    \ baroque oboe, baroque flute and harpsichord.\nThe North Carolina Baroque Orchestra\
+    \ is a nonprofit organization  composed of professional musicians specializing\
+    \ in historically informed performance of 17th and 18th century music on period\
+    \ instruments.\nhttps://www.ncbaroqueorchestra.org/\nQuestions? Contact Barbara\
+    \ at ncbaroqueorchestra@gmail.com \n\nFree & open to the public.\nDonations are\
+    \ greatly appreciated and are used to support the orchestra’s special projects."
+  eventdate: 08/09/2025
   eventtime: 03:00 PM
-  heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/YomxxyBetJxrcXUU8
-  sortdate: 1751137200
-  venue: Black Mountain Presbyterian Church
-- address: 100 North Main Street, Davidson, NC
-  description: "NCBO Chamber Players presents \"Welcoming Summer.\" The program includes\
-    \ two concerti from Vivaldi's \"Four Seasons,\" Spring and Summer, plus the Concerto\
-    \ for Violin in a minor by J.S. Bach. \n\nDavid Wilson, Jeanne Johnson, and Janelle\
-    \ Davis, violin, Asa Zimmerman, viola, Barbara Krumdieck, cello, William Simms,\
-    \ theorbo, Barbara Weiss, harpsichord.\n\nAdmission free, donations gratefully\
-    \ accepted."
-  eventdate: 06/29/2025
-  eventtime: 03:00 PM
-  heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/fL3tAGz2uMRs5gkb8
-  sortdate: 1751223600
-  venue: Davidson College Presbyterian Church (Sanctuary)
+  heading: Magnificent Orchestral Music of the Baroque
+  mapurl: https://maps.app.goo.gl/SFhvAaK5ruP7919o7
+  sortdate: 1754766000
+  venue: St. Patrick's Episcopal Church
 - address: ''
   description: Giovanni Battista Pergolesi's most famous work, "Stabat Mater," performed
     by members of NCBO with vocal soloists Charles Humphries, countertenor and Sarah
