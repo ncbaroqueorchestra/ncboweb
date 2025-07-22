@@ -39,6 +39,10 @@
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="bi bi-person-circle"></i></div>
+            <h4 class="title">Maryanne Mulhern</h4>
+            <p class="description">Member</p>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon"><i class="bi bi-person-circle"></i></div>
             <h4 class="title">Matt Shaul</h4>
             <p class="description">Member</p>
           </div>
