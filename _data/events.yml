@@ -1,35 +1,3 @@
-- address: 1001 Queens Road, Charlotte, NC
-  description: "Join the North Carolina Baroque Orchestra for an inspiring concert\
-    \ of magnificent music by J.S. Bach, Vivaldi, Heinichen, and Boismortier. Artistic\
-    \ director Frances Blaker directs the orchestra which includes baroque strings,\
-    \ baroque oboe, baroque flute and harpsichord.\nThe North Carolina Baroque Orchestra\
-    \ is a nonprofit organization  composed of professional musicians specializing\
-    \ in historically informed performance of 17th and 18th century music on period\
-    \ instruments.\nhttps://www.ncbaroqueorchestra.org/ \n\nQuestions? Contact Barbara\
-    \ at ncbaroqueorchestra@gmail.com \n\nFree and open to the public.\nDonations\
-    \ are greatly appreciated and are used to support the orchestra's special projects."
-  eventdate: 08/08/2025
-  eventtime: 07:00 PM
-  heading: Magnificent Orchestral Music of the Baroque
-  mapurl: https://maps.app.goo.gl/7knCdwEh11HYxGyy9
-  sortdate: 1754694000
-  venue: St. Mark's Lutheran Church
-- address: 164 Fairview Road, Mooresville, NC
-  description: "Join the North Carolina Baroque Orchestra for an inspiring concert\
-    \ of magnificent music by J.S. Bach, Vivaldi, Heinichen, and Boismortier. Artistic\
-    \ director Frances Blaker directs the orchestra which includes baroque strings,\
-    \ baroque oboe, baroque flute and harpsichord.\nThe North Carolina Baroque Orchestra\
-    \ is a nonprofit organization  composed of professional musicians specializing\
-    \ in historically informed performance of 17th and 18th century music on period\
-    \ instruments.\nhttps://www.ncbaroqueorchestra.org/ \n\nQuestions? Contact Barbara\
-    \ at ncbaroqueorchestra@gmail.com \n\nFree & open to the public.\nDonations are\
-    \ greatly appreciated and are used to support the orchestra’s special projects."
-  eventdate: 08/09/2025
-  eventtime: 03:00 PM
-  heading: Magnificent Orchestral Music of the Baroque
-  mapurl: https://maps.app.goo.gl/SFhvAaK5ruP7919o7
-  sortdate: 1754766000
-  venue: St. Patrick's Episcopal Church
 - address: 426 Oakland Avenue, Rock Hill, SC
   description: Giovanni Battista Pergolesi's most famous work, "Stabat Mater," performed
     by the NCBO Chamber Players with special guests Sarah Lynch, soprano, and Charles
@@ -63,31 +31,61 @@
   mapurl: https://maps.app.goo.gl/m81v4MRAKzYX1ET78
   sortdate: 1757271600
   venue: Davidson College Presbyterian Church (Sanctuary)
+- address: 108 East Cambridge Ave., Greenwood, SC
+  description: "NCBO Chamber Players joins trumpeters Cody Beard, Robbie Collins,\
+    \ and Noa Miller for music of Telemann, Torelli, Purcell, Biber, and others. \n\
+    \nThis concert is free and open to the public."
+  eventdate: 09/14/2025
+  eventtime: 04:00 PM
+  heading: 'The Golden Age of the Trumpet: Music for trumpets and strings'
+  mapurl: https://maps.app.goo.gl/B6cCHDN2WCfMPq3z5
+  sortdate: 1757880000
+  venue: First Presbyterian Church
+- address: 2320 North Davidson Street, Charlotte, NC 28205
+  description: 'NCBO Chamber Players is making our debut on WDAV''s Small Batch Concert
+    Series at Free Range Brewing in Charlotte. We''ll be playing concertos and sonatas
+    by Vivaldi, Bach, and Telemann, including "Summer" and "Autumn" from Vivaldi''s
+    "The Four Seasons."
+
+
+    Each $20 ticket comes with a limited-edition pint glass filled with the delicious
+    Free Range beverage of your choice. "Pay What You Can" and no-cost ticket options
+    are also available!
+
+    https://wdav.org/events/small-batch-concert-series/'
+  eventdate: 09/18/2025
+  eventtime: 07:00 PM
+  heading: WDAV Small Batch Concert at Free Range Brewing
+  mapurl: https://maps.app.goo.gl/U31pDpFMqtNyNgzm6
+  sortdate: 1758236400
+  ticketurl: https://wdav.org/events/small-batch-concert-series/
+  venue: Free Range Brewing
 - address: ''
-  description: Virtuosic baroque music for recorder, featuring Frances Blaker with
-    members of NCBO. The program includes Brandenburg Concerto 4 and Telemann's Concerto
-    in E minor for flute and recorder.
+  description: 'Vivaldi''s "Autumn" from the Four Seasons, Bach''s Brandenburg Concerto
+    #4 and Violin Concerto in A minor and MORE.'
   eventdate: 09/26/2025
   eventtime: 07:00 PM
-  heading: The Recorder with Frances Blaker
+  heading: 'Falling Leaves: music for the change of seasons'
   sortdate: 1758927600
   venue: TBD
-- address: ''
-  description: Virtuosic baroque music for recorder, featuring Frances Blaker with
-    members of NCBO. The program includes Brandenburg Concerto 4 and Telemann's Concerto
-    in E minor for flute and recorder.
+- address: 520 Summit St, Winston-Salem, NC 27101
+  description: 'Vivaldi''s "Autumn" from the Four Seasons, Bach''s Brandenburg Concerto
+    #4 and Violin Concerto in A minor and MORE.
+
+
+    Fundraiser for Friends of Music in memory of Bill Rahn. $25 suggested donation.'
   eventdate: 09/27/2025
   eventtime: 07:00 PM
-  heading: The Recorder with Frances Blaker
+  heading: 'Falling Leaves: music for the change of seasons'
+  mapurl: https://maps.app.goo.gl/na1XwHBwk2rFpKUM6
   sortdate: 1759014000
-  venue: TBD
+  venue: St. Paul's Episcopal Church, Colhoun Room
 - address: ''
-  description: Virtuosic baroque music for recorder, featuring Frances Blaker with
-    members of NCBO. The program includes Brandenburg Concerto 4 and Telemann's Concerto
-    in E minor for flute and recorder.
+  description: 'Vivaldi''s "Autumn" from the Four Seasons, Bach''s Brandenburg Concerto
+    #4 and Violin Concerto in A minor and MORE.'
   eventdate: 09/28/2025
   eventtime: 03:00 PM
-  heading: The Recorder with Frances Blaker
+  heading: 'Falling Leaves: music for the change of seasons'
   sortdate: 1759086000
   venue: TBD
 - address: 350 E Massachusetts Ave, Southern Pines, NC 28387
@@ -129,6 +127,42 @@
   mapurl: https://maps.app.goo.gl/9AB145KcBnNEs7TG7
   sortdate: 1760299200
   venue: Trinity Episcopal Cathedral
+- address: 750 Weaver Dairy Road, Chapel Hill, NC
+  description: 'Favorite baroque chamber music by Bach, Handel, Vivaldi, and others!
+
+
+    Free'
+  eventdate: 10/15/2025
+  eventtime: 07:30 PM
+  heading: NCBO Chamber Players presents "La Favorite"
+  mapurl: https://maps.app.goo.gl/5zueQ4H2xcjjoNz16
+  sortdate: 1760571000
+  venue: Carol Woods Retirement Community
+- address: 325 Bull Street, Savannah, GA
+  description: NCBO welcomes soprano Kathryn Knauer for a program of music by Handel
+    and Vivaldi, including "Autumn" from Vivaldi's "The Four Seasons" and the gorgeous
+    cantata "Sileti Venti" by Handel.
+  eventdate: 10/19/2025
+  eventtime: 05:00 PM
+  heading: '"Autumn Winds" with guest soprano Kathryn Knauer'
+  mapurl: https://maps.app.goo.gl/ErFXVonvUNyFXPib9
+  sortdate: 1760907600
+  ticketurl: https://www.instantseats.com/index.cfm?fuseaction=home.event&eventid=234A6A92-DF5E-823C-89E6EFC1E6ADFF2F&k=&CFID=21865599&CFTOKEN=64c3a29eb8fe55ec-A6EBBB73-AE1E-35D0-0A5ADD778AF637E7
+  venue: St. John's Church
+- address: 14401 Ramah Church Rd, Huntersville, NC 28078
+  description: 'An annual tradition, NCBO Chamber Players will perform a concert of
+    festive baroque chamber music to kick off Ramah Presbyterian Church''s "Christmas
+    In The Country" celebration. Immediately following the concert is the outdoor
+    lighting of the Christmas tree at 7 pm.
+
+
+    Admission free, donations appreciated.'
+  eventdate: 11/07/2025
+  eventtime: 06:00 PM
+  heading: '"Christmas In The Country" concert'
+  mapurl: https://maps.app.goo.gl/jU9daeKJQsHJeAXF7
+  sortdate: 1762556400
+  venue: Ramah Presbyterian Church
 - address: 1100 Sumter St, Columbia, SC 29201
   description: NCBO joins the choirs and soloists of Trinity Cathedral for an Episcopal
     Vespers service featuring a cantata by JS Bach.
@@ -165,3 +199,59 @@
   mapurl: https://maps.app.goo.gl/Xu4YnT9j1heNtd6q6
   sortdate: 1765746000
   venue: Trinity Episcopal Cathedral
+- address: ''
+  description: NCBO joins the choir and soloists of SC Bach in the first three cantatas
+    of J.S. Bach's amazing Christmas Oratorio.
+  eventdate: 12/20/2025
+  eventtime: 07:00 PM
+  heading: Bach's Christmas Oratorio parts 1-3 with SC Bach
+  sortdate: 1766275200
+  venue: TBD
+- address: ''
+  description: NCBO joins the choir and soloists of SC Bach for cantatas 4-6 of J.S.
+    Bach's amazing Christmas Oratorio.
+  eventdate: 12/21/2025
+  eventtime: 04:00 PM
+  heading: Bach's Christmas Oratorio parts 4-6 with SC Bach
+  sortdate: 1766350800
+  venue: TBD
+- address: 2619 Augusta St, Greenville, SC 29605
+  description: 'Vivaldi''s "Winter" from "The Four Seasons," Bach Brandenburg Concerto
+    #5, and more.'
+  eventdate: 01/30/2026
+  eventtime: 07:00 PM
+  heading: '"Embracing Winter"'
+  mapurl: https://maps.app.goo.gl/DVPBrz3CHzr9mR9k6
+  sortdate: 1769817600
+  venue: St. Michael's Lutheran Church
+- address: 100 Cedar Club Circle, Chapel Hill, NC
+  description: 'Vivaldi''s "Winter" from "The Four Seasons," Bach Brandenburg Concerto
+    #5, and more.'
+  eventdate: 01/31/2026
+  eventtime: 03:00 PM
+  heading: '"Embracing Winter"'
+  mapurl: https://maps.app.goo.gl/iG2TRUJ4b6S4gJfs9
+  sortdate: 1769889600
+  venue: The Cedars of Chapel Hill
+- address: 520 Summit Street, Winston-Salem
+  description: 'Friends of Music at St. Paul''s presents “Embracing Winter:” Vivaldi''s
+    "Winter" from "The Four Seasons," Bach Brandenburg Concerto #5, and more.
+
+
+    $20 suggested donation at the door.'
+  eventdate: 02/01/2026
+  eventtime: 03:00 PM
+  heading: '"Embracing Winter"'
+  mapurl: https://maps.app.goo.gl/48WQR2oGMHj2TVnS6
+  sortdate: 1769976000
+  venue: St. Paul's Episcopal Church
+- address: 2575 Parkway Drive, Winston-Salem, NC
+  description: NCBO joins the Winston-Salem Choral Artists under the direction of
+    Dr. Chris Gilliam for J.S. Bach's incredible Mass in B minor.
+  eventdate: 05/02/2026
+  eventtime: 07:00 PM
+  heading: J.S. Bach's Mass in B Minor with Winston-Salem Choral Artists
+  mapurl: https://maps.app.goo.gl/vHYLQmDGgNbXTmhc6
+  sortdate: 1777762800
+  ticketurl: https://wschoralartists.org/tickets/
+  venue: St. Timothy’s Episcopal Church
