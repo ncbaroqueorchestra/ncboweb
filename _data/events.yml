@@ -61,34 +61,56 @@
   ticketurl: https://wdav.org/events/small-batch-concert-series/
   venue: Free Range Brewing
 - address: 1225 Chestnut Dr., High Point, NC 27262
-  description: 'Vivaldi''s "Autumn" from the Four Seasons, Bach''s Brandenburg Concerto
-    #4 and Violin Concerto in A minor and MORE.'
+  description: 'Join the North Carolina Baroque Orchestra in this musical celebration
+    of the changing of the seasons. You’ll be inspired by Vivaldi’s “Autumn”  from
+    The Four Seasons, Bach’s incredible Brandenburg Concerto #4 and vibrant Concerti
+    for 2 oboes & 2 recorders by Telemann & Vivaldi.
+
+
+    Questions? Write to Barbara at ncbaroqueorchestra@gmail.com.
+
+
+    Free concert: Your donations to the orchestra are appreciated '
   eventdate: 09/26/2025
   eventtime: 07:00 PM
-  heading: 'Falling Leaves: music for the change of season'
+  heading: Autumn Leaves
   mapurl: https://maps.app.goo.gl/2bzpX7qJYWHhaKpV7
   sortdate: 1758927600
   venue: Wesley Memorial Methodist Church
 - address: 520 Summit St, Winston-Salem, NC 27101
-  description: 'Vivaldi''s "Autumn" from the Four Seasons, Bach''s Brandenburg Concerto
-    #4 and Violin Concerto in A minor and MORE.
+  description: 'Join the North Carolina Baroque Orchestra in this musical celebration
+    of the changing of the seasons. You’ll be inspired by Vivaldi’s “Autumn”  from
+    The Four Seasons, Bach’s incredible Brandenburg Concerto #4 and vibrant Concerti
+    for 2 oboes & 2 recorders by Telemann & Vivaldi.
+
+
+    Questions? Write to Barbara at ncbaroqueorchestra@gmail.com.
 
 
     Fundraiser for Friends of Music in memory of Bill Rahn. $25 suggested donation.'
   eventdate: 09/27/2025
   eventtime: 03:00 PM
-  heading: 'Falling Leaves: music for the change of seasons'
+  heading: Autumn Leaves
   mapurl: https://maps.app.goo.gl/na1XwHBwk2rFpKUM6
   sortdate: 1758999600
   venue: St. Paul's Episcopal Church, Colhoun Room
-- address: ''
-  description: 'Vivaldi''s "Autumn" from the Four Seasons, Bach''s Brandenburg Concerto
-    #4 and Violin Concerto in A minor and MORE.'
+- address: 164 Fairview Rd, Mooresville, NC 28117
+  description: 'Join the North Carolina Baroque Orchestra in this musical celebration
+    of the changing of the seasons. You’ll be inspired by Vivaldi’s “Autumn”  from
+    The Four Seasons, Bach’s incredible Brandenburg Concerto #4 and vibrant Concerti
+    for 2 oboes & 2 recorders by Telemann & Vivaldi.
+
+
+    Questions? Write to Barbara at ncbaroqueorchestra@gmail.com.
+
+
+    Free concert: Your donations to the orchestra are appreciated '
   eventdate: 09/28/2025
   eventtime: 03:00 PM
-  heading: 'Falling Leaves: music for the change of seasons'
+  heading: Autumn Leaves
+  mapurl: https://maps.app.goo.gl/1yCbqLWaCP9Yzd1j8
   sortdate: 1759086000
-  venue: TBD
+  venue: St. Patrick's Episcopal Church
 - address: 350 E Massachusetts Ave, Southern Pines, NC 28387
   description: The NCBO Chamber Players (Martie Perry and David Wilson, violins, Barbara
     Krumdieck, cello, and Barbara Weiss, harpsichord) present a program of favorite
@@ -219,22 +241,26 @@
   mapurl: https://maps.app.goo.gl/Xu4YnT9j1heNtd6q6
   sortdate: 1765746000
   venue: Trinity Episcopal Cathedral
-- address: ''
+- address: 3300 Poinsett Hwy, Greenville, SC 29613
   description: NCBO joins the choir and soloists of SC Bach in the first three cantatas
     of J.S. Bach's amazing Christmas Oratorio.
   eventdate: 12/20/2025
+  eventdetailsurl: https://scbach.org/events
   eventtime: 07:00 PM
   heading: Bach's Christmas Oratorio parts 1-3 with SC Bach
+  mapurl: https://maps.app.goo.gl/XHvuQwg3wGM9NK6p7
   sortdate: 1766275200
-  venue: TBD
-- address: ''
+  venue: Furman University Daniel Chapel
+- address: 3300 Poinsett Hwy, Greenville, SC 29613
   description: NCBO joins the choir and soloists of SC Bach for cantatas 4-6 of J.S.
     Bach's amazing Christmas Oratorio.
   eventdate: 12/21/2025
+  eventdetailsurl: https://scbach.org/events
   eventtime: 04:00 PM
   heading: Bach's Christmas Oratorio parts 4-6 with SC Bach
+  mapurl: https://maps.app.goo.gl/XHvuQwg3wGM9NK6p7
   sortdate: 1766350800
-  venue: TBD
+  venue: Daniel Chapel, Furman University
 - address: 2619 Augusta St, Greenville, SC 29605
   description: 'Vivaldi''s "Winter" from "The Four Seasons," Bach Brandenburg Concerto
     #5, and more.'
