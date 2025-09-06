@@ -1,14 +1,3 @@
-- address: 426 Oakland Avenue, Rock Hill, SC
-  description: Giovanni Battista Pergolesi's most famous work, "Stabat Mater," performed
-    by the NCBO Chamber Players with special guests Sarah Lynch, soprano, and Charles
-    Humphries, countertenor.
-  eventdate: 09/05/2025
-  eventtime: 07:00 PM
-  heading: Pergolesi's "Stabat Mater" with special guests Sarah Lynch, soprano, and
-    Charles Humphries, countertenor
-  mapurl: https://maps.app.goo.gl/3qqBw8i4oKpH6kT3A
-  sortdate: 1757113200
-  venue: Grace Lutheran Church
 - address: 207 W John St, Matthews, NC 28105
   description: Giovanni Battista Pergolesi's most famous work, "Stabat Mater," performed
     by the NCBO Chamber Players with special guests Sarah Lynch,soprano,and Charles
@@ -291,6 +280,15 @@
   mapurl: https://maps.app.goo.gl/48WQR2oGMHj2TVnS6
   sortdate: 1769976000
   venue: St. Paul's Episcopal Church
+- address: 750 Weaver Dairy Rd, Chapel Hill, NC 27514
+  description: Chamber music for strings and flute, featuring baroque flutist Rodrigo
+    Tarraza.
+  eventdate: 04/01/2026
+  eventtime: 07:30 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/cUGueQhASzMCn4U47
+  sortdate: 1775086200
+  venue: Carol Woods Retirement Community
 - address: 2575 Parkway Drive, Winston-Salem, NC
   description: NCBO joins the Winston-Salem Choral Artists under the direction of
     Dr. Chris Gilliam for J.S. Bach's incredible Mass in B minor.
@@ -301,3 +299,12 @@
   sortdate: 1777762800
   ticketurl: https://wschoralartists.org/tickets/
   venue: St. Timothy’s Episcopal Church
+- address: 750 Weaver Dairy Rd, Chapel Hill, NC 27514
+  description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
+    and other music.
+  eventdate: 05/06/2026
+  eventtime: 10:09 AM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/cUGueQhASzMCn4U47
+  sortdate: 1778076540
+  venue: Carol Woods Retirement Community
