@@ -1,8 +1,15 @@
 name: 3-Deploy to Production
 on:
   workflow_dispatch:
+  issues:
+    types: [opened]
+    
 jobs:
   build-and-deploy:
+    if: >
+      (github.event.issue.user.login == 'steverhall' &&
+      contains(github.event.issue.labels.*.name, 'deploy_prod')) ||
+      github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -19,3 +26,12 @@ jobs:
           publish_branch: prod-site
           publish_dir: .
           cname: www.ncbaroqueorchestra.org
+          
+      # only run next if triggered by issue
+      - name: Close issue
+        if : contains(github.event.issue.labels.*.name, 'deploy_prod')
+        uses: actions-cool/issues-helper@v3
+        with:
+          actions: 'close-issue'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
