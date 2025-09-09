@@ -1,25 +1,3 @@
-- address: 207 W John St, Matthews, NC 28105
-  description: Giovanni Battista Pergolesi's most famous work, "Stabat Mater," performed
-    by the NCBO Chamber Players with special guests Sarah Lynch,soprano,and Charles
-    Humphries, countertenor.
-  eventdate: 09/06/2025
-  eventtime: 07:00 PM
-  heading: Pergolesi's "Stabat Mater" with Sarah Lynch, soprano, and Charles Humphries,
-    countertenor
-  mapurl: https://maps.app.goo.gl/T2ezEmCq5r7i516T9
-  sortdate: 1757199600
-  venue: Matthews Presbyterian Church
-- address: 100 N. Main Street, Davidson, NC
-  description: Giovanni Battista Pergolesi's most famous work, "Stabat Mater," performed
-    by the NCBO Chamber Players with special guests Sarah Lynch,soprano, and Charles
-    Humphries, countertenor.
-  eventdate: 09/07/2025
-  eventtime: 03:00 PM
-  heading: Pergolesi's "Stabat Mater" with Sarah Lynch,soprano, and Charles Humphries,
-    countertenor
-  mapurl: https://maps.app.goo.gl/m81v4MRAKzYX1ET78
-  sortdate: 1757271600
-  venue: Davidson College Presbyterian Church (Sanctuary)
 - address: 108 East Cambridge Ave., Greenwood, SC
   description: "NCBO Chamber Players joins trumpeters Cody Beard, Robbie Collins,\
     \ and Noa Miller for music of Telemann, Torelli, Purcell, Biber, and others. \n\
@@ -303,8 +281,8 @@
   description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
     and other music.
   eventdate: 05/06/2026
-  eventtime: 10:09 AM
+  eventtime: 10:00 AM
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/cUGueQhASzMCn4U47
-  sortdate: 1778076540
+  sortdate: 1778076000
   venue: Carol Woods Retirement Community
