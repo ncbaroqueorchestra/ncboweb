@@ -62,21 +62,22 @@ jobs:
           WORKFLOW_NAME: ${{ github.workflow }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
           JOB_STATUS: ${{ job.status }}
+          REPO_NAME: ${{ github.repository }}
+          JOB_NAME: ${{ github.job }}
+          ACTOR_NAME: ${{ github.actor }}
         run: |
           if [ -z "$PUSHOVER_USER_KEY" ] || [ -z "$PUSHOVER_APP_TOKEN" ]; then
             echo "Pushover credentials not configured; skipping notification."
             exit 0
           fi
 
-          MESSAGE=$(cat <<EOF
-Repository: ${{ github.repository }}
-Workflow: $WORKFLOW_NAME
-Job: ${{ github.job }}
-Status: $JOB_STATUS
-Actor: ${{ github.actor }}
-Run: $RUN_URL
-EOF
-          )
+          printf -v MESSAGE 'Repository: %s\nWorkflow: %s\nJob: %s\nStatus: %s\nActor: %s\nRun: %s' \
+            "$REPO_NAME" \
+            "$WORKFLOW_NAME" \
+            "$JOB_NAME" \
+            "$JOB_STATUS" \
+            "$ACTOR_NAME" \
+            "$RUN_URL"
 
           if ! curl -s \
             --form-string "token=$PUSHOVER_APP_TOKEN" \
