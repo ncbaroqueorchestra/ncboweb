@@ -68,12 +68,15 @@ jobs:
             exit 0
           fi
 
-          MESSAGE="Repository: ${{ github.repository }}
+          MESSAGE=$(cat <<EOF
+Repository: ${{ github.repository }}
 Workflow: $WORKFLOW_NAME
 Job: ${{ github.job }}
 Status: $JOB_STATUS
 Actor: ${{ github.actor }}
-Run: $RUN_URL"
+Run: $RUN_URL
+EOF
+          )
 
           if ! curl -s \
             --form-string "token=$PUSHOVER_APP_TOKEN" \
