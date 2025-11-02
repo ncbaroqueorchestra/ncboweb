@@ -35,3 +35,32 @@ jobs:
           actions: 'close-issue'
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
+      - name: Notify Pushover
+        if: always()
+        env:
+          PUSHOVER_USER_KEY: ${{ secrets.PUSHOVER_USER_KEY }}
+          PUSHOVER_APP_TOKEN: ${{ secrets.PUSHOVER_APP_TOKEN }}
+          WORKFLOW_NAME: ${{ github.workflow }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          if [ -z "$PUSHOVER_USER_KEY" ] || [ -z "$PUSHOVER_APP_TOKEN" ]; then
+            echo "Pushover credentials not configured; skipping notification."
+            exit 0
+          fi
+
+          MESSAGE="Repository: ${{ github.repository }}
+Workflow: $WORKFLOW_NAME
+Job: ${{ github.job }}
+Status: $JOB_STATUS
+Actor: ${{ github.actor }}
+Run: $RUN_URL"
+
+          if ! curl -s \
+            --form-string "token=$PUSHOVER_APP_TOKEN" \
+            --form-string "user=$PUSHOVER_USER_KEY" \
+            --form-string "title=$WORKFLOW_NAME - $JOB_STATUS" \
+            --form-string "message=$MESSAGE" \
+            https://api.pushover.net/1/messages.json; then
+            echo "Pushover notification failed."
+          fi
