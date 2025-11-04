@@ -155,8 +155,43 @@
   description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
     and other music.
   eventdate: 05/06/2026
-  eventtime: 10:00 AM
-  heading: NCBO Chamber Players
+  eventtime: 07:30 PM
+  heading: '"Spring Into Summer" with the NCBO Chamber Players'
   mapurl: https://maps.app.goo.gl/cUGueQhASzMCn4U47
-  sortdate: 1778076000
+  sortdate: 1778110200
   venue: Carol Woods Retirement Community
+- address: 310 Exploration Blvd . Denver, NC 28037, United States
+  description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
+    and other music.
+  eventdate: 05/07/2026
+  eventtime: 04:00 PM
+  heading: '"Spring Into Summer" with the NCBO Chamber Players'
+  mapurl: https://maps.app.goo.gl/L8qNkPmWWumjq8ySA
+  sortdate: 1778184000
+  venue: Trilogy Lake Norman
+- address: 125 N Meeting Street, Statesville, NC 28677
+  description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
+    and other music.
+  eventdate: 05/08/2026
+  eventtime: 07:00 PM
+  heading: '"Spring Into Summer" with the NCBO Chamber Players'
+  mapurl: https://maps.app.goo.gl/SjXvk1RWFoSXqbgr5
+  sortdate: 1778281200
+  venue: First Presbyterian Church
+- address: ''
+  description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
+    and other music.
+  eventdate: 05/09/2026
+  eventtime: 03:00 PM
+  heading: '"Spring Into Summer" with the NCBO Chamber Players'
+  sortdate: 1778353200
+  venue: TBD
+- address: 309 W Gay St, Lancaster, SC 29720
+  description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
+    and other music.
+  eventdate: 05/10/2026
+  eventtime: 03:00 PM
+  heading: '"Spring Into Summer" with the NCBO Chamber Players'
+  mapurl: https://maps.app.goo.gl/a4gXzFTbUPFY74fFA
+  sortdate: 1778439600
+  venue: Lancaster Cultural Arts Center
