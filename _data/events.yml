@@ -1,45 +1,3 @@
-- address: 16 N 16th St, Wilmington, NC 28401
-  description: NCBO joins the choir and soloists of St. Paul's Episcopal Church in
-    Wilmington, NC for a performance of Handel's Messiah.
-  eventdate: 12/12/2025
-  eventimage: HandelMessiah.jpg
-  eventtime: 07:30 PM
-  heading: Handel's Messiah in Wilmington
-  mapurl: https://maps.app.goo.gl/ptNu9tuCQG1sBsCw8
-  sortdate: 1765585800
-  venue: St. Paul's Episcopal Church
-- address: 1100 Sumter St, Columbia, SC 29201
-  description: NCBO joins the choir and soloists of Trinity Episcopal Cathedral for
-    a performance of Handel's Messiah.
-  eventdate: 12/14/2025
-  eventimage: HandelMessiah.jpg
-  eventtime: 04:00 PM
-  heading: Handel's Messiah in Columbia
-  mapurl: https://maps.app.goo.gl/Xu4YnT9j1heNtd6q6
-  sortdate: 1765746000
-  venue: Trinity Episcopal Cathedral
-- address: 3300 Poinsett Hwy, Greenville, SC 29613
-  description: NCBO joins the choir and soloists of SC Bach in the first three cantatas
-    of J.S. Bach's amazing Christmas Oratorio.
-  eventdate: 12/20/2025
-  eventdetailsurl: https://scbach.org/events
-  eventimage: BachOratorio.jpg
-  eventtime: 07:00 PM
-  heading: Bach's Christmas Oratorio parts 1-3 with SC Bach
-  mapurl: https://maps.app.goo.gl/XHvuQwg3wGM9NK6p7
-  sortdate: 1766275200
-  venue: Furman University Daniel Chapel
-- address: 3300 Poinsett Hwy, Greenville, SC 29613
-  description: NCBO joins the choir and soloists of SC Bach for cantatas 4-6 of J.S.
-    Bach's amazing Christmas Oratorio.
-  eventdate: 12/21/2025
-  eventdetailsurl: https://scbach.org/events
-  eventimage: BachOratorio.jpg
-  eventtime: 04:00 PM
-  heading: Bach's Christmas Oratorio parts 4-6 with SC Bach
-  mapurl: https://maps.app.goo.gl/XHvuQwg3wGM9NK6p7
-  sortdate: 1766350800
-  venue: Daniel Chapel, Furman University
 - address: 2619 Augusta St, Greenville, SC 29605
   description: 'Vivaldi''s "Winter" from "The Four Seasons," Bach Brandenburg Concerto
     #5, and more.'
@@ -73,6 +31,71 @@
   mapurl: https://maps.app.goo.gl/48WQR2oGMHj2TVnS6
   sortdate: 1769976000
   venue: St. Paul's Episcopal Church
+- address: 100 N. Main Street, Davidson, NC
+  description: "Members of the North Carolina Baroque Orchestra perform Suites, Partitas\
+    \ and Sonatas for unaccompanied cello, violin, flute and harpsichord. \n\nDavid\
+    \ Wilson, baroque violin - Francis Yun, harpsichord - Sung Lee, baroque flute,\
+    \ and Lisa Liske, baroque cello\n\nTickets: $20 general/$15 students & seniors"
+  eventdate: 03/06/2026
+  eventtime: 07:30 PM
+  heading: Davidson Bach Festival - "Bach for Solo Instruments"
+  mapurl: https://maps.app.goo.gl/ytKfda2oYE1NN6rs6
+  sortdate: 1772843400
+  ticketurl: https://www.eventbrite.com/e/davidson-bach-festival-bach-for-solo-instruments-tickets-1980543382572?aff=oddtdtcreator
+  venue: Davidson College Presbyterian Church (Sanctuary)
+- address: 100 North Main Street, Davidson, NC
+  description: 'Davidson Bach Festival March 6-8, 2026 All Festival Pass!
+
+    Concerts: Friday, March 6th at 7:30 “Bach for Solo Instruments,” Saturday, March
+    7th at 11am "The Voice of Bach: Arias and Chorales,” Saturday, March 7th at 5:00pm
+    The North Carolina Baroque Orchestra presents “A Musical Offering: Magnificent
+    concertos and chamber music by J.S. Bach,” Sunday, March 8th at 3:30pm Organ at
+    Davidson presents: “Chase Loomer in Concert."'
+  eventdate: 03/06/2026
+  eventtime: 07:30 PM
+  heading: Davidson Bach Festival - All Festival Pass
+  mapurl: https://maps.app.goo.gl/ytKfda2oYE1NN6rs6
+  sortdate: 1772843400
+  ticketurl: https://www.eventbrite.com/e/davidson-bach-festival-all-festival-pass-tickets-1980570327164?aff=oddtdtcreator
+  venue: Davidson College Presbyterian Church (Sanctuary)
+- address: 100 N. Main Street, Davidson, NC
+  description: "Join four wonderful vocalists and members of the North Carolina Baroque\
+    \ Orchestra for an inspiring morning of some of our favorite Bach arias. The program\
+    \ begins and ends with Bach’s stirring chorales. \n\nCoffee is served!\n\nTickets:\
+    \ $20 general/$15 students & seniors"
+  eventdate: 03/07/2026
+  eventtime: 11:00 AM
+  heading: 'Davidson Bach Festival - "The Voice of Bach: Arias and Chorales"'
+  mapurl: https://maps.app.goo.gl/ytKfda2oYE1NN6rs6
+  sortdate: 1772899200
+  ticketurl: https://www.eventbrite.com/e/davidson-bach-festival-a-musical-offering-tickets-1980544259194?aff=oddtdtcreator
+  venue: Davidson College Presbyterian Church (Sanctuary)
+- address: 100 N. Main Street, Davidson, NC
+  description: 'This program features the North Carolina Baroque Orchestra performing
+    Brandenburg Concerto No. 5, a concerto for oboe & violin, the Violin Concerto
+    in E Major, and Bach’s “Musical Offering” trio sonata!
+
+
+    Tickets: $20 general/$15 students & seniors'
+  eventdate: 03/07/2026
+  eventtime: 05:00 PM
+  heading: 'Davidson Bach Festival - “A Musical Offering: Magnificent concertos and
+    chamber music by J.S. Bach”'
+  mapurl: https://maps.app.goo.gl/ytKfda2oYE1NN6rs6
+  sortdate: 1772920800
+  ticketurl: https://www.eventbrite.com/e/davidson-bach-festival-a-musical-offering-tickets-1980544259194?aff=oddtdtcreator
+  venue: Davidson College Presbyterian Church (Sanctuary)
+- address: 100 N. Main Street, Davidson, NC
+  description: 'Organ at Davidson presents an organ recital by Chase Loomer.
+
+    Free concert. Donations to Organ at Davidson are appreciated.'
+  eventdate: 03/08/2026
+  eventtime: 03:30 PM
+  heading: Davidson Bach Festival - "Chase Loomer In Concert"
+  mapurl: https://maps.app.goo.gl/ytKfda2oYE1NN6rs6
+  sortdate: 1772998200
+  ticketurl: https://www.organatdavidson.org/
+  venue: Davidson College Presbyterian Church
 - address: 750 Weaver Dairy Rd, Chapel Hill, NC 27514
   description: Chamber music for strings and flute, featuring baroque flutist Rodrigo
     Tarraza.
