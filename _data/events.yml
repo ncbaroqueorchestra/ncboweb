@@ -1,3 +1,17 @@
+- address: 164 Fairview Road, Mooresville, NC
+  description: 'Join NCBO for a look behind the scenes at an open rehearsal for our
+    program "Embracing Winter." On the program is Bach''s concerto for two violins,
+    Vivaldi''s "Winter" from The Four Seasons, Bach''s Brandenburg Concerto No. 5,
+    and other music.
+
+
+    Free and open to the public.'
+  eventdate: 01/29/2026
+  eventtime: 03:00 PM
+  heading: Open Rehearsal - "Embracing Winter"
+  mapurl: https://maps.app.goo.gl/L5NRybjuQWJHSPnu7
+  sortdate: 1769716800
+  venue: St. Patrick's Episcopal Church
 - address: 2619 Augusta St, Greenville, SC 29605
   description: 'Vivaldi''s "Winter" from "The Four Seasons," Bach Brandenburg Concerto
     #5, and more.'
@@ -19,15 +33,11 @@
   sortdate: 1769889600
   venue: The Cedars of Chapel Hill
 - address: 520 Summit Street, Winston-Salem
-  description: 'Friends of Music at St. Paul''s presents “Embracing Winter:” Vivaldi''s
-    "Winter" from "The Four Seasons," Bach Brandenburg Concerto #5, and more.
-
-
-    $20 suggested donation at the door.'
+  description: This concert has been cancelled.
   eventdate: 02/01/2026
   eventimage: EmbracingWinter.jpg
   eventtime: 03:00 PM
-  heading: '"Embracing Winter"'
+  heading: CANCELLED - "Embracing Winter"
   mapurl: https://maps.app.goo.gl/48WQR2oGMHj2TVnS6
   sortdate: 1769976000
   venue: St. Paul's Episcopal Church
@@ -96,15 +106,6 @@
   sortdate: 1772998200
   ticketurl: https://www.organatdavidson.org/
   venue: Davidson College Presbyterian Church
-- address: 750 Weaver Dairy Rd, Chapel Hill, NC 27514
-  description: Chamber music for strings and flute, featuring baroque flutist Rodrigo
-    Tarraza.
-  eventdate: 04/01/2026
-  eventtime: 07:30 PM
-  heading: NCBO Chamber Players
-  mapurl: https://maps.app.goo.gl/cUGueQhASzMCn4U47
-  sortdate: 1775086200
-  venue: Carol Woods Retirement Community
 - address: 2575 Parkway Drive, Winston-Salem, NC
   description: NCBO joins the Winston-Salem Choral Artists under the direction of
     Dr. Chris Gilliam for J.S. Bach's incredible Mass in B minor.
