@@ -41,6 +41,15 @@
   mapurl: https://maps.app.goo.gl/48WQR2oGMHj2TVnS6
   sortdate: 1769976000
   venue: St. Paul's Episcopal Church
+- address: 3100 Highland Avenue, Birmingham, AL
+  description: Music of Telemann, Handel, and Vivaldi.
+  eventdate: 02/06/2026
+  eventdetailsurl: https://ipc-usa.org/ministries/music-fine-arts/2026-religious-arts-festival.html/event/2026/02/06/early-music-concert-embracing-winter/551727
+  eventtime: 07:00 PM
+  heading: NCBO Chamber Players with soprano Kathryn Knauer
+  mapurl: https://maps.app.goo.gl/MroEUVD5WXwabdRL7
+  sortdate: 1770422400
+  venue: Independent Presbyterian Church
 - address: 100 North Main Street, Davidson, NC
   description: 'Davidson Bach Festival March 6-8, 2026 All Festival Pass!
 
@@ -106,6 +115,26 @@
   sortdate: 1772998200
   ticketurl: https://www.organatdavidson.org/
   venue: Davidson College Presbyterian Church
+- address: 1100 Sumter St., Columbia, SC
+  description: NCBO joins with the wonderful choirs of Columbia, SC's Trinity Episcopal
+    Cathedral for J.S. Bach's masterpiece, The Passion According to St. John.
+  eventdate: 03/29/2026
+  eventdetailsurl: https://www.trinitysc.org/events/bachs-st-john-passion
+  eventtime: 04:00 PM
+  heading: Bach's St. John Passion
+  mapurl: https://maps.app.goo.gl/nxrprxHNSo6JmbiW8
+  sortdate: 1774814400
+  venue: Trinity Episcopal Cathedral
+- address: 1100 Sumter Street, Columbia, SC
+  description: NCBO joins the choirs of Trinity Cathedral for Bach Vespers, this month
+    featuring music of Buxtehude.
+  eventdate: 04/12/2026
+  eventdetailsurl: https://www.trinitysc.org/events/bach-vespers-rescheduled-april-12
+  eventtime: 04:00 PM
+  heading: Bach Vespers
+  mapurl: https://maps.app.goo.gl/nxrprxHNSo6JmbiW8
+  sortdate: 1776024000
+  venue: Trinity Episcopal Cathedral
 - address: 2575 Parkway Drive, Winston-Salem, NC
   description: NCBO joins the Winston-Salem Choral Artists under the direction of
     Dr. Chris Gilliam for J.S. Bach's incredible Mass in B minor.
@@ -160,3 +189,24 @@
   mapurl: https://maps.app.goo.gl/a4gXzFTbUPFY74fFA
   sortdate: 1778439600
   venue: Lancaster Cultural Arts Center
+- address: ''
+  description: 'Join The North Carolina baroque Orchestra in a program of orchestral
+    music from the Italian Baroque, including Vivialdi''s mandolin concerto.
+
+    Greenville, SC venue TBD.'
+  eventdate: 05/15/2026
+  eventdetailsurl: https://scbach.org/sc-baroque-music-festival
+  eventtime: 07:00 PM
+  heading: South Carolina Baroque Music Festival - NCBO in concert
+  sortdate: 1778886000
+  venue: ''
+- address: ''
+  description: 'NCBO joins SC Bach for Handel''s "Messiah"
+
+    Greenville, SC venue tbd'
+  eventdate: 05/17/2026
+  eventdetailsurl: https://scbach.org/sc-baroque-music-festival
+  eventtime: 07:00 PM
+  heading: South Carolina Baroque Music Festival - Handel's Messiah
+  sortdate: 1779058800
+  venue: ''
