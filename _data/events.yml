@@ -19,7 +19,7 @@
 
     <ul>
 
-    <li>March 6th at 7:30 "Bach for Solo Instruments"<li>
+    <li>March 6th at 7:30 "Bach for Solo Instruments"</li>
 
     <li>March 7th at 11am "The Voice of Bach: Arias and Chorales"</li>
 
@@ -39,9 +39,10 @@
   venue: Davidson College Presbyterian Church (Sanctuary)
 - address: 100 N. Main Street, Davidson, NC
   description: "Members of the North Carolina Baroque Orchestra perform Suites, Partitas\
-    \ and Sonatas for unaccompanied cello, violin, flute and harpsichord. \n\nDavid\
-    \ Wilson, baroque violin - Francis Yun, harpsichord - Sung Lee, baroque flute,\
-    \ and Lisa Liske, baroque cello\n\nTickets: $20 general/$15 students & seniors"
+    \ and Sonatas for unaccompanied cello, violin, flute and harpsichord. \n<ul>\n\
+    <li>David Wilson, baroque violin</li>\n<li>Francis Yun, harpsichord</li>\n<li>Sung\
+    \ Lee, baroque flute</li>\n<li>Lisa Liske, baroque cello</li>\n</ul>\nTickets:\
+    \ $20 general/$15 students & seniors"
   eventdate: 03/06/2026
   eventimage: bachfestival.jpeg
   eventtime: 07:30 PM
@@ -53,8 +54,8 @@
 - address: 100 N. Main Street, Davidson, NC
   description: "Join four wonderful vocalists and members of the North Carolina Baroque\
     \ Orchestra for an inspiring morning of some of our favorite Bach arias. The program\
-    \ begins and ends with Bach’s stirring chorales. \n\nCoffee is served!\n\nTickets:\
-    \ $20 general/$15 students & seniors"
+    \ begins and ends with Bach’s stirring chorales. \n<p>\nCoffee is served!\n</p>\n\
+    Tickets: $20 general/$15 students & seniors"
   eventdate: 03/07/2026
   eventimage: bachfestival.jpeg
   eventtime: 11:00 AM
@@ -64,12 +65,25 @@
   ticketurl: https://www.eventbrite.com/e/davidson-bach-festival-the-voice-of-bach-arias-and-chorales-tickets-1980625749935?aff=oddtdtcreator
   venue: Davidson College Presbyterian Church (Sanctuary)
 - address: 100 N. Main Street, Davidson, NC
-  description: 'This program features the North Carolina Baroque Orchestra performing
-    Brandenburg Concerto No. 5, a concerto for oboe & violin, the Violin Concerto
-    in E Major, and Bach’s “Musical Offering” trio sonata!
+  description: 'This program features the North Carolina Baroque Orchestra performing:
 
+    <ul>
 
-    Tickets: $20 general/$15 students & seniors'
+    <li>Brandenburg Concerto No. 5</li>
+
+    <li>Concerto for oboe & violin</li>
+
+    <li>Violin Concerto in E Major</li>
+
+    <li>Bach’s “Musical Offering” trio sonata!</li>
+
+    </ul>
+
+    <p>
+
+    Tickets: $20 general/$15 students & seniors
+
+    </p>'
   eventdate: 03/07/2026
   eventimage: bachfestival.jpeg
   eventtime: 05:00 PM
@@ -82,7 +96,7 @@
 - address: 100 N. Main Street, Davidson, NC
   description: 'Organ at Davidson presents an organ recital by Chase Loomer.
 
-    Free concert. Donations to Organ at Davidson are appreciated.'
+    <p>Free concert.</p>Donations to Organ at Davidson are appreciated.'
   eventdate: 03/08/2026
   eventimage: bachfestival.jpeg
   eventtime: 03:30 PM
