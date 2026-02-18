@@ -15,13 +15,20 @@
   ticketurl: https://airtable.com/appvugRzWhcv3pA1H/tblm5SUEin7YWNJq1/viwlNjgZ7uQjobbgh/recERyaOlHVjmk58u/fldNmGtfmDmmkudT3?copyLinkToCellOrRecordOrigin=gridView
   venue: Davidson College Presbyterian Church (Sancturay)
 - address: 100 North Main Street, Davidson, NC
-  description: 'Davidson Bach Festival March 6-8, 2026 All Festival Pass!
+  description: 'Davidson Bach Festival - All Festival Pass!
 
-    Concerts: Friday, March 6th at 7:30 “Bach for Solo Instruments,” Saturday, March
-    7th at 11am "The Voice of Bach: Arias and Chorales,” Saturday, March 7th at 5:00pm
-    The North Carolina Baroque Orchestra presents “A Musical Offering: Magnificent
-    concertos and chamber music by J.S. Bach,” Sunday, March 8th at 3:30pm Organ at
-    Davidson presents: “Chase Loomer in Concert."'
+    <ul>
+
+    <li>March 6th at 7:30 "Bach for Solo Instruments"<li>
+
+    <li>March 7th at 11am "The Voice of Bach: Arias and Chorales"</li>
+
+    <li>March 7th at 5:00pm The North Carolina Baroque Orchestra presents “A Musical
+    Offering: Magnificent concertos and chamber music by J.S. Bach”</li>
+
+    <li>March 8th at 3:30pm Organ at Davidson presents: “Chase Loomer in Concert"</li>
+
+    </ul>'
   eventdate: 03/06/2026
   eventimage: bachfestival.jpeg
   eventtime: 12:00 PM
