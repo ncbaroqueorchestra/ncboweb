@@ -1,18 +1,27 @@
-- boardmember: Rob Thomas
-  position: Member
-- boardmember: Mary Lathem
-  position: Member
 - boardmember: Barbara Blaker Krumdieck
+  order: 1
   position: ex officio, Executive Director
-- boardmember: Thomas Miller
-  position: Secretary
-- boardmember: Maryanne Mulhern
-  position: Member
 - boardmember: Paul Keller
-  position: Chair, President
+  order: 5
+  position: Chair
 - boardmember: Matt Shaul
+  order: 10
   position: Chair-Elect
-- boardmember: Jane Cain
-  position: ''
 - boardmember: Chuck Latham
+  order: 15
   position: Treasurer
+- boardmember: Thomas Miller
+  order: 20
+  position: Secretary
+- boardmember: Jane Cain
+  order: 30
+  position: ''
+- boardmember: Mary Lathem
+  order: 40
+  position: Member
+- boardmember: Maryanne Mulhern
+  order: 50
+  position: Member
+- boardmember: Rob Thomas
+  order: 60
+  position: Member
