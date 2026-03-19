@@ -25,8 +25,11 @@ for record in records:
     # Adding fields
     new_rec['boardmember'] = fields.get('Name', '')
     new_rec['position'] = fields.get('Position', '')
-    
+    new_rec['order'] = fields.get('DisplayOrder', '')
 
     formatted_records.append(new_rec)
 
+formatted_records = sorted(formatted_records, key=lambda x: (x['order']))
+
 yaml.dump(formatted_records, default_flow_style=False, allow_unicode=True, stream=open('_data/board.yml', 'w', encoding='utf-8'))
+
