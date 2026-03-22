@@ -7,46 +7,17 @@
         </div>
 
         <div class="row">
+          {% assign board_sorted = site.data.board | sort: "order" %}
+          {% for member in board_sorted %}
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
             <div class="icon"><i class="bi bi-person-circle"></i></div>
-            <h4 class="title">Barbara Blaker Krumdieck</h4>
-            <p class="description">Executive Director</p>
+            <h4 class="title">{{ member.boardmember }}</h4>
+            {% if member.position != '' %}
+            <p class="description">{{ member.position }}</p>
+            {% endif %}
           </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon"><i class="bi bi-person-circle"></i></div>
-            <h4 class="title">Jane Cain</h4>
-            <p class="description">Chair</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon"><i class="bi bi-person-circle"></i></div>
-            <h4 class="title">Thomas Miller</h4>
-            <p class="description">Vice Chair</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="bi bi-person-circle"></i></div>
-            <h4 class="title">Chuck Latham</h4>
-            <p class="description">Treasurer</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="bi bi-person-circle"></i></div>
-            <h4 class="title">Paul Keller</h4>
-            <p class="description">Member</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-            <div class="icon"><i class="bi bi-person-circle"></i></div>
-            <h4 class="title">Mary Lathem</h4>
-            <p class="description">Member</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="bi bi-person-circle"></i></div>
-            <h4 class="title">Maryanne Mulhern</h4>
-            <p class="description">Member</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="bi bi-person-circle"></i></div>
-            <h4 class="title">Matt Shaul</h4>
-            <p class="description">Member</p>
-          </div>
+          {% endfor %}
         </div>
       </div>
     </section><!-- End Board Section -->
+
