@@ -39,30 +39,31 @@
   venue: Carol Woods Retirement Community
 - address: 310 Exploration Blvd . Denver, NC 28037, United States
   description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
-    and other music.
+    and other music. Contact Concierge at 704 585-8780 for tickets. $24.
   eventdate: 05/07/2026
   eventtime: 04:00 PM
   heading: '"Spring Into Summer" with the NCBO Chamber Players'
   mapurl: https://maps.app.goo.gl/L8qNkPmWWumjq8ySA
   sortdate: 1778184000
-  venue: Trilogy Lake Norman
+  venue: Trilogy Lake Norman, Event Center at Twin Mills Club
 - address: 125 N Meeting Street, Statesville, NC 28677
-  description: Our program features Spring and Summer from Vivaldi's "The Four Seasons"
-    and other music.
+  description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
+    and other music. Email ncbaroqueorchestra@gmail.com for more information.
   eventdate: 05/08/2026
   eventtime: 07:00 PM
   heading: '"Spring Into Summer" with the NCBO Chamber Players'
   mapurl: https://maps.app.goo.gl/SjXvk1RWFoSXqbgr5
   sortdate: 1778281200
   venue: First Presbyterian Church
-- address: ''
+- address: 520 Summit St, Winston-Salem, NC
   description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
     and other music.
   eventdate: 05/09/2026
-  eventtime: 03:00 PM
+  eventtime: 04:00 PM
   heading: '"Spring Into Summer" with the NCBO Chamber Players'
-  sortdate: 1778353200
-  venue: TBD
+  mapurl: https://maps.app.goo.gl/a33fCBwDr9f4ozpY6
+  sortdate: 1778356800
+  venue: St. Paul's Episcopal Church
 - address: 309 W Gay St, Lancaster, SC 29720
   description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
     and other music.
@@ -93,3 +94,56 @@
   heading: South Carolina Baroque Music Festival - Handel's Messiah
   sortdate: 1779058800
   venue: ''
+- address: 100 N. Main Street, Davidson, NC
+  description: Baroque masterworks performed by NCBO under the direction of our Musical
+    Director Frances Blaker. Requested donations at the door $20 general/$15 senior
+    and students. Kids free.
+  eventdate: 05/21/2026
+  eventtime: 05:00 PM
+  heading: 'Les Élémens: Celebrating Spring'
+  mapurl: https://maps.app.goo.gl/mvBWeK7qs68MFZ46A
+  sortdate: 1779397200
+  venue: Davidson College Presbyterian Church (sanctuary)
+- address: ''
+  description: 'Baroque masterworks performed by NCBO under the direction of our Musical
+    Director Frances Blaker. Free concert: donations to support the orchestra are
+    greatly appreciated.'
+  eventdate: 05/22/2026
+  eventtime: 07:00 PM
+  heading: 'Les Élémens: Celebrating Spring'
+  sortdate: 1779490800
+  venue: TBD
+- address: 325 Bull Street, Savannah, GA
+  description: Baroque Masterworks performed by NCBO under the direction of our Musical
+    Director Frances Blaker.
+  eventdate: 05/24/2026
+  eventtime: 05:00 PM
+  heading: 'Les Élémens: Celebrating Spring'
+  mapurl: https://maps.app.goo.gl/FbgGk3VA1TcTvGFk8
+  sortdate: 1779656400
+  venue: St. John's Church
+- address: 164 Fairview Road, Mooresville, NC
+  description: 'Uplifting music of Vivaldi, Corelli, Pachelbel and More! Free concert:
+    donations to support the orchestra are greatly appreciated.'
+  eventdate: 06/25/2026
+  eventtime: 05:00 PM
+  heading: Hello Summer! with the North Carolina Baroque Orchestra
+  mapurl: https://maps.app.goo.gl/2EbgtiCqNR54HFjy7
+  sortdate: 1782421200
+  venue: St. Patrick Episcopal Church
+- address: ''
+  description: Uplifting music of Vivaldi, Corelli, Pachelbel and More!
+  eventdate: 06/26/2026
+  eventtime: 07:00 PM
+  heading: Hello Summer! with the North Carolina Baroque Orchestra
+  sortdate: 1782514800
+  venue: TBD
+- address: 117 Montreat Road, Black Mountain, NC
+  description: 'Uplifting music of Vivaldi, Corelli, Pachelbel and More! Free concert:
+    donations to support the orchestra are greatly appreciated.'
+  eventdate: 06/27/2026
+  eventtime: 03:00 PM
+  heading: Hello Summer! with the North Carolina Baroque Orchestra
+  mapurl: https://maps.app.goo.gl/GsVFpjxRcrPRDCAbA
+  sortdate: 1782586800
+  venue: Black Mountain Presbyterian Church
