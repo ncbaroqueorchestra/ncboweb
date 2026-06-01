@@ -17,9 +17,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: setup python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: 3.11
       - name: execute py script # run file
@@ -34,7 +34,7 @@ jobs:
       - name: Refresh board from Airtable
         run: AIRTABLE_API_KEY=${{ secrets.AIRTABLE_API_KEY }} AIRTABLE_BASE_ID=${{ secrets.AIRTABLE_BASE_ID }} python refresh_board.py
       - name: Commit changes
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           author_name: Steve Hall
           author_email: srhall@gmail.com
