@@ -1,64 +1,23 @@
-- address: ''
-  description: 'NCBO joins SC Bach for Handel''s "Messiah"
-
-    Greenville, SC venue tbd'
-  eventdate: 05/17/2026
-  eventdetailsurl: https://scbach.org/sc-baroque-music-festival
-  eventtime: 07:00 PM
-  heading: South Carolina Baroque Music Festival - Handel's Messiah
-  sortdate: 1779058800
-  venue: ''
-- address: 100 N. Main Street, Davidson, NC
-  description: Baroque masterworks performed by NCBO under the direction of our Musical
-    Director Frances Blaker. Requested donations at the door $20 general/$15 senior
-    and students. Kids free.
-  eventdate: 05/21/2026
-  eventtime: 05:00 PM
-  heading: 'Les Élémens: Celebrating Spring'
-  mapurl: https://maps.app.goo.gl/mvBWeK7qs68MFZ46A
-  sortdate: 1779397200
-  venue: Davidson College Presbyterian Church (sanctuary)
-- address: 12509 Idlewild Rd.
-  description: 'Baroque masterworks performed by NCBO under the direction of our Musical
-    Director Frances Blaker. Free concert: donations to support the orchestra are
-    greatly appreciated.'
-  eventdate: 05/22/2026
-  eventtime: 07:00 PM
-  heading: 'Les Élémens: Celebrating Spring'
-  mapurl: https://maps.app.goo.gl/w2j1Ba4vqwMunYNy6
-  sortdate: 1779490800
-  venue: Morning Star Lutheran Church
-- address: 325 Bull Street, Savannah, GA
-  description: Baroque Masterworks performed by NCBO under the direction of our Musical
-    Director Frances Blaker.
-  eventdate: 05/24/2026
-  eventtime: 05:00 PM
-  heading: 'Les Élémens: Celebrating Spring'
-  mapurl: https://maps.app.goo.gl/FbgGk3VA1TcTvGFk8
-  sortdate: 1779656400
-  venue: St. John's Church
 - address: 164 Fairview Road, Mooresville, NC
-  description: 'Uplifting music of Vivaldi, Corelli, Pachelbel and More! Free concert:
-    donations to support the orchestra are greatly appreciated.'
+  description: Unfortunately we've had to cancel this concert.
   eventdate: 06/25/2026
   eventtime: 05:00 PM
-  heading: Hello Summer! with the North Carolina Baroque Orchestra
+  heading: 'CANCELLED: Hello Summer! with the North Carolina Baroque Orchestra'
   mapurl: https://maps.app.goo.gl/2EbgtiCqNR54HFjy7
   sortdate: 1782421200
   venue: St. Patrick Episcopal Church
 - address: ''
-  description: Uplifting music of Vivaldi, Corelli, Pachelbel and More!
+  description: Unfortunately we've had to cancel this concert.
   eventdate: 06/26/2026
   eventtime: 07:00 PM
-  heading: Hello Summer! with the North Carolina Baroque Orchestra
+  heading: 'CANCELLED: Hello Summer! with the North Carolina Baroque Orchestra'
   sortdate: 1782514800
   venue: TBD
 - address: 117 Montreat Road, Black Mountain, NC
-  description: 'Uplifting music of Vivaldi, Corelli, Pachelbel and More! Free concert:
-    donations to support the orchestra are greatly appreciated.'
+  description: Unfortunately we've had to cancel this concert.
   eventdate: 06/27/2026
   eventtime: 03:00 PM
-  heading: Hello Summer! with the North Carolina Baroque Orchestra
+  heading: 'CANCELLED: Hello Summer! with the North Carolina Baroque Orchestra'
   mapurl: https://maps.app.goo.gl/GsVFpjxRcrPRDCAbA
   sortdate: 1782586800
   venue: Black Mountain Presbyterian Church
