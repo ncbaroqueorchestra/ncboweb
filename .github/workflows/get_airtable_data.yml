@@ -34,7 +34,7 @@ jobs:
       - name: Refresh board from Airtable
         run: AIRTABLE_API_KEY=${{ secrets.AIRTABLE_API_KEY }} AIRTABLE_BASE_ID=${{ secrets.AIRTABLE_BASE_ID }} python refresh_board.py
       - name: Commit changes
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: Steve Hall
           author_email: srhall@gmail.com
@@ -42,12 +42,10 @@ jobs:
           add: '*.yml'
       # only run next if triggered by issue
       - name: Close issue
-        if : contains(github.event.issue.labels.*.name, 'data_update')
-        uses: actions-cool/issues-helper@v3
-        with:
-          actions: 'close-issue'
-          token: ${{ secrets.GITHUB_TOKEN }}
-          issue-number: ${{ github.event.issue.number }}
+        if: contains(github.event.issue.labels.*.name, 'data_update')
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }}
       - name: Trigger 2-Staging Deployment
         if: success()
         run: |
