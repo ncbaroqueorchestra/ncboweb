@@ -60,7 +60,8 @@
   sortdate: 1791140400
   venue: Charlotte/Matthews area
 - address: 310 Exploration Blvd., Denver, NC
-  description: Time TBD.
+  description: Time TBD. Martie Perry and David Wilson, violins, Barbara Krumdieck,
+    cello, Billy Simms, theorbo, Barbara Weiss, harpsichord.
   eventdate: 10/16/2026
   eventtime: 04:00 PM
   heading: 'NCBO Chamber Players: The Art of the Baroque Trio Sonata'
@@ -68,7 +69,8 @@
   sortdate: 1792180800
   venue: Trilogy at Lake Norman
 - address: ''
-  description: Time and venue TBD.
+  description: "Time and venue TBD. \nMartie Perry and David Wilson, violins, Barbara\
+    \ Krumdieck, cello, Billy Simms, theorbo, Barbara Weiss, harpsichord."
   eventdate: 10/17/2026
   eventtime: 04:00 PM
   heading: 'NCBO Chamber Players: The Art of the Baroque Trio Sonata'
@@ -116,8 +118,8 @@
   ticketurl: https://www.masaconcerts.org
   venue: St. Alban's Episcopal Church
 - address: 1100 Sumter Street, Columbia, SC
-  description: Members of NCBO join the choirs of Trinity Episcopal Cathedral in Columbia,
-    SC for a Vespers service featuring baroque music for voices and instruments.
+  description: Members of NCBO join the musicians of Trinity Episcopal Cathedral in
+    Columbia, SC for a Vespers service featuring baroque music for voices and instruments.
   eventdate: 11/15/2026
   eventtime: 04:00 PM
   heading: Bach Vespers at Trinity Cathedral
@@ -144,9 +146,9 @@
   description: NCBO joins Greenville-based SC Bach for a concert of music for voices
     and instruments. Time and venue TBD.
   eventdate: 12/06/2026
-  eventtime: 10:36 AM
+  eventtime: 03:00 PM
   heading: NCBO with SC Bach
-  sortdate: 1796571360
+  sortdate: 1796587200
   venue: ''
 - address: 2101 N. Herritage St., Kinston, NC
   description: George Frideric Handel's beloved oratorio "Messiah."
@@ -164,6 +166,15 @@
   heading: Handel's Messiah in Columbia, SC
   mapurl: https://maps.app.goo.gl/yy26jWCgFNM7yfAm7
   sortdate: 1797120000
+  venue: Trinity Episcopal Cathedral
+- address: 1100 Sumter Street, Columbia, SC
+  description: NCBO joins the choir and soloists of Trinity Cathedral for Handel's
+    beloved oratorio "Messiah."
+  eventdate: 12/13/2026
+  eventtime: 04:00 PM
+  heading: Handel's Messiah in Columbia
+  mapurl: https://maps.app.goo.gl/X6aRQdKDo5UtW3WJ8
+  sortdate: 1797195600
   venue: Trinity Episcopal Cathedral
 - address: 309 W. Gay Street, Lancaster, SC
   description: Festive chamber music for strings and recorders!
@@ -278,9 +289,9 @@
     Carolina Baroque Music Festival, presented by SC Bach. Time and venue TBD.
   eventdate: 05/02/2027
   eventdetailsurl: https://scbach.org/
-  eventtime: 03:00 AM
+  eventtime: 03:00 PM
   heading: NCBO at the South Carolina Baroque Music Festival
-  sortdate: 1809241200
+  sortdate: 1809284400
   venue: ''
 - address: 750 Weaver Dairy Road, Chapel Hill, NC
   description: Chamber music of the baroque.
