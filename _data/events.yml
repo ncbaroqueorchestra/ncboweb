@@ -1,23 +1,302 @@
-- address: 164 Fairview Road, Mooresville, NC
-  description: Unfortunately we've had to cancel this concert.
-  eventdate: 06/25/2026
-  eventtime: 05:00 PM
-  heading: 'CANCELLED: Hello Summer! with the North Carolina Baroque Orchestra'
-  mapurl: https://maps.app.goo.gl/2EbgtiCqNR54HFjy7
-  sortdate: 1782421200
-  venue: St. Patrick Episcopal Church
-- address: ''
-  description: Unfortunately we've had to cancel this concert.
-  eventdate: 06/26/2026
+- address: 287 Radcliffe Ave, Charlotte, NC 28274
+  description: NCBO is joined by the Royal Voices of Charlotte, Queens University,
+    (Justin Smith, director) for selections from Henry Purcell's semi-opera King Arthur.
+    Soloists Kathryn Knauer and La Dejia Douglas, soprano, Charles Humphries, countertenor,
+    and James Allen, tenor, will help tell the story of the defeat of the invading
+    Saxons by Arthur and his Bold Britons.
+  eventdate: 09/25/2026
   eventtime: 07:00 PM
-  heading: 'CANCELLED: Hello Summer! with the North Carolina Baroque Orchestra'
-  sortdate: 1782514800
-  venue: TBD
-- address: 117 Montreat Road, Black Mountain, NC
-  description: Unfortunately we've had to cancel this concert.
-  eventdate: 06/27/2026
+  heading: Purcell's "King Arthur"
+  mapurl: https://maps.app.goo.gl/Z86rofzSR18hKCTi7
+  sortdate: 1790377200
+  venue: Belk Chapel, Queens University
+- address: 309 Gay Street, Lancaster, SC
+  description: NCBO is joined by the Royal Voices of Charlotte, Queens University,
+    (Justin Smith, director) for selections from Henry Purcell's semi-opera King Arthur.
+    Soloists Kathryn Knauer and La Dejia Douglas, soprano, Charles Humphries, countertenor,
+    and James Allen, tenor, will help tell the story of the defeat of the invading
+    Saxons by Arthur and his Bold Britons.
+  eventdate: 09/26/2026
+  eventdetailsurl: https://lcshp.org/cultural-arts-center-concerts-events
+  eventtime: 06:30 PM
+  heading: Purcell's "King Arthur"
+  mapurl: https://maps.app.goo.gl/3UFXPwKZZUYTEMsX7
+  sortdate: 1790461800
+  venue: Lancaster Cultural Arts Center
+- address: 100 N. Main Street, Davidson, NC
+  description: In this special program hosted by DavidsonLearns, musicians of the
+    North Carolina Baroque Orchestra tell you their stories, talk about their passion
+    for this brilliant music, and demonstrate the special and intimate sound-colors
+    produced by their period instruments.
+  eventdate: 10/01/2026
   eventtime: 03:00 PM
-  heading: 'CANCELLED: Hello Summer! with the North Carolina Baroque Orchestra'
-  mapurl: https://maps.app.goo.gl/GsVFpjxRcrPRDCAbA
-  sortdate: 1782586800
-  venue: Black Mountain Presbyterian Church
+  heading: 'Outreach Program: "Why go for Baroque?"'
+  mapurl: https://maps.app.goo.gl/M4WuBNnCDyqmSKbHA
+  sortdate: 1790881200
+  venue: Davidson College Presbyterian Church
+- address: ''
+  description: A concert of baroque orchestral music in celebration of NCBO's 15th
+    birthday, and in memory of our own Sally Blaker.
+  eventdate: 10/02/2026
+  eventtime: 07:00 PM
+  heading: 'NCBO 15th Anniversary Celebration: directed by Frances Blaker'
+  sortdate: 1790982000
+  venue: ''
+- address: 218 Concord Rd, Davidson, NC 28036
+  description: A concert of baroque orchestral music in celebration of NCBO's 15th
+    year, and in memory of our own Sally Blaker.
+  eventdate: 10/03/2026
+  eventtime: 07:00 PM
+  heading: 'NCBO 15th Anniversary Celebration: directed by Frances Blaker'
+  mapurl: https://maps.app.goo.gl/MrWbZbMNUiBgh3cc7
+  sortdate: 1791068400
+  venue: Davidson College Presbyterian Church, Congregation House
+- address: ''
+  description: A concert of baroque orchestral music in celebration of NCBO's 15th
+    year, and in memory of our own Sally Blaker.
+  eventdate: 10/04/2026
+  eventtime: 03:00 PM
+  heading: 'NCBO 15th Anniversary Celebration: directed by Frances Blaker'
+  sortdate: 1791140400
+  venue: Charlotte/Matthews area
+- address: 310 Exploration Blvd., Denver, NC
+  description: Time TBD.
+  eventdate: 10/16/2026
+  eventtime: 04:00 PM
+  heading: 'NCBO Chamber Players: The Art of the Baroque Trio Sonata'
+  mapurl: https://maps.app.goo.gl/MEbRUHsXMG54fcWa6
+  sortdate: 1792180800
+  venue: Trilogy at Lake Norman
+- address: ''
+  description: Time and venue TBD.
+  eventdate: 10/17/2026
+  eventtime: 04:00 PM
+  heading: 'NCBO Chamber Players: The Art of the Baroque Trio Sonata'
+  sortdate: 1792267200
+  venue: ''
+- address: 108 E. Liberty St., York, SC
+  description: A program of Baroque masterworks featuring violinists Martie Perry
+    and David Wilson, cellist Barbara Krumdieck, theorbist Billy Simms, and harpsichordist
+    Barbara Weiss.
+  eventdate: 10/18/2026
+  eventtime: 03:00 PM
+  heading: 'NCBO Chamber Players: The Art of the Baroque Trio Sonata'
+  mapurl: https://maps.app.goo.gl/RSHv3kSoFeUsnpFy6
+  sortdate: 1792350000
+  venue: Episcopal Church of the Good Shepherd
+- address: 520 Summit Street, Winston-Salem, NC
+  description: NCBO is joined by Charlotte native Margaret Carpenter Haigh for a program
+    of baroque chamber music for soprano and instruments.
+  eventdate: 10/23/2026
+  eventtime: 07:00 PM
+  heading: NCBO Chamber Players with guest soprano Margaret Carpenter Haigh
+  mapurl: https://maps.app.goo.gl/4G5rcpnrJrdf8cSx6
+  sortdate: 1792796400
+  venue: St. Paul's Episcopal Church
+- address: 309 Gay Street, Lancaster, SC
+  description: NCBO is joined by Charlotte native Margaret Carpenter Haigh for a program
+    of baroque chamber music for soprano and instruments.
+  eventdate: 10/24/2026
+  eventtime: 06:30 PM
+  heading: NCBO Chamber Players with guest soprano Margaret Carpenter Haigh
+  mapurl: https://maps.app.goo.gl/3UFXPwKZZUYTEMsX7
+  sortdate: 1792881000
+  venue: Lancaster Cultural Arts Center
+- address: 301 Caldwell Lane, Davidson, NC
+  description: 'NCBO is joined by Charlotte native Margaret Carpenter Haigh for a
+    program of baroque chamber music for soprano and instruments.
+
+
+    This concert is presented by the concert series Music at St Alban''s.'
+  eventdate: 10/25/2026
+  eventtime: 03:00 PM
+  heading: NCBO Chamber Players with guest soprano Margaret Carpenter Haigh
+  mapurl: https://maps.app.goo.gl/7KX9Nos5MtV8nSsM8
+  sortdate: 1792954800
+  ticketurl: https://www.masaconcerts.org
+  venue: St. Alban's Episcopal Church
+- address: 1100 Sumter Street, Columbia, SC
+  description: Members of NCBO join the choirs of Trinity Episcopal Cathedral in Columbia,
+    SC for a Vespers service featuring baroque music for voices and instruments.
+  eventdate: 11/15/2026
+  eventtime: 04:00 PM
+  heading: Bach Vespers at Trinity Cathedral
+  mapurl: https://maps.app.goo.gl/NapToeDYhMRCw4qt5
+  sortdate: 1794776400
+  venue: Trinity Episcopal Cathedral
+- address: ''
+  description: NCBO joins Greenville-based SC Bach for a concert of music for voices
+    and instruments. Time and venue TBD.
+  eventdate: 12/04/2026
+  eventtime: 07:00 PM
+  heading: NCBO with SC Bach
+  sortdate: 1796428800
+  venue: ''
+- address: ''
+  description: NCBO joins Greenville-based SC Bach for a concert of music for voices
+    and instruments. Time and venue TBD.
+  eventdate: 12/05/2026
+  eventtime: 07:00 PM
+  heading: NCBO with SC Bach
+  sortdate: 1796515200
+  venue: ''
+- address: ''
+  description: NCBO joins Greenville-based SC Bach for a concert of music for voices
+    and instruments. Time and venue TBD.
+  eventdate: 12/06/2026
+  eventtime: 10:36 AM
+  heading: NCBO with SC Bach
+  sortdate: 1796571360
+  venue: ''
+- address: 2101 N. Herritage St., Kinston, NC
+  description: George Frideric Handel's beloved oratorio "Messiah."
+  eventdate: 12/07/2026
+  eventtime: 07:00 PM
+  heading: Handel's Messiah in Kinston
+  mapurl: https://maps.app.goo.gl/Bygw98g11YHBoyd56
+  sortdate: 1796688000
+  venue: First Presbyterian Church
+- address: 1100 Sumter Street, Columbia, SC
+  description: George Frideric Handel's beloved oratorio "Messiah," with the choirs
+    and soloists of Trinity Episcopal Cathedral in Columbia, SC. Time TBD (evening).
+  eventdate: 12/12/2026
+  eventtime: 07:00 PM
+  heading: Handel's Messiah in Columbia, SC
+  mapurl: https://maps.app.goo.gl/yy26jWCgFNM7yfAm7
+  sortdate: 1797120000
+  venue: Trinity Episcopal Cathedral
+- address: 309 W. Gay Street, Lancaster, SC
+  description: Festive chamber music for strings and recorders!
+  eventdate: 12/18/2026
+  eventdetailsurl: http://lcshp.org/cultural-arts-center-concerts-events
+  eventtime: 06:30 PM
+  heading: 'Celebrate the Season: NCBO Chamber Players'
+  mapurl: https://maps.app.goo.gl/FztKz59k5fwsgcGf7
+  sortdate: 1797636600
+  venue: Lancaster Cultural Arts Center
+- address: 325 Bull Street, Savannah, GA
+  description: Festive baroque chamber music in the beautiful St. John Church in Savannah.
+  eventdate: 12/20/2026
+  eventdetailsurl: https://stjohnssav.org
+  eventtime: 12:29 PM
+  heading: 'Music of J.S. Bach and Kuhnau: NCBO Chamber Players'
+  mapurl: https://maps.app.goo.gl/cPZAFrrswAzBmNjW9
+  sortdate: 1797787740
+  venue: St. John Church (Episcopal)
+- address: 520 Summit Street, Winston-Salem
+  description: Performances of baroque chamber music preceding three Christmas Eve
+    services at the lovely St. Paul's Episcopal Church in Winston-Salem.
+  eventdate: 12/24/2026
+  eventtime: 02:30 PM
+  heading: Christmas Eve Music in Winston-Salem
+  mapurl: https://maps.app.goo.gl/CeSTJM9Ugn5TRqZh7
+  sortdate: 1798140600
+  venue: St. Paul's Episcopal Church
+- address: 1739 Perth Road, Mooresville, NC
+  description: Members of NCBO will perform at this monthly meeting of the Newcomers
+    Club.
+  eventdate: 01/06/2027
+  eventtime: 10:00 AM
+  heading: NCBO Presentation for The Mooresville/Lake Norman Area Newcomers Club
+  mapurl: https://maps.app.goo.gl/r8pjvvyoLsWUcRFq6
+  sortdate: 1799247600
+  venue: Rocky Mount United Methodist Church
+- address: 1100 Sumter Street, Columbia, SC
+  description: NCBO joins the musicians of Trinity Cathedral for a Vespers service
+    featuring Bach's cantata "Ich habe genug," BWV 82.
+  eventdate: 01/31/2027
+  eventtime: 12:36 PM
+  heading: Bach Vespers at Trinity Cathedral
+  mapurl: https://maps.app.goo.gl/hjHjoXuqrj32tabU6
+  sortdate: 1801416960
+  venue: Trinity Episcopal Cathedral
+- address: 309 Gay Street, Lancaster, SC
+  description: Baroque chamber music performed by the NCBO Chamber Players.
+  eventdate: 02/07/2027
+  eventdetailsurl: http://lcshp.org/cultural-arts-center-concerts-events
+  eventtime: 03:48 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/7Nqr2kTaGdWbspWV8
+  sortdate: 1802033280
+  venue: Lancaster Cultural Arts Center
+- address: 1100 Sumter Street, Columbia, SC
+  description: NCBO joins the choir and soloists of Trinity Cathedral for a Vespers
+    service featuring J.S. Bach's cantata "Gottes Zeit ist die allerbeste Zeit," BWV
+    106.
+  eventdate: 03/14/2027
+  eventtime: 04:00 PM
+  heading: Bach Vespers at Trinity Cathedral
+  mapurl: https://maps.app.goo.gl/Ei3qZjN2vgPJh8mt9
+  sortdate: 1805054400
+  venue: Trinity Episcopal Cathedral
+- address: 309 W. Gay Street, Lancaster, SC
+  description: Chamber music of the baroque.
+  eventdate: 03/20/2027
+  eventdetailsurl: http://lcshp.org/cultural-arts-center-concerts-events
+  eventtime: 06:30 PM
+  heading: NCBO Chamber Players
+  sortdate: 1805581800
+  venue: Lancaster Cultural Arts Center
+- address: 750 Weaver Dairy Road, Chapel Hill
+  description: NCBO Chamber Players performs chamber music of the baroque.
+  eventdate: 03/24/2027
+  eventdetailsurl: https://www.carolwoods.org/
+  eventtime: 07:30 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/Es2hyUYyrAK1MuXx5
+  sortdate: 1805931000
+  venue: Carol Woods Retirement Community
+- address: 325 Bull Street, Savannah, GA
+  description: NCBO performs with the choir of St. John Church (Episcopal) in Savannah
+    at two church services on Easter morning, 9:30 and 11:30 am.
+  eventdate: 03/28/2027
+  eventtime: 04:03 PM
+  heading: Easter Music in Savannah
+  mapurl: https://maps.app.goo.gl/ctCANH7xXC22WJYQ7
+  sortdate: 1806264180
+  venue: St. John Church
+- address: 100 N. Main Street, Davidson, NC
+  description: NCBO presents the Farallon Recorder Quartet as part of the 2027 Davidson
+    Bach Festival.
+  eventdate: 04/02/2027
+  eventtime: 07:30 PM
+  heading: Davidson Bach Festival - Farallon Recorder Quartet
+  mapurl: https://maps.app.goo.gl/ytVxzhZqPVkFzuMT6
+  sortdate: 1806708600
+  venue: Davidson College Presbyterian Church
+- address: 100 N. Main Street, Davidson, NC
+  description: As part of the Davidson Bach Festival, NCBO performs Bach's Brandenburg
+    Concerto No. 4, an Organ Trio Sonata, and more.
+  eventdate: 04/03/2027
+  eventtime: 05:00 PM
+  heading: Davidson Bach Festival - NCBO
+  mapurl: https://maps.app.goo.gl/ytVxzhZqPVkFzuMT6
+  sortdate: 1806786000
+  venue: Davidson College Presbyterian Church
+- address: ''
+  description: NCBO performs orchestral music of the baroque as part of the South
+    Carolina Baroque Music Festival, presented by SC Bach. Time and venue TBD.
+  eventdate: 05/02/2027
+  eventdetailsurl: https://scbach.org/
+  eventtime: 03:00 AM
+  heading: NCBO at the South Carolina Baroque Music Festival
+  sortdate: 1809241200
+  venue: ''
+- address: 750 Weaver Dairy Road, Chapel Hill, NC
+  description: Chamber music of the baroque.
+  eventdate: 05/19/2027
+  eventdetailsurl: https://www.carolwoods.org/
+  eventtime: 07:30 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/Es2hyUYyrAK1MuXx5
+  sortdate: 1810769400
+  venue: Carol Woods Retirement Community
+- address: 309 W. Gay Street, Lancaster, SC
+  description: Chamber music of the baroque.
+  eventdate: 05/22/2027
+  eventdetailsurl: http://lcshp.org/cultural-arts-center-concerts-events
+  eventtime: 06:30 PM
+  heading: NCBO Chamber Players
+  mapurl: https://maps.app.goo.gl/H1RckuYGTjwecvn58
+  sortdate: 1811025000
+  venue: Lancaster Cultural Arts Center
