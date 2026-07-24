@@ -1,7 +1,10 @@
 - address: 117 Montreat Road, Black Mountain, NC
   description: Unfortunately we've had to cancel this concert.
   eventdate: 06/27/2026
+  eventday: '27'
+  eventmonthyear: June 2026
   eventtime: 03:00 PM
+  eventweekday: Sat
   heading: 'CANCELLED: Hello Summer! with the North Carolina Baroque Orchestra'
   mapurl: https://maps.app.goo.gl/GsVFpjxRcrPRDCAbA
   sortdate: 1782586800
@@ -9,14 +12,20 @@
 - address: ''
   description: Unfortunately we've had to cancel this concert.
   eventdate: 06/26/2026
+  eventday: '26'
+  eventmonthyear: June 2026
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: 'CANCELLED: Hello Summer! with the North Carolina Baroque Orchestra'
   sortdate: 1782514800
   venue: TBD
 - address: 164 Fairview Road, Mooresville, NC
   description: Unfortunately we've had to cancel this concert.
   eventdate: 06/25/2026
+  eventday: '25'
+  eventmonthyear: June 2026
   eventtime: 05:00 PM
+  eventweekday: Thu
   heading: 'CANCELLED: Hello Summer! with the North Carolina Baroque Orchestra'
   mapurl: https://maps.app.goo.gl/2EbgtiCqNR54HFjy7
   sortdate: 1782421200
@@ -25,7 +34,10 @@
   description: Baroque Masterworks performed by NCBO under the direction of our Musical
     Director Frances Blaker.
   eventdate: 05/24/2026
+  eventday: '24'
+  eventmonthyear: May 2026
   eventtime: 05:00 PM
+  eventweekday: Sun
   heading: 'Les Élémens: Celebrating Spring'
   mapurl: https://maps.app.goo.gl/FbgGk3VA1TcTvGFk8
   sortdate: 1779656400
@@ -35,7 +47,10 @@
     Director Frances Blaker. Free concert: donations to support the orchestra are
     greatly appreciated.'
   eventdate: 05/22/2026
+  eventday: '22'
+  eventmonthyear: May 2026
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: 'Les Élémens: Celebrating Spring'
   mapurl: https://maps.app.goo.gl/w2j1Ba4vqwMunYNy6
   sortdate: 1779490800
@@ -45,7 +60,10 @@
     Director Frances Blaker. Requested donations at the door $20 general/$15 senior
     and students. Kids free.
   eventdate: 05/21/2026
+  eventday: '21'
+  eventmonthyear: May 2026
   eventtime: 05:00 PM
+  eventweekday: Thu
   heading: 'Les Élémens: Celebrating Spring'
   mapurl: https://maps.app.goo.gl/mvBWeK7qs68MFZ46A
   sortdate: 1779397200
@@ -55,8 +73,11 @@
 
     Greenville, SC venue tbd'
   eventdate: 05/17/2026
+  eventday: '17'
   eventdetailsurl: https://scbach.org/sc-baroque-music-festival
+  eventmonthyear: May 2026
   eventtime: 07:00 PM
+  eventweekday: Sun
   heading: South Carolina Baroque Music Festival - Handel's Messiah
   sortdate: 1779058800
   venue: ''
@@ -66,8 +87,11 @@
 
     Greenville, SC venue TBD.'
   eventdate: 05/15/2026
+  eventday: '15'
   eventdetailsurl: https://scbach.org/sc-baroque-music-festival
+  eventmonthyear: May 2026
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: South Carolina Baroque Music Festival - NCBO in concert
   sortdate: 1778886000
   venue: ''
@@ -75,7 +99,10 @@
   description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
     and other music.
   eventdate: 05/10/2026
+  eventday: '10'
+  eventmonthyear: May 2026
   eventtime: 03:00 PM
+  eventweekday: Sun
   heading: '"Spring Into Summer" with the NCBO Chamber Players'
   mapurl: https://maps.app.goo.gl/a4gXzFTbUPFY74fFA
   sortdate: 1778439600
@@ -84,7 +111,10 @@
   description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
     and other music. Presented by Friends of Music. $20 suggested donation.
   eventdate: 05/09/2026
+  eventday: '9'
+  eventmonthyear: May 2026
   eventtime: 04:00 PM
+  eventweekday: Sat
   heading: '"Spring Into Summer" with the NCBO Chamber Players'
   mapurl: https://maps.app.goo.gl/a33fCBwDr9f4ozpY6
   sortdate: 1778356800
@@ -93,7 +123,10 @@
   description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
     and other music. Email ncbaroqueorchestra@gmail.com for more information.
   eventdate: 05/08/2026
+  eventday: '8'
+  eventmonthyear: May 2026
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: '"Spring Into Summer" with the NCBO Chamber Players'
   mapurl: https://maps.app.goo.gl/SjXvk1RWFoSXqbgr5
   sortdate: 1778281200
@@ -102,7 +135,10 @@
   description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
     and other music. Contact Concierge at 704 585-8780 for tickets. $24.
   eventdate: 05/07/2026
+  eventday: '7'
+  eventmonthyear: May 2026
   eventtime: 04:00 PM
+  eventweekday: Thu
   heading: '"Spring Into Summer" with the NCBO Chamber Players'
   mapurl: https://maps.app.goo.gl/L8qNkPmWWumjq8ySA
   sortdate: 1778184000
@@ -111,7 +147,10 @@
   description: Our program features Spring and Summer from Vivaldi's "The Four Seasons,"
     and other music.
   eventdate: 05/06/2026
+  eventday: '6'
+  eventmonthyear: May 2026
   eventtime: 07:30 PM
+  eventweekday: Wed
   heading: '"Spring Into Summer" with the NCBO Chamber Players'
   mapurl: https://maps.app.goo.gl/cUGueQhASzMCn4U47
   sortdate: 1778110200
@@ -120,7 +159,10 @@
   description: NCBO joins the Winston-Salem Choral Artists under the direction of
     Dr. Chris Gilliam for J.S. Bach's incredible Mass in B minor.
   eventdate: 05/02/2026
+  eventday: '2'
+  eventmonthyear: May 2026
   eventtime: 07:00 PM
+  eventweekday: Sat
   heading: J.S. Bach's Mass in B Minor with Winston-Salem Choral Artists
   mapurl: https://maps.app.goo.gl/vHYLQmDGgNbXTmhc6
   sortdate: 1777762800
@@ -130,8 +172,11 @@
   description: NCBO joins the choirs of Trinity Cathedral for Bach Vespers, this month
     featuring music of Buxtehude.
   eventdate: 04/12/2026
+  eventday: '12'
   eventdetailsurl: https://www.trinitysc.org/events/bach-vespers-rescheduled-april-12
+  eventmonthyear: April 2026
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: Bach Vespers
   mapurl: https://maps.app.goo.gl/nxrprxHNSo6JmbiW8
   sortdate: 1776024000
@@ -140,8 +185,11 @@
   description: NCBO joins with the wonderful choirs of Columbia, SC's Trinity Episcopal
     Cathedral for J.S. Bach's masterpiece, The Passion According to St. John.
   eventdate: 03/29/2026
+  eventday: '29'
   eventdetailsurl: https://www.trinitysc.org/events/bachs-st-john-passion
+  eventmonthyear: March 2026
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: Bach's St. John Passion
   mapurl: https://maps.app.goo.gl/nxrprxHNSo6JmbiW8
   sortdate: 1774814400
@@ -151,8 +199,11 @@
 
     <p>Free concert.</p>Donations to Organ at Davidson are appreciated.'
   eventdate: 03/08/2026
+  eventday: '8'
   eventimage: bachfestival.jpeg
+  eventmonthyear: March 2026
   eventtime: 03:30 PM
+  eventweekday: Sun
   heading: Davidson Bach Festival - "Chase Loomer In Concert"
   mapurl: https://maps.app.goo.gl/ytKfda2oYE1NN6rs6
   sortdate: 1772998200
@@ -179,8 +230,11 @@
 
     </p>'
   eventdate: 03/07/2026
+  eventday: '7'
   eventimage: bachfestival.jpeg
+  eventmonthyear: March 2026
   eventtime: 05:00 PM
+  eventweekday: Sat
   heading: 'Davidson Bach Festival - “A Musical Offering: Magnificent concertos and
     chamber music by J.S. Bach”'
   mapurl: https://maps.app.goo.gl/ytKfda2oYE1NN6rs6
@@ -193,8 +247,11 @@
     \ begins and ends with Bach’s stirring chorales. \n<p>\nCoffee is served!\n</p>\n\
     Tickets: $20 general/$15 students & seniors"
   eventdate: 03/07/2026
+  eventday: '7'
   eventimage: bachfestival.jpeg
+  eventmonthyear: March 2026
   eventtime: 11:00 AM
+  eventweekday: Sat
   heading: 'Davidson Bach Festival - "The Voice of Bach: Arias and Chorales"'
   mapurl: https://maps.app.goo.gl/ytKfda2oYE1NN6rs6
   sortdate: 1772899200
@@ -207,8 +264,11 @@
     \ Lee, baroque flute</li>\n<li>Lisa Liske, baroque cello</li>\n</ul>\nTickets:\
     \ $20 general/$15 students & seniors"
   eventdate: 03/06/2026
+  eventday: '6'
   eventimage: bachfestival.jpeg
+  eventmonthyear: March 2026
   eventtime: 07:30 PM
+  eventweekday: Fri
   heading: Davidson Bach Festival - "Bach for Solo Instruments"
   mapurl: https://maps.app.goo.gl/ytKfda2oYE1NN6rs6
   sortdate: 1772843400
@@ -221,8 +281,11 @@
 
     for a sneak peek into preparation for their "Musical Offering" program '
   eventdate: 03/06/2026
+  eventday: '6'
   eventimage: bachfestival.jpeg
+  eventmonthyear: March 2026
   eventtime: 12:00 PM
+  eventweekday: Fri
   heading: Davidson Bach Festival - Bonus Event, "Bach's Lunch"
   mapurl: https://maps.app.goo.gl/Co1egUir4jm3Udif6
   sortdate: 1772816400
@@ -244,8 +307,11 @@
 
     </ul>'
   eventdate: 03/06/2026
+  eventday: '6'
   eventimage: bachfestival.jpeg
+  eventmonthyear: March 2026
   eventtime: 12:00 PM
+  eventweekday: Fri
   heading: Davidson Bach Festival - All Festival Pass
   mapurl: https://maps.app.goo.gl/ytKfda2oYE1NN6rs6
   sortdate: 1772816400
@@ -254,8 +320,11 @@
 - address: 3100 Highland Avenue, Birmingham, AL
   description: Music of Telemann, Handel, and Vivaldi.
   eventdate: 02/06/2026
+  eventday: '6'
   eventdetailsurl: https://ipc-usa.org/ministries/music-fine-arts/2026-religious-arts-festival.html/event/2026/02/06/early-music-concert-embracing-winter/551727
+  eventmonthyear: February 2026
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: NCBO Chamber Players with soprano Kathryn Knauer
   mapurl: https://maps.app.goo.gl/MroEUVD5WXwabdRL7
   sortdate: 1770422400
@@ -263,8 +332,11 @@
 - address: 520 Summit Street, Winston-Salem
   description: This concert has been cancelled.
   eventdate: 02/01/2026
+  eventday: '1'
   eventimage: EmbracingWinter.jpg
+  eventmonthyear: February 2026
   eventtime: 03:00 PM
+  eventweekday: Sun
   heading: CANCELLED - "Embracing Winter"
   mapurl: https://maps.app.goo.gl/48WQR2oGMHj2TVnS6
   sortdate: 1769976000
@@ -273,8 +345,11 @@
   description: Sadly, due to the major snowfall expected in our area this weekend,
     our concert at The Cedars has been postponed.
   eventdate: 01/31/2026
+  eventday: '31'
   eventimage: EmbracingWinter.jpg
+  eventmonthyear: January 2026
   eventtime: 03:00 PM
+  eventweekday: Sat
   heading: CANCELLED - "Embracing Winter"
   mapurl: https://maps.app.goo.gl/iG2TRUJ4b6S4gJfs9
   sortdate: 1769889600
@@ -283,8 +358,11 @@
   description: 'Vivaldi''s "Winter" from "The Four Seasons," Bach Brandenburg Concerto
     #5, and more.'
   eventdate: 01/30/2026
+  eventday: '30'
   eventimage: EmbracingWinter.jpg
+  eventmonthyear: January 2026
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: '"Embracing Winter"'
   mapurl: https://maps.app.goo.gl/DVPBrz3CHzr9mR9k6
   sortdate: 1769817600
@@ -298,7 +376,10 @@
 
     Free and open to the public.'
   eventdate: 01/29/2026
+  eventday: '29'
+  eventmonthyear: January 2026
   eventtime: 03:00 PM
+  eventweekday: Thu
   heading: Open Rehearsal - "Embracing Winter"
   mapurl: https://maps.app.goo.gl/L5NRybjuQWJHSPnu7
   sortdate: 1769716800
@@ -307,9 +388,12 @@
   description: NCBO joins the choir and soloists of SC Bach for cantatas 4-6 of J.S.
     Bach's amazing Christmas Oratorio.
   eventdate: 12/21/2025
+  eventday: '21'
   eventdetailsurl: https://scbach.org/events
   eventimage: BachOratorio.jpg
+  eventmonthyear: December 2025
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: Bach's Christmas Oratorio parts 4-6 with SC Bach
   mapurl: https://maps.app.goo.gl/XHvuQwg3wGM9NK6p7
   sortdate: 1766350800
@@ -318,9 +402,12 @@
   description: NCBO joins the choir and soloists of SC Bach in the first three cantatas
     of J.S. Bach's amazing Christmas Oratorio.
   eventdate: 12/20/2025
+  eventday: '20'
   eventdetailsurl: https://scbach.org/events
   eventimage: BachOratorio.jpg
+  eventmonthyear: December 2025
   eventtime: 07:00 PM
+  eventweekday: Sat
   heading: Bach's Christmas Oratorio parts 1-3 with SC Bach
   mapurl: https://maps.app.goo.gl/XHvuQwg3wGM9NK6p7
   sortdate: 1766275200
@@ -329,8 +416,11 @@
   description: NCBO joins the choir and soloists of Trinity Episcopal Cathedral for
     a performance of Handel's Messiah.
   eventdate: 12/14/2025
+  eventday: '14'
   eventimage: HandelMessiah.jpg
+  eventmonthyear: December 2025
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: Handel's Messiah in Columbia
   mapurl: https://maps.app.goo.gl/Xu4YnT9j1heNtd6q6
   sortdate: 1765746000
@@ -339,8 +429,11 @@
   description: NCBO joins the choir and soloists of St. Paul's Episcopal Church in
     Wilmington, NC for a performance of Handel's Messiah.
   eventdate: 12/12/2025
+  eventday: '12'
   eventimage: HandelMessiah.jpg
+  eventmonthyear: December 2025
   eventtime: 07:30 PM
+  eventweekday: Fri
   heading: Handel's Messiah in Wilmington
   mapurl: https://maps.app.goo.gl/ptNu9tuCQG1sBsCw8
   sortdate: 1765585800
@@ -349,8 +442,11 @@
   description: NCBO joins the Kinston-Lenoir Community Chorus and director Jane Cain
     to perform Handel's Messiah.
   eventdate: 12/08/2025
+  eventday: '8'
   eventimage: HandelMessiah.jpg
+  eventmonthyear: December 2025
   eventtime: 07:00 PM
+  eventweekday: Mon
   heading: Handel's Messiah in Kinston
   mapurl: https://maps.app.goo.gl/bdWjsr1LECH462KM7
   sortdate: 1765238400
@@ -364,8 +460,11 @@
 
     Admission $20'
   eventdate: 12/07/2025
+  eventday: '7'
   eventimage: SeasonBanner.jpg
+  eventmonthyear: December 2025
   eventtime: 03:00 PM
+  eventweekday: Sun
   heading: Celebrate the Season with NCBO
   mapurl: https://maps.app.goo.gl/a4gXzFTbUPFY74fFA
   sortdate: 1765137600
@@ -376,8 +475,11 @@
 
     Vivaldi’s “Winter” from the 4 Seasons and more!'
   eventdate: 12/06/2025
+  eventday: '6'
   eventimage: SeasonBanner.jpg
+  eventmonthyear: December 2025
   eventtime: 05:00 PM
+  eventweekday: Sat
   heading: Celebrate the Season with NCBO
   mapurl: https://maps.app.goo.gl/NdgVvE5Er2C7AsMC9
   sortdate: 1765058400
@@ -386,7 +488,10 @@
   description: NCBO joins the choirs and soloists of Trinity Cathedral for an Episcopal
     Vespers service featuring a cantata by JS Bach.
   eventdate: 11/16/2025
+  eventday: '16'
+  eventmonthyear: November 2025
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: Bach Vespers
   mapurl: https://maps.app.goo.gl/9AB145KcBnNEs7TG7
   sortdate: 1763326800
@@ -395,7 +500,10 @@
   description: NCBO joins Charlotte's Queens Choral Union and Royal Voices of Charlotte
     in a concert featuring Henry Purcell's "Dido and Aeneas" and other music.
   eventdate: 11/16/2025
+  eventday: '16'
+  eventmonthyear: November 2025
   eventtime: 03:30 PM
+  eventweekday: Sun
   heading: Purcell's Dido and Aeneas and Celestial Music Did The Gods Inspire
   mapurl: https://maps.app.goo.gl/NWnb9vEraRcCqVnbA
   sortdate: 1763325000
@@ -409,7 +517,10 @@
 
     Admission free, donations appreciated.'
   eventdate: 11/07/2025
+  eventday: '7'
+  eventmonthyear: November 2025
   eventtime: 06:00 PM
+  eventweekday: Fri
   heading: '"Christmas In The Country" concert'
   mapurl: https://maps.app.goo.gl/jU9daeKJQsHJeAXF7
   sortdate: 1762556400
@@ -419,7 +530,10 @@
     and Vivaldi, including "Autumn" from Vivaldi's "The Four Seasons" and the gorgeous
     cantata "Sileti Venti" by Handel.
   eventdate: 10/19/2025
+  eventday: '19'
+  eventmonthyear: October 2025
   eventtime: 05:00 PM
+  eventweekday: Sun
   heading: '"Autumn Winds" with guest soprano Kathryn Knauer'
   mapurl: https://maps.app.goo.gl/ErFXVonvUNyFXPib9
   sortdate: 1760907600
@@ -430,7 +544,10 @@
     and Vivaldi, including "Autumn" from Vivaldi's "The Four Seasons" and the gorgeous
     cantata "Sileti Venti" by Handel.
   eventdate: 10/18/2025
+  eventday: '18'
+  eventmonthyear: October 2025
   eventtime: 03:00 PM
+  eventweekday: Sat
   heading: '"Autumn Winds" with guest soprano Kathryn Knauer'
   mapurl: https://maps.app.goo.gl/u9EE7jX7SGa6vscRA
   sortdate: 1760814000
@@ -441,7 +558,10 @@
 
     Free'
   eventdate: 10/15/2025
+  eventday: '15'
+  eventmonthyear: October 2025
   eventtime: 07:30 PM
+  eventweekday: Wed
   heading: NCBO Chamber Players presents "La Favorite"
   mapurl: https://maps.app.goo.gl/5zueQ4H2xcjjoNz16
   sortdate: 1760571000
@@ -450,7 +570,10 @@
   description: NCBO joins the choirs and soloists of Trinity Cathedral for an Episcopal
     Vespers service featuring a cantata by JS Bach.
   eventdate: 10/12/2025
+  eventday: '12'
+  eventmonthyear: October 2025
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: Bach Vespers
   mapurl: https://maps.app.goo.gl/9AB145KcBnNEs7TG7
   sortdate: 1760299200
@@ -460,7 +583,10 @@
     Krumdieck, cello, and Barbara Weiss, harpsichord) present a program of favorite
     baroque chamber music works by Biber, Corelli, Bach, and others.
   eventdate: 10/05/2025
+  eventday: '5'
+  eventmonthyear: October 2025
   eventtime: 03:00 PM
+  eventweekday: Sun
   heading: NCBO Chamber Players in concert!
   mapurl: https://maps.app.goo.gl/zVRDobqdWmvte8Ra7
   sortdate: 1759690800
@@ -470,7 +596,10 @@
     Krumdieck, cello, and Barbara Weiss, harpsichord) present a program of favorite
     baroque chamber music works by Biber, Corelli, Bach, and others.
   eventdate: 10/04/2025
+  eventday: '4'
+  eventmonthyear: October 2025
   eventtime: 03:00 PM
+  eventweekday: Sat
   heading: NCBO Chamber Players in concert!
   mapurl: https://maps.app.goo.gl/E9pnNn4xFJtbsqV5A
   sortdate: 1759604400
@@ -480,7 +609,10 @@
     Krumdieck, cello, and Barbara Weiss, harpsichord) present a program of favorite
     baroque chamber music works by Biber, Corelli, Bach, and others.
   eventdate: 10/03/2025
+  eventday: '3'
+  eventmonthyear: October 2025
   eventtime: 12:00 PM
+  eventweekday: Fri
   heading: NCBO Chamber Players in concert!
   mapurl: https://maps.app.goo.gl/jBHFp2cUrmqfoQ5S7
   sortdate: 1759507200
@@ -497,7 +629,10 @@
 
     Free concert: Your donations to the orchestra are appreciated '
   eventdate: 09/28/2025
+  eventday: '28'
+  eventmonthyear: September 2025
   eventtime: 03:00 PM
+  eventweekday: Sun
   heading: Autumn Leaves
   mapurl: https://maps.app.goo.gl/1yCbqLWaCP9Yzd1j8
   sortdate: 1759086000
@@ -514,7 +649,10 @@
 
     Fundraiser for Friends of Music in memory of Bill Rahn. $25 suggested donation.'
   eventdate: 09/27/2025
+  eventday: '27'
+  eventmonthyear: September 2025
   eventtime: 03:00 PM
+  eventweekday: Sat
   heading: Autumn Leaves
   mapurl: https://maps.app.goo.gl/na1XwHBwk2rFpKUM6
   sortdate: 1758999600
@@ -531,7 +669,10 @@
 
     Free concert: Your donations to the orchestra are appreciated '
   eventdate: 09/26/2025
+  eventday: '26'
+  eventmonthyear: September 2025
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: Autumn Leaves
   mapurl: https://maps.app.goo.gl/2bzpX7qJYWHhaKpV7
   sortdate: 1758927600
@@ -549,7 +690,10 @@
 
     https://wdav.org/events/small-batch-concert-series/'
   eventdate: 09/18/2025
+  eventday: '18'
+  eventmonthyear: September 2025
   eventtime: 07:00 PM
+  eventweekday: Thu
   heading: WDAV Small Batch Concert at Free Range Brewing
   mapurl: https://maps.app.goo.gl/U31pDpFMqtNyNgzm6
   sortdate: 1758236400
@@ -560,7 +704,10 @@
     \ and Noa Miller for music of Telemann, Torelli, Purcell, Biber, and others. \n\
     \nThis concert is free and open to the public."
   eventdate: 09/14/2025
+  eventday: '14'
+  eventmonthyear: September 2025
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: 'The Golden Age of the Trumpet: Music for trumpets and strings'
   mapurl: https://maps.app.goo.gl/B6cCHDN2WCfMPq3z5
   sortdate: 1757880000
@@ -570,7 +717,10 @@
     by the NCBO Chamber Players with special guests Sarah Lynch,soprano, and Charles
     Humphries, countertenor.
   eventdate: 09/07/2025
+  eventday: '7'
+  eventmonthyear: September 2025
   eventtime: 03:00 PM
+  eventweekday: Sun
   heading: Pergolesi's "Stabat Mater" with Sarah Lynch,soprano, and Charles Humphries,
     countertenor
   mapurl: https://maps.app.goo.gl/m81v4MRAKzYX1ET78
@@ -581,7 +731,10 @@
     by the NCBO Chamber Players with special guests Sarah Lynch,soprano,and Charles
     Humphries, countertenor.
   eventdate: 09/06/2025
+  eventday: '6'
+  eventmonthyear: September 2025
   eventtime: 07:00 PM
+  eventweekday: Sat
   heading: Pergolesi's "Stabat Mater" with Sarah Lynch, soprano, and Charles Humphries,
     countertenor
   mapurl: https://maps.app.goo.gl/T2ezEmCq5r7i516T9
@@ -592,7 +745,10 @@
     by the NCBO Chamber Players with special guests Sarah Lynch, soprano, and Charles
     Humphries, countertenor.
   eventdate: 09/05/2025
+  eventday: '5'
+  eventmonthyear: September 2025
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: Pergolesi's "Stabat Mater" with special guests Sarah Lynch, soprano, and
     Charles Humphries, countertenor
   mapurl: https://maps.app.goo.gl/3qqBw8i4oKpH6kT3A
@@ -609,7 +765,10 @@
     \ at ncbaroqueorchestra@gmail.com \n\nFree & open to the public.\nDonations are\
     \ greatly appreciated and are used to support the orchestra’s special projects."
   eventdate: 08/09/2025
+  eventday: '9'
+  eventmonthyear: August 2025
   eventtime: 03:00 PM
+  eventweekday: Sat
   heading: Magnificent Orchestral Music of the Baroque
   mapurl: https://maps.app.goo.gl/SFhvAaK5ruP7919o7
   sortdate: 1754766000
@@ -625,7 +784,10 @@
     \ at ncbaroqueorchestra@gmail.com \n\nFree and open to the public.\nDonations\
     \ are greatly appreciated and are used to support the orchestra's special projects."
   eventdate: 08/08/2025
+  eventday: '8'
+  eventmonthyear: August 2025
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: Magnificent Orchestral Music of the Baroque
   mapurl: https://maps.app.goo.gl/7knCdwEh11HYxGyy9
   sortdate: 1754694000
@@ -638,7 +800,10 @@
     \ theorbo, Barbara Weiss, harpsichord.\n\nAdmission free, donations gratefully\
     \ accepted."
   eventdate: 06/29/2025
+  eventday: '29'
+  eventmonthyear: June 2025
   eventtime: 03:00 PM
+  eventweekday: Sun
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/fL3tAGz2uMRs5gkb8
   sortdate: 1751223600
@@ -651,7 +816,10 @@
     \ theorbo, Barbara Weiss, harpsichord.\n\nAdmission free, donations gratefully\
     \ accepted."
   eventdate: 06/28/2025
+  eventday: '28'
+  eventmonthyear: June 2025
   eventtime: 03:00 PM
+  eventweekday: Sat
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/YomxxyBetJxrcXUU8
   sortdate: 1751137200
@@ -663,7 +831,10 @@
     \ Davis, violin;\nAsa Zimmerman, viola;\nBarbara Krumdieck, cello;\nWilliam Simms,\
     \ theorbo;\nBarbara Weiss, harpsichord.\n\nFor tickets please call 704 585-8785."
   eventdate: 06/27/2025
+  eventday: '27'
+  eventmonthyear: June 2025
   eventtime: 04:00 PM
+  eventweekday: Fri
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/L8qNkPmWWumjq8ySA
   sortdate: 1751054400
@@ -682,7 +853,10 @@
 
     Kathryn Knauer, guest soprano'
   eventdate: 05/31/2025
+  eventday: '31'
+  eventmonthyear: May 2025
   eventtime: 03:00 PM
+  eventweekday: Sat
   heading: NCBO Chamber Players at Piccolo Spoleto
   mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
   sortdate: 1748718000
@@ -701,7 +875,10 @@
 
     Nicholas Quardokus, harpsichord'
   eventdate: 05/30/2025
+  eventday: '30'
+  eventmonthyear: May 2025
   eventtime: 03:00 PM
+  eventweekday: Fri
   heading: NCBO Chamber Players at Piccolo Spoleto
   mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
   sortdate: 1748631600
@@ -719,7 +896,10 @@
 
     Nicholas Quardokus, harpsichord'
   eventdate: 05/29/2025
+  eventday: '29'
+  eventmonthyear: May 2025
   eventtime: 03:00 PM
+  eventweekday: Thu
   heading: NCBO Chamber Players at Piccolo Spoleto
   mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
   sortdate: 1748545200
@@ -740,7 +920,10 @@
 
     Kathryn Knauer, guest soprano'
   eventdate: 05/27/2025
+  eventday: '27'
+  eventmonthyear: May 2025
   eventtime: 03:00 PM
+  eventweekday: Tue
   heading: NCBO Chamber Players at Piccolo Spoleto
   mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
   sortdate: 1748372400
@@ -753,7 +936,10 @@
     Barbara Krumdieck, cello\nNicholas Quardokus, harpsichord\nKathryn Knauer, guest\
     \ soprano"
   eventdate: 05/26/2025
+  eventday: '26'
+  eventmonthyear: May 2025
   eventtime: 03:00 PM
+  eventweekday: Mon
   heading: NCBO Chamber Players at Piccolo Spoleto
   mapurl: https://maps.app.goo.gl/5j9jxmKBtZ61z49RA
   sortdate: 1748286000
@@ -766,7 +952,10 @@
 
     Admission $21'
   eventdate: 05/24/2025
+  eventday: '24'
+  eventmonthyear: May 2025
   eventtime: 06:30 PM
+  eventweekday: Sat
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/RYwfXrNV3zXDTuEX6
   sortdate: 1748125800
@@ -775,7 +964,10 @@
   description: NCBO Chamber Players presents music by Corelli, Rosenmüller, Muffat,
     Schmelzer, and Vivaldi.
   eventdate: 05/22/2025
+  eventday: '22'
+  eventmonthyear: May 2025
   eventtime: 07:00 PM
+  eventweekday: Thu
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/Qm3ijxr34Lmcu2zZA
   sortdate: 1747954800
@@ -785,7 +977,10 @@
     of Bach's monumental Mass in B minor. NCBO joins the South Carolina Bach Choir
     and Soloists and conductor David Rhyne.
   eventdate: 05/18/2025
+  eventday: '18'
+  eventmonthyear: May 2025
   eventtime: 07:00 PM
+  eventweekday: Sun
   heading: South Carolina Baroque Music Festival - Mass in B minor
   mapurl: https://maps.app.goo.gl/8zErrg6Ndy5WFGf2A
   sortdate: 1747609200
@@ -796,7 +991,10 @@
     violinist David Wilson performs a recital of unaccompanied works by Telemann and
     Bach.
   eventdate: 05/18/2025
+  eventday: '18'
+  eventmonthyear: May 2025
   eventtime: 02:00 PM
+  eventweekday: Sun
   heading: South Carolina Baroque Music Festival - David Wilson, baroque violin
   mapurl: https://maps.app.goo.gl/2kDv1rGSoeyhRbBQ6
   sortdate: 1747591200
@@ -808,7 +1006,10 @@
     Concerto in C for two trumpets, Bach's Brandenburg Concerto No. 5, and other works
     by Bach and Vivaldi.
   eventdate: 05/16/2025
+  eventday: '16'
+  eventmonthyear: May 2025
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: South Carolina Baroque Music Festival - NCBO
   mapurl: https://maps.app.goo.gl/xtyT4jxA6wPfAiSf8
   sortdate: 1747436400
@@ -820,7 +1021,10 @@
     the d minor Partita by Johann Sebastian Bach (which includes the famous Chaconne).
     Donations gratefully accepted.
   eventdate: 05/09/2025
+  eventday: '9'
+  eventmonthyear: May 2025
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: David Wilson, baroque violin
   mapurl: https://maps.app.goo.gl/dG2VvzsoHRCkoqHcA
   sortdate: 1746831600
@@ -831,7 +1035,10 @@
     Schroeder) and the choirs of Trinity Episcopal Cathedral, featuring music by Orlando
     Gibbons.
   eventdate: 05/04/2025
+  eventday: '4'
+  eventmonthyear: May 2025
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: Vespers at Trinity Episcopal Cathedral
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
   sortdate: 1746388800
@@ -842,7 +1049,10 @@
     David Wilson, baroque violin, and Barbara Norton, baroque flute. 10% of sales
     will benefit NCBO!
   eventdate: 04/24/2025
+  eventday: '24'
+  eventmonthyear: April 2025
   eventtime: 03:00 PM
+  eventweekday: Thu
   heading: 'Sip & Shop - NCBO Chamber Players at J. McLaughlin '
   mapurl: https://maps.app.goo.gl/mSNon1ckZSEGjtML8
   sortdate: 1745521200
@@ -852,7 +1062,10 @@
     Barbara Krumdieck, cello, and Barbara Weiss, harpsichord, for "Amare da Musica"--17th
     century chamber music we love!
   eventdate: 04/16/2025
+  eventday: '16'
+  eventmonthyear: April 2025
   eventtime: 07:30 PM
+  eventweekday: Wed
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/KXbYA3tMU73UvWJM6
   sortdate: 1744846200
@@ -864,7 +1077,10 @@
 
     Donations appreciated at the door or via our website.'
   eventdate: 04/06/2025
+  eventday: '6'
+  eventmonthyear: April 2025
   eventtime: 03:00 PM
+  eventweekday: Sun
   heading: Brilliant Concerti of the Baroque
   mapurl: https://maps.app.goo.gl/WKwuBHYRx386HNU67
   sortdate: 1743966000
@@ -873,7 +1089,10 @@
   description: NCBO presents a program of baroque concerti for strings by Bach, Handel,
     Corelli, and others, with soloists from the orchestra.
   eventdate: 04/05/2025
+  eventday: '5'
+  eventmonthyear: April 2025
   eventtime: 02:30 PM
+  eventweekday: Sat
   heading: Brilliant Concerti of the Baroque
   mapurl: https://maps.app.goo.gl/HxmTnbMGLjybcALh7
   sortdate: 1743877800
@@ -886,7 +1105,10 @@
 
     $20 requested donation at the door.'
   eventdate: 04/04/2025
+  eventday: '4'
+  eventmonthyear: April 2025
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: Brilliant Concerti of the Baroque
   mapurl: https://maps.app.goo.gl/ahC6dHfZtTrr59uq5
   sortdate: 1743807600
@@ -898,7 +1120,10 @@
 
     Donations appreciated at the door or via our website.'
   eventdate: 04/03/2025
+  eventday: '3'
+  eventmonthyear: April 2025
   eventtime: 07:00 PM
+  eventweekday: Thu
   heading: Brilliant Concerti of the Baroque
   mapurl: https://maps.app.goo.gl/6tRj9Sj3tLiL1qwa8
   sortdate: 1743721200
@@ -910,7 +1135,10 @@
 
     Free and open to the public.'
   eventdate: 04/02/2025
+  eventday: '2'
+  eventmonthyear: April 2025
   eventtime: 04:00 PM
+  eventweekday: Wed
   heading: Open Rehearsal - Brilliant Concerti of the Baroque
   mapurl: https://maps.app.goo.gl/2HL5t4EJhkpEkvaWA
   sortdate: 1743624000
@@ -922,8 +1150,11 @@
 
     This concert is free; donations appreciated.'
   eventdate: 03/30/2025
+  eventday: '30'
   eventimage: bachfestival.jpeg
+  eventmonthyear: March 2025
   eventtime: 05:00 PM
+  eventweekday: Sun
   heading: Davidson Bach Festival - Organ Music of Bach - Dr. Timothy Olsen, organ
   mapurl: https://maps.app.goo.gl/iVQh6KEseYdaBsMW6
   sortdate: 1743368400
@@ -937,8 +1168,11 @@
 
     $15 students'
   eventdate: 03/29/2025
+  eventday: '29'
   eventimage: bachfestival.jpeg
+  eventmonthyear: March 2025
   eventtime: 05:00 PM
+  eventweekday: Sat
   heading: Davidson Bach Festival - Glorious Chamber Music of JS Bach
   mapurl: https://maps.app.goo.gl/iVQh6KEseYdaBsMW6
   sortdate: 1743282000
@@ -955,8 +1189,11 @@
 
     Davidson College students free'
   eventdate: 03/29/2025
+  eventday: '29'
   eventimage: bachfestival.jpeg
+  eventmonthyear: March 2025
   eventtime: 11:30 AM
+  eventweekday: Sat
   heading: Davidson Bach Festival - Coffee Cantata
   mapurl: https://maps.app.goo.gl/7ng5nrVjovdGuKYW6
   sortdate: 1743262200
@@ -971,8 +1208,11 @@
 
     $15 students'
   eventdate: 03/28/2025
+  eventday: '28'
   eventimage: bachfestival.jpeg
+  eventmonthyear: March 2025
   eventtime: 07:30 PM
+  eventweekday: Fri
   heading: ' Davidson Bach Festival - Goldberg Variations'
   mapurl: https://maps.app.goo.gl/iVQh6KEseYdaBsMW6
   sortdate: 1743204600
@@ -986,8 +1226,11 @@
     of our community’s most outstanding musicians to celebrate the life and legacy
     of iconic Baroque composer J.S. Bach.
   eventdate: 03/28/2025
+  eventday: '28'
   eventimage: bachfestival.jpeg
+  eventmonthyear: March 2025
   eventtime: 07:30 PM
+  eventweekday: Fri
   heading: Davidson Bach Festival
   sortdate: 1743204600
   venue: ''
@@ -996,8 +1239,11 @@
     with organist Nick Quardokus perform on First Presbyterian's First Friday Concert
     Series.
   eventdate: 03/07/2025
+  eventday: '7'
   eventdetailsurl: https://visithartsvillesc.com/series/first-friday-concert-series/
+  eventmonthyear: March 2025
   eventtime: 12:00 PM
+  eventweekday: Fri
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/7kJesFXKprHEg7Jy6
   sortdate: 1741366800
@@ -1010,7 +1256,10 @@
     HIP Music Festival, "the hippest musicians on period instruments." Please see
     https://www.mallarmemusic.org/2025-north-carolina-hip-music-festival/ for details.
   eventdate: 03/01/2025
+  eventday: '1'
+  eventmonthyear: March 2025
   eventtime: 03:00 PM
+  eventweekday: Sat
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/1ZKUvkT2KS4KPjLv7
   sortdate: 1740859200
@@ -1019,7 +1268,10 @@
   description: Episcopal Vespers service with the choirs of Trinity Episcopal Cathedral,
     featuring Bach's cantata 127, Herr Jesu Christ, wahr' Mensch und Gott.
   eventdate: 02/23/2025
+  eventday: '23'
+  eventmonthyear: February 2025
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: Bach Vespers at Trinity Episcopal Cathedral
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
   sortdate: 1740344400
@@ -1033,7 +1285,10 @@
     NCBO Chamber Players (Martie Perry and David Wilson, violins, Barbara Krumdieck,
     cello, Barbara Weiss, harpsichord) plays music of JS Bach and Arcangelo Corelli.'
   eventdate: 02/22/2025
+  eventday: '22'
+  eventmonthyear: February 2025
   eventtime: 03:00 PM
+  eventweekday: Sat
   heading: CANCELED - NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/krUDA4MKxhCvrHoY7
   sortdate: 1740254400
@@ -1047,7 +1302,10 @@
     NCBO Chamber Players (Martie Perry and David Wilson, violins, Barbara Krumdieck,
     cello, Barbara Weiss, harpsichord) plays music of JS Bach and Arcangelo Corelli.'
   eventdate: 02/21/2025
+  eventday: '21'
+  eventmonthyear: February 2025
   eventtime: 12:00 PM
+  eventweekday: Fri
   heading: CANCELED - NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/cA9rAd8EBYuNLJyD7
   sortdate: 1740157200
@@ -1060,7 +1318,10 @@
     \ Corelli, in a concert presented by the Friends of Music at St. Paul's Episcopal\
     \ Church in Winston-Salem. $20 donation requested."
   eventdate: 02/20/2025
+  eventday: '20'
+  eventmonthyear: February 2025
   eventtime: 07:00 PM
+  eventweekday: Thu
   heading: CANCELED - NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/LpeBmGg3huuKH98c8
   sortdate: 1740096000
@@ -1080,7 +1341,10 @@
 
     Barbara Weiss - harpsichord'
   eventdate: 02/14/2025
+  eventday: '14'
+  eventmonthyear: February 2025
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/fUvpSuQAVxK3anHV7
   sortdate: 1739577600
@@ -1100,7 +1364,10 @@
 
     Barbara Weiss - harpsichord'
   eventdate: 02/13/2025
+  eventday: '13'
+  eventmonthyear: February 2025
   eventtime: 06:30 PM
+  eventweekday: Thu
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/a1RcryhdLWXVPdKv7
   sortdate: 1739489400
@@ -1111,7 +1378,10 @@
     of Mozart," quartets for oboe and strings by František Kramár, Johann Gottlieb
     Janitsch, and Wolfgang Amadeus Mozart.
   eventdate: 01/29/2025
+  eventday: '29'
+  eventmonthyear: January 2025
   eventtime: 07:00 PM
+  eventweekday: Wed
   heading: NCBO Chamber Players
   sortdate: 1738195200
   venue: Central Piedmont Community College
@@ -1119,7 +1389,10 @@
   description: Episcopal Vespers service featuring Bach's cantata 118, O Jesu Christ,
     mein's Leben's Licht.
   eventdate: 01/26/2025
+  eventday: '26'
+  eventmonthyear: January 2025
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: Bach Vespers at Trinity Episcopal Cathedral
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
   sortdate: 1737925200
@@ -1127,7 +1400,10 @@
 - address: 125 N. Meeting Street, Statesville, NC
   description: Christmas Eve prelude music and church service
   eventdate: 12/24/2024
+  eventday: '24'
+  eventmonthyear: December 2024
   eventtime: 05:30 PM
+  eventweekday: Tue
   heading: Christmas Eve service
   mapurl: https://maps.app.goo.gl/Mi4xEAZhNMV9ifTPA
   sortdate: 1735079400
@@ -1152,7 +1428,10 @@
 
     Cello: Barbara Krumdieck'
   eventdate: 12/22/2024
+  eventday: '22'
+  eventmonthyear: December 2024
   eventtime: 03:00 PM
+  eventweekday: Sun
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/ETjmoZLPD7UYvfPr6
   sortdate: 1734897600
@@ -1177,7 +1456,10 @@
 
     Cello: Barbara Krumdieck'
   eventdate: 12/21/2024
+  eventday: '21'
+  eventmonthyear: December 2024
   eventtime: 11:30 AM
+  eventweekday: Sat
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/xXSqfADhMGPWBaYB8
   sortdate: 1734798600
@@ -1202,7 +1484,10 @@
 
     Cello: Barbara Krumdieck'
   eventdate: 12/20/2024
+  eventday: '20'
+  eventmonthyear: December 2024
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/wFEcqAAXeaBrPn4K8
   sortdate: 1734739200
@@ -1211,7 +1496,10 @@
   description: Handel's "Messiah" with the choirs of Trinity Episcopal Cathedral,
     Columbia, SC.
   eventdate: 12/15/2024
+  eventday: '15'
+  eventmonthyear: December 2024
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: Messiah in Columbia, SC
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
   sortdate: 1734296400
@@ -1220,7 +1508,10 @@
   description: Handel's "Messiah" with the choir of St. Paul's Episcopal Church, Wilmington,
     NC.
   eventdate: 12/13/2024
+  eventday: '13'
+  eventmonthyear: December 2024
   eventtime: 07:30 PM
+  eventweekday: Fri
   heading: Messiah in Wilmington
   mapurl: https://maps.app.goo.gl/4GxLqBrHRS6uKMuZ8
   sortdate: 1734136200
@@ -1228,8 +1519,11 @@
 - address: 2101 N Herritage St, Kinston, NC 28501
   description: Handel's "Messiah" with the Kinston-Lenoir Community Chorus.
   eventdate: 12/09/2024
+  eventday: '9'
   eventdetailsurl: https://www.facebook.com/profile.php?id=100068990051602
+  eventmonthyear: December 2024
   eventtime: 07:00 PM
+  eventweekday: Mon
   heading: Messiah in Kinston
   mapurl: https://maps.app.goo.gl/iFT8MZSuyJfWCvXh7
   sortdate: 1733788800
@@ -1238,7 +1532,10 @@
   description: NCBO Chamber Players presents quartets for oboe and strings by František
     Kramář, Johann Gottlieb Janitsch, and Wolfgang Amadeus Mozart.
   eventdate: 11/22/2024
+  eventday: '22'
+  eventmonthyear: November 2024
   eventtime: 06:30 PM
+  eventweekday: Fri
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/xyYNfKKvTvKi222P6
   sortdate: 1732318200
@@ -1247,7 +1544,10 @@
   description: NCBO Chamber Players performs some of our favorite tunes, including
     music by Heinrich Biber, J.S. Bach, Arcangelo Corelli, and others.
   eventdate: 11/20/2024
+  eventday: '20'
+  eventmonthyear: November 2024
   eventtime: 07:30 PM
+  eventweekday: Wed
   heading: NCBO Chamber Players - Greatest Hits
   mapurl: https://maps.app.goo.gl/gNKrVJ6jBFzXtzZAA
   sortdate: 1732149000
@@ -1256,7 +1556,10 @@
   description: NCBO Chamber Players presents quartets for oboe and strings by František
     Kramář, Johann Gottlieb Janitsch, and Wolfgang Amadeus Mozart.
   eventdate: 11/19/2024
+  eventday: '19'
+  eventmonthyear: November 2024
   eventtime: 04:00 PM
+  eventweekday: Tue
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/bvbpa7PxcurxzHeP9
   sortdate: 1732050000
@@ -1270,8 +1573,11 @@
 
     $20 suggested donation at the door.'
   eventdate: 11/17/2024
+  eventday: '17'
   eventdetailsurl: https://scbach.org
+  eventmonthyear: November 2024
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: SC Bach
   mapurl: https://maps.app.goo.gl/Avc9oAMhV82CXyG39
   sortdate: 1731877200
@@ -1285,8 +1591,11 @@
 
     $20 suggested donation at the door.'
   eventdate: 11/16/2024
+  eventday: '16'
   eventdetailsurl: https://scbach.org
+  eventmonthyear: November 2024
   eventtime: 07:00 PM
+  eventweekday: Sat
   heading: SC Bach
   mapurl: https://maps.app.goo.gl/8L1y3cxhBPnmq9R78
   sortdate: 1731801600
@@ -1300,8 +1609,11 @@
 
     $20 suggested donation at the door.'
   eventdate: 11/15/2024
+  eventday: '15'
   eventdetailsurl: https://scbach.org
+  eventmonthyear: November 2024
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: SC Bach
   mapurl: https://maps.app.goo.gl/YJBBpqkQLUieWb3c9
   sortdate: 1731715200
@@ -1312,8 +1624,11 @@
     \ Perti, Magnificat (modern premiere performance)\n\nRihards Dubra, Stetit Angelus\n\
     \nRoyal Voices of Charlotte, Justin Smith, director"
   eventdate: 11/13/2024
+  eventday: '13'
   eventdetailsurl: https://calendar.queens.edu/event/royal-voices-north-carolina-baroque-orchestra-concert
+  eventmonthyear: November 2024
   eventtime: 07:30 PM
+  eventweekday: Wed
   heading: Bach Magnificat with Royal Voices of Charlotte
   mapurl: https://maps.app.goo.gl/kakNbLb5akgF47Ge8
   sortdate: 1731544200
@@ -1322,7 +1637,10 @@
   description: Episcopal Vespers featuring Bach's cantata "Nur jedem das Seine," BWV
     163, with the choirs of Trinity Episcopal Cathedral in Columbia, SC.
   eventdate: 11/10/2024
+  eventday: '10'
+  eventmonthyear: November 2024
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: Bach Vespers at Trinity Episcopal Cathedral, Columbia, SC
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
   sortdate: 1731272400
@@ -1331,7 +1649,10 @@
   description: NCBO Chamber Players presents music of the Baroque for oboe, violin,
     and cello.
   eventdate: 11/09/2024
+  eventday: '9'
+  eventmonthyear: November 2024
   eventtime: 02:00 PM
+  eventweekday: Sat
   heading: NCBO Chamber Players
   sortdate: 1731178800
   venue: Album Huntersville
@@ -1340,7 +1661,10 @@
     and cello. Lighting of the church's Christmas tree follows the concert. Free and
     open to the public; goodwill offerings gladly accepted.
   eventdate: 11/08/2024
+  eventday: '8'
+  eventmonthyear: November 2024
   eventtime: 06:00 PM
+  eventweekday: Fri
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/rzJ6AkznUnt8mBU18
   sortdate: 1731106800
@@ -1350,7 +1674,10 @@
     Johann Heinrich Schmelzer, Johann Rosenmüller, and Johann Sebastian Bach. For
     more infomation please call (803) 684-4021.'
   eventdate: 10/27/2024
+  eventday: '27'
+  eventmonthyear: October 2024
   eventtime: 03:00 PM
+  eventweekday: Sun
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/JkPxzRGcjc4iUtkF6
   sortdate: 1730055600
@@ -1383,7 +1710,10 @@
 
     Billy Simms - theorbo and baroque guitar'
   eventdate: 10/26/2024
+  eventday: '26'
+  eventmonthyear: October 2024
   eventtime: 04:00 PM
+  eventweekday: Sat
   heading: Music Helping Communities - Hurricane Relief Fundraising Conc
   mapurl: https://maps.app.goo.gl/vwBspaCakZzsrCtq8
   sortdate: 1729972800
@@ -1393,7 +1723,10 @@
     Gut," BWV 117, with the choirs of Trinity Episcopal Cathedral, Columbia, SC. Free
     and open to the public.
   eventdate: 10/13/2024
+  eventday: '13'
+  eventmonthyear: October 2024
   eventtime: 04:00 PM
+  eventweekday: Sun
   heading: Bach Vespers at Trinity Episcopal Cathedral, Columbia, SC
   mapurl: https://maps.app.goo.gl/kYaTPepz59nx42TU6
   sortdate: 1728849600
@@ -1402,7 +1735,10 @@
   description: NCBO Chamber Players presents quartets for oboe and strings by František
     Kramář, Johann Gottlieb Janitsch, and Wolfgang Amadeus Mozart.
   eventdate: 10/09/2024
+  eventday: '9'
+  eventmonthyear: October 2024
   eventtime: 07:30 PM
+  eventweekday: Wed
   heading: NCBO Chamber Players
   mapurl: https://maps.app.goo.gl/gNKrVJ6jBFzXtzZAA
   sortdate: 1728516600
@@ -1412,7 +1748,10 @@
     “The Glorious Orchestral Music of JS Bach and his Contemporaries: celebratory
     works by Bach, Vivaldi, Telemann, Rameau and Veracini.”'
   eventdate: 09/22/2024
+  eventday: '22'
+  eventmonthyear: September 2024
   eventtime: 03:00 PM
+  eventweekday: Sun
   heading: JS Bach and his Contemporaries
   mapurl: https://maps.app.goo.gl/vwBspaCakZzsrCtq8
   sortdate: 1727031600
@@ -1423,7 +1762,10 @@
     “The Glorious Orchestral Music of JS Bach and his Contemporaries: celebratory
     works by Bach, Vivaldi, Telemann, Rameau and Veracini.”'
   eventdate: 09/21/2024
+  eventday: '21'
+  eventmonthyear: September 2024
   eventtime: 06:30 PM
+  eventweekday: Sat
   heading: JS Bach and his Contemporaries
   mapurl: https://maps.app.goo.gl/nQGFmgQGXzj6cK447
   sortdate: 1726957800
@@ -1433,7 +1775,10 @@
   description: NCBO Members perform chamber music for the residents, their friends
     and family. 11:00-11:40 am.
   eventdate: 09/21/2024
+  eventday: '21'
+  eventmonthyear: September 2024
   eventtime: 11:00 AM
+  eventweekday: Sat
   heading: Chamber Music
   mapurl: https://maps.app.goo.gl/gxVqvg9kcVovt3DJ7
   sortdate: 1726930800
@@ -1447,7 +1792,10 @@
     Free and open to the public - donations to support the orchestra are gratefully
     accepted.'
   eventdate: 09/20/2024
+  eventday: '20'
+  eventmonthyear: September 2024
   eventtime: 07:00 PM
+  eventweekday: Fri
   heading: JS Bach and his Contemporaries
   mapurl: https://maps.app.goo.gl/1uqSkYy3sayoNBXQ8
   sortdate: 1726873200
@@ -1461,7 +1809,10 @@
     Free and Open to the Public - donations to support the orchestra are gratefully
     accepted.'
   eventdate: 09/19/2024
+  eventday: '19'
+  eventmonthyear: September 2024
   eventtime: 07:00 PM
+  eventweekday: Thu
   heading: JS Bach and his Contemporaries
   mapurl: https://maps.app.goo.gl/vww888wJ3gdXJndZ8
   sortdate: 1726786800
@@ -1473,7 +1824,10 @@
     \ a close-up and intimate view of the sounds and musicians who make up a baroque\
     \ orchestra. 4:00-5:00 pm. \n\nFree and open to the public."
   eventdate: 09/18/2024
+  eventday: '18'
+  eventmonthyear: September 2024
   eventtime: 04:00 PM
+  eventweekday: Wed
   heading: 'Community Outreach: Meet the Instruments'
   mapurl: https://maps.app.goo.gl/jHYokKuA5FZV7cdH7
   sortdate: 1726689600
@@ -1482,7 +1836,10 @@
   description: "Open rehearsal of NCBO with Music Director Frances Blaker conducting.\
     \ 3:30-4:15 pm. \n\nFree and open to the public."
   eventdate: 09/17/2024
+  eventday: '17'
+  eventmonthyear: September 2024
   eventtime: 07:00 PM
+  eventweekday: Tue
   heading: 'Community Outreach: Open Rehearsal'
   mapurl: https://maps.app.goo.gl/vwBspaCakZzsrCtq8
   sortdate: 1726614000

@@ -57,7 +57,7 @@
 
     {% assign current_month = '' %}
     {% for event in site.data.events %}
-      {% assign month_label = event.sortdate | date: "%B %Y" %}
+      {% assign month_label = event.eventmonthyear %}
       {% if month_label != current_month %}
         {% assign current_month = month_label %}
         <div class="ev-ag-month">{{ month_label }}</div>
@@ -65,8 +65,8 @@
 
       <div class="ev-ag-row">
         <div class="ev-ag-datecol">
-          <div class="ev-ag-day">{{ event.sortdate | date: "%-d" }}</div>
-          <div class="ev-ag-weekday">{{ event.sortdate | date: "%a" }}</div>
+          <div class="ev-ag-day">{{ event.eventday }}</div>
+          <div class="ev-ag-weekday">{{ event.eventweekday }}</div>
         </div>
         <div class="ev-ag-main">
           <div class="ev-ag-title">{{ event.heading }}</div>
