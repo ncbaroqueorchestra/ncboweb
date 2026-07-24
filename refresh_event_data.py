@@ -46,6 +46,12 @@ for record in records:
     new_rec['sortdate'] = int(ny_dt.timestamp())
     #new_rec['sortdate'] = ny_dt.strftime('%Y%m%d')
     new_rec['eventtime'] = ny_dt.strftime('%I:%M %p')
+    # Pre-formatted in Eastern time so display templates don't need to
+    # reformat sortdate (which is a UTC epoch and gets misinterpreted
+    # as the build host's local timezone by Jekyll's date filter).
+    new_rec['eventday'] = str(ny_dt.day)
+    new_rec['eventweekday'] = ny_dt.strftime('%a')
+    new_rec['eventmonthyear'] = ny_dt.strftime('%B %Y')
     new_rec['venue'] = fields.get('Venue', '')
     new_rec['description'] = fields.get('Event info', '')
     new_rec['address'] = fields.get('Address', '')
