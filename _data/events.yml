@@ -42,7 +42,7 @@
   heading: 'Outreach Program: "Why go for Baroque?"'
   mapurl: https://maps.app.goo.gl/M4WuBNnCDyqmSKbHA
   sortdate: 1790881200
-  venue: Davidson College Presbyterian Church
+  venue: Davidson College Presbyterian Church, Congregation House
 - address: ''
   description: A concert of baroque orchestral music in celebration of NCBO's 15th
     birthday, and in memory of our own Sally Blaker.
@@ -78,8 +78,10 @@
   sortdate: 1791140400
   venue: Charlotte/Matthews area
 - address: 310 Exploration Blvd., Denver, NC
-  description: Time TBD. Martie Perry and David Wilson, violins, Barbara Krumdieck,
-    cello, Billy Simms, theorbo, Barbara Weiss, harpsichord.
+  description: 'Martie Perry and David Wilson, violins, Barbara Krumdieck, cello,
+    Billy Simms, theorbo, Barbara Weiss, harpsichord. The concert will be held at
+    the Event Center at Twin Mills Club, contact the concierge at 704 585-8780 for
+    tickets. '
   eventdate: 10/16/2026
   eventday: '16'
   eventmonthyear: October 2026
@@ -115,7 +117,8 @@
   venue: Episcopal Church of the Good Shepherd
 - address: 520 Summit Street, Winston-Salem, NC
   description: NCBO is joined by Charlotte native Margaret Carpenter Haigh for a program
-    of baroque chamber music for soprano and instruments.
+    of baroque chamber music for soprano and instruments. This concert is presented
+    by The Friends of Music at St. Paul's. $20 donation requested.
   eventdate: 10/23/2026
   eventday: '23'
   eventmonthyear: October 2026
@@ -130,6 +133,7 @@
     of baroque chamber music for soprano and instruments.
   eventdate: 10/24/2026
   eventday: '24'
+  eventdetailsurl: https://lcshp.org/cultural-arts-center-concerts-events
   eventmonthyear: October 2026
   eventtime: 06:30 PM
   eventweekday: Sat
@@ -142,7 +146,8 @@
     program of baroque chamber music for soprano and instruments.
 
 
-    This concert is presented by the concert series Music at St Alban''s.'
+    This concert is presented by the concert series Music at St Alban''s. Tickets
+    available at the door: adults $20, seniors $15, students and children free.'
   eventdate: 10/25/2026
   eventday: '25'
   eventmonthyear: October 2026
@@ -151,7 +156,6 @@
   heading: NCBO Chamber Players with guest soprano Margaret Carpenter Haigh
   mapurl: https://maps.app.goo.gl/7KX9Nos5MtV8nSsM8
   sortdate: 1792954800
-  ticketurl: https://www.masaconcerts.org
   venue: St. Alban's Episcopal Church
 - address: 1100 Sumter Street, Columbia, SC
   description: Members of NCBO join the musicians of Trinity Episcopal Cathedral in
@@ -199,7 +203,8 @@
   sortdate: 1796587200
   venue: ''
 - address: 2101 N. Herritage St., Kinston, NC
-  description: George Frideric Handel's beloved oratorio "Messiah."
+  description: NCBO joins the Kinston/Lenoir Community Chorus, under the direction
+    of Jane Cain, for George Frideric Handel's beloved oratorio "Messiah."
   eventdate: 12/07/2026
   eventday: '7'
   eventmonthyear: December 2026
