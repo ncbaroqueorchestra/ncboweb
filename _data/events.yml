@@ -7,11 +7,11 @@
   eventdate: 09/25/2026
   eventday: '25'
   eventmonthyear: September 2026
-  eventtime: 07:00 PM
+  eventtime: 07:30 PM
   eventweekday: Fri
   heading: Purcell's "King Arthur"
   mapurl: https://maps.app.goo.gl/Z86rofzSR18hKCTi7
-  sortdate: 1790377200
+  sortdate: 1790379000
   venue: Belk Chapel, Queens University
 - address: 307 E. Gay Street, Lancaster, SC
   description: NCBO is joined by the Royal Voices of Charlotte, Queens University,
@@ -30,18 +30,18 @@
   sortdate: 1790461800
   venue: Lancaster Cultural Arts Center
 - address: 218 Concord Rd, Davidson, NC 28036
-  description: Time TBD. In this special program hosted by DavidsonLearns, musicians
-    of the North Carolina Baroque Orchestra tell you their stories, talk about their
-    passion for this brilliant music, and demonstrate the special and intimate sound-colors
+  description: In this special program hosted by DavidsonLearns, musicians of the
+    North Carolina Baroque Orchestra tell you their stories, talk about their passion
+    for this brilliant music, and demonstrate the special and intimate sound-colors
     produced by their period instruments.
   eventdate: 10/01/2026
   eventday: '1'
   eventmonthyear: October 2026
-  eventtime: 03:00 PM
+  eventtime: 04:00 PM
   eventweekday: Thu
   heading: 'Outreach Program: "Why go for Baroque?"'
   mapurl: https://maps.app.goo.gl/wEm9o3ELZBDHx7XZ7
-  sortdate: 1790881200
+  sortdate: 1790884800
   venue: Davidson College Presbyterian Church, Congregation House
 - address: ''
   description: Concert in Greenville, SC, venue TBD. A concert of baroque orchestral
@@ -93,15 +93,16 @@
   sortdate: 1792180800
   venue: Trilogy at Lake Norman
 - address: ''
-  description: "Time and venue TBD. \nMartie Perry and David Wilson, violins, Barbara\
-    \ Krumdieck, cello, Billy Simms, theorbo, Barbara Weiss, harpsichord."
+  description: "Time and venue TBD, Matthews/Charlotte area. \nMartie Perry and David\
+    \ Wilson, violins, Barbara Krumdieck, cello, Billy Simms, theorbo, Barbara Weiss,\
+    \ harpsichord."
   eventdate: 10/17/2026
   eventday: '17'
   eventmonthyear: October 2026
-  eventtime: 04:00 PM
+  eventtime: 07:00 PM
   eventweekday: Sat
   heading: 'NCBO Chamber Players: The Art of the Baroque Trio Sonata'
-  sortdate: 1792267200
+  sortdate: 1792278000
   venue: ''
 - address: 108 E. Liberty St., York, SC
   description: A program of Baroque masterworks featuring violinists Martie Perry
@@ -119,7 +120,8 @@
 - address: 520 Summit Street, Winston-Salem, NC
   description: NCBO is joined by Charlotte native Margaret Carpenter Haigh for a program
     of baroque chamber music for soprano and instruments. This concert is presented
-    by The Friends of Music at St. Paul's. $20 donation requested.
+    by The Friends of Music at St. Paul's. Program features Handel's "Gloria in excelsis
+    Deo" and more. $20 donation requested.
   eventdate: 10/23/2026
   eventday: '23'
   eventmonthyear: October 2026
@@ -130,8 +132,9 @@
   sortdate: 1792796400
   venue: St. Paul's Episcopal Church
 - address: 307 E Gay Street, Lancaster, SC
-  description: NCBO is joined by Charlotte native Margaret Carpenter Haigh for a program
-    of baroque chamber music for soprano and instruments.
+  description: 'NCBO is joined by Charlotte native Margaret Carpenter Haigh for a
+    program of baroque chamber music for soprano and instruments. Program features
+    Handel''s "Gloria in excelsis Deo" and more. '
   eventdate: 10/24/2026
   eventday: '24'
   eventdetailsurl: https://lcshp.org/cultural-arts-center-concerts-events
@@ -143,12 +146,11 @@
   sortdate: 1792881000
   venue: Lancaster Cultural Arts Center
 - address: 301 Caldwell Lane, Davidson, NC
-  description: 'NCBO is joined by Charlotte native Margaret Carpenter Haigh for a
-    program of baroque chamber music for soprano and instruments.
-
-
-    This concert is presented by the concert series Music at St Alban''s. Tickets
-    available at the door: adults $20, seniors $15, students and children free.'
+  description: "NCBO is joined by Charlotte native Margaret Carpenter Haigh for a\
+    \ program of baroque chamber music for soprano and instruments. Program features\
+    \ Handel's \"Gloria in excelsis Deo\" and more. \n\nThis concert is presented\
+    \ by the concert series Music at St Alban's. Tickets available at the door: adults\
+    \ $20, seniors $15, students and children free."
   eventdate: 10/25/2026
   eventday: '25'
   eventmonthyear: October 2026
@@ -257,17 +259,19 @@
   eventday: '20'
   eventdetailsurl: https://stjohnssav.org
   eventmonthyear: December 2026
-  eventtime: 12:29 PM
+  eventtime: 04:00 PM
   eventweekday: Sun
   heading: 'Music of J.S. Bach and Kuhnau: NCBO Chamber Players'
   mapurl: https://maps.app.goo.gl/cPZAFrrswAzBmNjW9
-  sortdate: 1797787740
+  sortdate: 1797800400
   venue: St. John Church (Episcopal)
 - address: 520 Summit Street, Winston-Salem
   description: Performances of baroque chamber music preceding three Christmas Eve
-    services at the lovely St. Paul's Episcopal Church in Winston-Salem.
+    services, 2:30, 4:30, and 10:30pm, at the lovely St. Paul's Episcopal Church in
+    Winston-Salem.
   eventdate: 12/24/2026
   eventday: '24'
+  eventdetailsurl: https://www.stpaulsws.org
   eventmonthyear: December 2026
   eventtime: 02:30 PM
   eventweekday: Thu
