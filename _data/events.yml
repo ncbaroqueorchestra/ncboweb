@@ -45,18 +45,19 @@
   mapurl: https://maps.app.goo.gl/wEm9o3ELZBDHx7XZ7
   sortdate: 1790884800
   venue: Davidson College Presbyterian Church, Congregation House
-- address: ''
-  description: Concert in Greenville, SC, venue TBD. A concert of baroque orchestral
-    music in celebration of NCBO's 15th birthday, and in memory of our own Sally Blaker.
-    This concert is hosted by SC Bach.
+- address: 2310 Augusta Street in Greenville, SC
+  description: Concert in Greenville, SC. A concert of baroque orchestral music in
+    celebration of NCBO's 15th birthday, and in memory of our own Sally Blaker. This
+    concert is hosted by SC Bach.
   eventdate: 10/02/2026
   eventday: '2'
   eventmonthyear: October 2026
   eventtime: 07:00 PM
   eventweekday: Fri
   heading: 'NCBO 15th Anniversary Celebration: directed by Frances Blaker'
+  mapurl: https://maps.app.goo.gl/PJ8iZ1RbhG7beFVR7
   sortdate: 1790982000
-  venue: ''
+  venue: Westminister Presbyterian Church
 - address: 218 Concord Rd, Davidson, NC 28036
   description: A concert of baroque orchestral music in celebration of NCBO's 15th
     year, and in memory of our own Sally Blaker.
@@ -70,7 +71,7 @@
   sortdate: 1791068400
   ticketurl: https://bit.ly/ncbo_15th_1
   venue: Davidson College Presbyterian Church, Congregation House
-- address: ''
+- address: 2810 Providence Road, Charlotte, NC
   description: A concert of baroque orchestral music in celebration of NCBO's 15th
     year, and in memory of our own Sally Blaker.
   eventdate: 10/04/2026
@@ -79,9 +80,10 @@
   eventtime: 03:00 PM
   eventweekday: Sun
   heading: 'NCBO 15th Anniversary Celebration: directed by Frances Blaker'
+  mapurl: https://maps.app.goo.gl/cccfk2F422GczUXr8
   sortdate: 1791140400
   ticketurl: https://bit.ly/ncbo_15th_2
-  venue: Charlotte/Matthews area
+  venue: Providence United Methodist Church
 - address: 310 Exploration Blvd., Denver, NC
   description: 'Martie Perry and David Wilson, violins, Barbara Krumdieck, cello,
     Billy Simms, theorbo, Barbara Weiss, harpsichord. The concert will be held at
