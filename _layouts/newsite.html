@@ -1,0 +1,211 @@
+---
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: "North Carolina Baroque Orchestra" }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  {% if page.robots %}<meta name="robots" content="{{ page.robots }}">{% endif %}
+
+  <link href="/assets/img/favicon.png" rel="icon">
+  <link href="/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,500;0,700;0,900;1,500&family=Archivo:wght@400;500;600;700&display=swap">
+
+  {% include google-analytics.html %}
+
+  <style>
+    :root{
+      --ink:#141414; --paper:#f4f1ea; --red:#b3222c; --red-dark:#7e1620;
+      --muted:#6a6a6a; --line:#141414; --line-soft:#d8d3c6;
+    }
+    *{ box-sizing:border-box; }
+    body{ margin:0; background:var(--paper); color:var(--ink); font-family:'Archivo',sans-serif; }
+    a{ color:var(--red); }
+    a:hover{ color:var(--red-dark); }
+    img{ max-width:100%; }
+    .wrap{ max-width:1440px; margin:0 auto; overflow:hidden; }
+
+    .preview-bar{ background:var(--ink); color:#c9c4b8; font-size:12.5px; text-align:center; padding:9px 16px; letter-spacing:0.02em; }
+    .preview-bar a{ color:#f4f1ea; text-decoration:underline; }
+
+    /* header */
+    .site-header{ display:flex; align-items:center; justify-content:space-between; padding:26px 5.5vw; border-bottom:1px solid var(--line); flex-wrap:wrap; gap:14px; }
+    .logo{ font-family:'Bodoni Moda',serif; font-size:22px; font-weight:700; text-decoration:none; color:var(--ink); }
+    .nav{ display:flex; gap:clamp(16px,3vw,34px); flex-wrap:wrap; }
+    .nav a{ color:var(--ink); font-size:13px; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; text-decoration:none; }
+    .nav a:hover{ color:var(--red); }
+
+    /* hero */
+    .hero{ position:relative; padding:clamp(48px,9vw,92px) 5.5vw clamp(64px,10vw,110px); background:linear-gradient(135deg,#b3222c 0%,#8c1a22 55%,#3d0d12 100%); overflow:hidden; }
+    .hero-wedge{ position:absolute; inset:0; clip-path:polygon(0 0, 60% 0, 44% 100%, 0 100%); background:var(--ink); }
+    .hero-motif{ position:absolute; right:5%; top:6%; width:min(380px,32vw); opacity:0.32; }
+    .hero-inner{ position:relative; z-index:2; max-width:640px; }
+    .eyebrow{ font-size:13px; font-weight:700; letter-spacing:0.18em; text-transform:uppercase; color:#e05a63; }
+    .hero h1{ font-family:'Bodoni Moda',serif; font-weight:800; font-size:clamp(52px,9vw,116px); line-height:0.88; letter-spacing:-0.01em; color:var(--paper); margin:20px 0 0; }
+    .hero p{ font-size:18px; line-height:1.65; max-width:420px; color:#d8d2c4; margin:26px 0 0; }
+    .hero-cta{ display:inline-block; margin-top:30px; padding:16px 34px; background:var(--paper); color:var(--ink); font-size:13px; font-weight:700; letter-spacing:0.1em; text-transform:uppercase; text-decoration:none; }
+    .hero-num{ position:relative; z-index:2; text-align:right; margin-top:56px; }
+    .hero-num .n{ font-family:'Bodoni Moda',serif; font-weight:900; font-size:clamp(90px,16vw,212px); line-height:1; color:var(--paper); letter-spacing:-0.02em; }
+    .hero-num .l{ margin-top:-12px; font-size:12px; font-weight:700; letter-spacing:0.18em; text-transform:uppercase; color:var(--paper); }
+
+    /* events */
+    .events{ padding:clamp(48px,8vw,84px) 5.5vw 24px; position:relative; }
+    .events-rule{ height:1px; background:var(--line); }
+    .events-grid{ display:grid; grid-template-columns:1fr 1px 1.25fr; gap:56px; margin-top:46px; }
+    .col-rule{ background:var(--line); width:1px; }
+    .kicker{ font-size:12px; font-weight:700; letter-spacing:0.14em; text-transform:uppercase; color:var(--red); margin-bottom:18px; }
+    .feature-art{ height:230px; position:relative; background:repeating-linear-gradient(120deg, rgba(244,241,234,0.05) 0 2px, transparent 2px 6px), linear-gradient(155deg,#b3222c 0%,#141414 78%); border:1px solid var(--line); margin-bottom:22px; overflow:hidden; }
+    .feature-art span{ position:absolute; bottom:18px; left:18px; color:var(--paper); font-family:'Bodoni Moda',serif; font-style:italic; font-size:14px; }
+    .feature-title{ font-family:'Bodoni Moda',serif; font-size:clamp(26px,3vw,33px); font-weight:700; line-height:1.08; }
+    .feature-meta{ font-size:14px; color:var(--muted); margin-top:12px; line-height:1.65; }
+    .listing-row{ display:grid; grid-template-columns:104px 1fr; gap:20px; padding:22px 0; border-top:1px solid var(--line-soft); }
+    .listing-row:last-child{ border-bottom:1px solid var(--line-soft); }
+    .listing-date{ font-family:'Bodoni Moda',serif; font-size:15px; font-weight:700; }
+    .listing-title{ font-family:'Bodoni Moda',serif; font-size:21px; font-weight:700; }
+    .listing-meta{ font-size:13.5px; color:var(--muted); margin-top:4px; }
+    .events-more{ display:inline-block; margin-top:26px; font-size:13px; font-weight:700; letter-spacing:0.1em; text-transform:uppercase; border-bottom:2px solid var(--red); padding-bottom:2px; text-decoration:none; color:var(--ink); }
+
+    /* about */
+    .about{ padding:clamp(56px,9vw,104px) 5.5vw; position:relative; }
+    .about-quotemark{ position:absolute; left:5.5vw; top:28%; font-family:'Bodoni Moda',serif; font-size:clamp(140px,18vw,280px); line-height:1; color:#e8e3d6; z-index:0; }
+    .about-inner{ position:relative; z-index:1; max-width:820px; margin-left:min(190px,18vw); }
+    .about-inner p{ margin:0; font-family:'Bodoni Moda',serif; font-size:clamp(24px,3.2vw,38px); font-weight:500; line-height:1.32; }
+
+    /* footer */
+    .site-footer{ background:var(--ink); padding:44px 5.5vw; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:28px; }
+    .footer-brand .name{ font-family:'Bodoni Moda',serif; font-size:19px; font-weight:700; color:var(--paper); }
+    .footer-brand .sub{ font-size:13px; color:#9a9488; margin-top:4px; }
+    .newsletter-form{ display:flex; }
+    .newsletter-form input[type=email]{ padding:14px 18px; border:1px solid #3a3a3a; border-right:none; font-size:14px; color:var(--paper); background:transparent; width:200px; font-family:'Archivo',sans-serif; }
+    .newsletter-form input[type=email]::placeholder{ color:#9a9488; }
+    .newsletter-form button{ padding:14px 22px; background:#3a3a3a; color:var(--paper); font-size:13px; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; border:none; cursor:pointer; font-family:'Archivo',sans-serif; }
+    .give{ display:flex; gap:10px; flex-wrap:wrap; }
+    .give input[type=image]{ height:44px; }
+    .give-stock{ display:inline-flex; align-items:center; padding:0 20px; background:var(--red); color:var(--paper); font-size:13px; font-weight:700; letter-spacing:0.06em; text-transform:uppercase; text-decoration:none; }
+    .legal{ padding:18px 5.5vw 40px; font-size:11.5px; color:#8a8a8a; line-height:1.6; background:var(--ink); }
+
+    @media (max-width:900px){
+      .hero-motif{ display:none; }
+      .events-grid{ grid-template-columns:1fr; }
+      .col-rule{ display:none; }
+      .about-inner{ margin-left:0; }
+      .about-quotemark{ display:none; }
+    }
+  </style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="preview-bar">Design preview, running alongside the current site — <a href="/">view the live site</a></div>
+
+  <header class="site-header">
+    <a class="logo" href="#top">NCBO</a>
+    <nav class="nav">
+      <a href="#top">Home</a>
+      <a href="#events">Events</a>
+      <a href="#about">About</a>
+      <a href="#support">Support</a>
+    </nav>
+  </header>
+
+  <section class="hero" id="top">
+    <div class="hero-wedge"></div>
+    <svg class="hero-motif" viewBox="0 0 200 340">
+      <path d="M100 10 C 60 40 55 90 75 120 C 45 130 35 180 55 220 C 30 235 25 290 60 320 C 75 300 85 280 90 260 C 100 285 120 300 140 300 C 150 270 140 245 120 225 C 150 215 165 175 145 140 C 165 130 175 90 150 60 C 130 75 115 90 108 105 C 105 75 105 40 100 10 Z" fill="none" stroke="#f4f1ea" stroke-width="1.5"/>
+    </svg>
+    <div class="hero-inner">
+      <div class="eyebrow">15th Anniversary Season</div>
+      <h1>BAROQUE,<br>NOW.</h1>
+      <p>Period instruments. Historically informed performance. A touring ensemble bringing the 17th and 18th centuries to stages across the Carolinas.</p>
+      <a class="hero-cta" href="#events">See the Season &rarr;</a>
+    </div>
+    <div class="hero-num">
+      <div class="n">15</div>
+      <div class="l">Years Running</div>
+    </div>
+  </section>
+
+  <section class="events" id="events">
+    <div class="events-rule"></div>
+
+    {% assign grouped_events = site.data.events | group_by: "heading" %}
+    {% assign featured = grouped_events.first %}
+    {% assign featured_item = featured.items.first %}
+    {% assign featured_last = featured.items.last %}
+
+    <div class="events-grid">
+      <div>
+        <div class="kicker">Featured</div>
+        <div class="feature-art"><span>{{ featured.name }}</span></div>
+        <div class="feature-title">{{ featured.name }}</div>
+        <div class="feature-meta">
+          {{ featured_item.eventmonthyear | slice: 0, 3 }}
+          {% if featured_item.eventday == featured_last.eventday %}{{ featured_item.eventday }}{% else %}{{ featured_item.eventday }}&ndash;{{ featured_last.eventday }}{% endif %}
+          &middot; {{ featured.items | map: "venue" | uniq | join: " &middot; " }}
+        </div>
+        <div class="feature-meta">{{ featured_item.description | strip_html | truncate: 140 }}</div>
+      </div>
+
+      <div class="col-rule"></div>
+
+      <div>
+        <div class="kicker">Also This Season</div>
+
+        {% for group in grouped_events offset:1 limit:3 %}
+          {% assign g_first = group.items.first %}
+          {% assign g_last = group.items.last %}
+          <div class="listing-row">
+            <div class="listing-date">
+              {{ g_first.eventmonthyear | slice: 0, 3 }}
+              {% if g_first.eventday == g_last.eventday %}{{ g_first.eventday }}{% else %}{{ g_first.eventday }}&ndash;{{ g_last.eventday }}{% endif %}
+            </div>
+            <div>
+              <div class="listing-title">{{ group.name }}</div>
+              <div class="listing-meta">{{ group.items | map: "venue" | uniq | join: " &middot; " }}</div>
+            </div>
+          </div>
+        {% endfor %}
+
+        <a class="events-more" href="/events.html">Full Season Calendar &rarr;</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="about-quotemark">&ldquo;</div>
+    <div class="about-inner">
+      <div class="kicker">Who We Are</div>
+      <p>Fifteen years of period instruments and historically informed performance &mdash; a donor-supported nonprofit carrying baroque music into concert halls, chapels, and classrooms across the Carolinas.</p>
+    </div>
+  </section>
+
+  <footer class="site-footer" id="support">
+    <div class="footer-brand">
+      <div class="name">NCBO</div>
+      <div class="sub">North Carolina Baroque Orchestra &middot; 501(c)(3)</div>
+    </div>
+
+    <form class="newsletter-form" action="https://ncbaroqueorchestra.us16.list-manage.com/subscribe/post?u=0dfa55ddb6da7e528733cf160&amp;id=0652843057&amp;f_id=002765e0f0" method="post" target="_blank" novalidate>
+      <input type="email" name="EMAIL" placeholder="your@email.com" required>
+      <div style="position:absolute; left:-5000px;" aria-hidden="true"><input type="text" name="b_0dfa55ddb6da7e528733cf160_0652843057" tabindex="-1" value=""></div>
+      <button type="submit">Join List</button>
+    </form>
+
+    <div class="give">
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="XZN23PSLH2SHQ">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" title="Donate with PayPal" alt="Donate with PayPal">
+      </form>
+      <a class="give-stock" href="https://stockdonator.com/stock-information/?oid=c9f870fe" target="_blank">Donate Stock</a>
+    </div>
+  </footer>
+  <div class="legal">Your gift is tax-deductible as allowed by law. The North Carolina Baroque Orchestra is a 501(c)(3) organization, Fed. Tax ID: 84-2690097.</div>
+
+</div>
+{{ content }}
+</body>
+</html>
