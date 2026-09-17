@@ -1,0 +1,66 @@
+---
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description }}">
+  <meta name="robots" content="noindex">
+  <link href="/assets/img/favicon.png" rel="icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="{{ page.google_fonts_href }}" rel="stylesheet">
+  {% include google-analytics.html %}
+  <style>
+    :root{--ink:{{ page.palette.ink }};--paper:{{ page.palette.paper }};--accent:{{ page.palette.accent }};--soft:{{ page.palette.soft }};--head:{{ page.font_head }};--body:{{ page.font_body }}}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);line-height:1.5}a{color:inherit}button,input{font:inherit}.shell{min-height:100vh;overflow:hidden}.preview{padding:8px 4vw;background:var(--ink);color:var(--paper);font-size:12px;text-align:center;letter-spacing:.05em}.preview a{color:var(--accent)}
+    .header{display:flex;align-items:center;justify-content:space-between;padding:24px 5vw;gap:24px}.brand{font:700 22px/1 var(--head);text-decoration:none}.nav{display:flex;gap:28px}.nav a{text-decoration:none;font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase}.hero{position:relative;padding:8vw 5vw;min-height:650px;display:grid;align-items:center}.season{font-size:12px;font-weight:700;letter-spacing:.2em;text-transform:uppercase}.hero h1{font:700 clamp(62px,11vw,160px)/.83 var(--head);letter-spacing:-.055em;margin:24px 0}.hero-copy{max-width:530px;font-size:clamp(17px,2vw,22px)}.button{display:inline-block;margin-top:28px;padding:14px 22px;border:1px solid currentColor;text-decoration:none;font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase}.ornament{position:absolute;pointer-events:none}.programs{padding:7vw 5vw}.section-head{display:flex;justify-content:space-between;align-items:end;gap:30px;margin-bottom:40px}.section-head h2{font:700 clamp(38px,6vw,76px)/.95 var(--head);margin:0}.section-head p{max-width:380px;margin:0}.event-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}.event{padding:26px;border-top:2px solid var(--ink)}.event-date{font-size:12px;font-weight:800;letter-spacing:.15em;text-transform:uppercase}.event h3{font:700 clamp(24px,3vw,38px)/1.02 var(--head);margin:50px 0 14px}.event p{font-size:14px}.manifesto{padding:9vw 5vw}.manifesto blockquote{font:500 clamp(34px,6vw,86px)/1.05 var(--head);margin:0;max-width:1100px}.footer{padding:45px 5vw;display:flex;justify-content:space-between;align-items:center;gap:30px;border-top:1px solid currentColor}.footer strong{font-family:var(--head);font-size:20px}.footer a{font-size:12px;font-weight:800;letter-spacing:.1em;text-transform:uppercase}
+
+    /* 01 — kinetic editorial */
+    .editorial-score .header{border-bottom:2px solid var(--ink)}.editorial-score .brand{font-size:30px}.editorial-score .hero{grid-template-columns:2fr 1fr;border-bottom:2px solid var(--ink)}.editorial-score .hero h1{text-transform:uppercase}.editorial-score .hero-copy{align-self:end;border-left:2px solid var(--ink);padding-left:28px}.editorial-score .ornament{right:-3vw;top:3%;font:900 42vw/.8 var(--head);color:var(--accent);z-index:-1;transform:rotate(8deg)}.editorial-score .programs{background:var(--ink);color:var(--paper)}.editorial-score .event-grid{gap:0;border:2px solid var(--paper)}.editorial-score .event{border:0;border-right:2px solid var(--paper)}.editorial-score .event:last-child{border:0}.editorial-score .manifesto blockquote em{color:var(--accent)}
+
+    /* 02 — immersive concert night */
+    .velvet-nocturne{background:var(--ink);color:var(--paper)}.velvet-nocturne .preview{background:var(--accent);color:var(--ink)}.velvet-nocturne .header{position:absolute;top:30px;left:0;right:0;z-index:3}.velvet-nocturne .hero{min-height:100vh;text-align:center;place-items:center;background:radial-gradient(circle at 50% 47%,var(--soft),transparent 34%),linear-gradient(135deg,#090810,var(--ink))}.velvet-nocturne .hero-copy{margin:auto}.velvet-nocturne .hero h1{font-weight:400;letter-spacing:-.02em}.velvet-nocturne .ornament{width:42vw;height:42vw;border:1px solid var(--accent);border-radius:50%;left:29vw;top:18%;box-shadow:0 0 100px color-mix(in srgb,var(--accent) 22%,transparent)}.velvet-nocturne .programs{border-top:1px solid var(--accent)}.velvet-nocturne .event{border-color:var(--accent);background:linear-gradient(180deg,color-mix(in srgb,var(--soft) 50%,transparent),transparent)}.velvet-nocturne .event-date,.velvet-nocturne .season{color:var(--accent)}.velvet-nocturne .manifesto{text-align:center}.velvet-nocturne .manifesto blockquote{margin:auto}.velvet-nocturne .manifesto blockquote em{color:var(--accent)}
+
+    /* 03 — historical broadside */
+    .living-manuscript .shell{max-width:1380px;margin:auto;border-left:1px solid var(--ink);border-right:1px solid var(--ink)}.living-manuscript .header{border-bottom:1px solid var(--ink)}.living-manuscript .nav a{font-family:var(--head);font-style:italic;text-transform:none;font-size:16px;letter-spacing:0}.living-manuscript .hero{text-align:center;min-height:720px;border-bottom:1px solid var(--ink)}.living-manuscript .hero:before,.living-manuscript .hero:after{content:"❦";font-size:54px;color:var(--accent);position:absolute;left:50%;transform:translateX(-50%)}.living-manuscript .hero:before{top:60px}.living-manuscript .hero:after{bottom:55px}.living-manuscript .hero h1{font-weight:400;font-size:clamp(70px,10vw,145px);letter-spacing:-.03em}.living-manuscript .hero-copy{margin:auto;font-family:var(--head);font-style:italic}.living-manuscript .button{background:var(--ink);color:var(--paper)}.living-manuscript .section-head{border-bottom:1px solid var(--ink);padding-bottom:22px}.living-manuscript .event{text-align:center;border:1px solid var(--ink);padding:32px}.living-manuscript .event h3{font-weight:400}.living-manuscript .manifesto{background:var(--soft);text-align:center}.living-manuscript .manifesto blockquote{margin:auto;font-weight:400}.living-manuscript .manifesto blockquote:first-letter{color:var(--accent);font-size:1.4em}
+
+    /* 04 — international modernism */
+    .modern-tempo .header{background:var(--accent);border-bottom:4px solid var(--ink)}.modern-tempo .hero{min-height:680px;grid-template-columns:3fr 2fr;padding:0}.modern-tempo .hero-main{padding:7vw 5vw}.modern-tempo .hero h1{text-transform:uppercase;font-size:clamp(70px,13vw,190px)}.modern-tempo .hero-copy{align-self:stretch;display:flex;flex-direction:column;justify-content:center;padding:5vw;background:var(--ink);color:var(--paper)}.modern-tempo .season{color:var(--accent)}.modern-tempo .button{background:var(--accent);color:var(--ink);border:0}.modern-tempo .programs{background:var(--soft)}.modern-tempo .section-head h2{text-transform:uppercase}.modern-tempo .event-grid{grid-template-columns:1.4fr .8fr .8fr;gap:8px}.modern-tempo .event{border:4px solid var(--ink);background:var(--paper);min-height:330px}.modern-tempo .event:first-child{background:var(--accent)}.modern-tempo .manifesto{background:var(--accent)}.modern-tempo .manifesto blockquote{font-family:var(--body);font-weight:900;text-transform:uppercase;letter-spacing:-.06em}
+
+    /* 05 — light, spatial, architectural */
+    .carolina-arches .header{position:absolute;top:30px;left:0;right:0;z-index:3}.carolina-arches .hero{min-height:900px;align-items:end;padding-bottom:8vw;background:linear-gradient(180deg,var(--soft),var(--paper))}.carolina-arches .hero-main{position:relative;z-index:2;max-width:900px}.carolina-arches .hero h1{font-weight:400;letter-spacing:-.04em}.carolina-arches .hero-copy{max-width:480px}.carolina-arches .ornament{right:5vw;bottom:0;width:38vw;height:72%;border:1px solid var(--accent);border-bottom:0;border-radius:20vw 20vw 0 0;background:linear-gradient(180deg,color-mix(in srgb,var(--accent) 18%,transparent),transparent)}.carolina-arches .ornament:after{content:"";position:absolute;inset:12%;border:1px solid var(--accent);border-bottom:0;border-radius:18vw 18vw 0 0}.carolina-arches .programs{padding-top:100px}.carolina-arches .event{border:0;border-radius:180px 180px 0 0;padding:90px 32px 36px;background:var(--soft);text-align:center}.carolina-arches .event:nth-child(2){background:var(--accent);color:var(--paper)}.carolina-arches .manifesto blockquote{font-weight:400}.carolina-arches .manifesto blockquote em{color:var(--accent)}
+
+    @media(max-width:760px){.nav{display:none}.hero,.editorial-score .hero,.modern-tempo .hero{grid-template-columns:1fr;min-height:680px}.hero h1{font-size:clamp(55px,18vw,100px)}.editorial-score .hero-copy{border:0;padding:0}.modern-tempo .hero-copy{padding:50px 5vw}.event-grid,.modern-tempo .event-grid{grid-template-columns:1fr}.editorial-score .event-grid{border:0}.editorial-score .event{border:2px solid var(--paper);margin-top:-2px}.footer{align-items:flex-start;flex-direction:column}.carolina-arches .ornament{width:70vw}.section-head{align-items:start;flex-direction:column}}
+  </style>
+</head>
+<body class="{{ page.concept }}">
+  <div class="shell">
+    <div class="preview">New design concept · {{ page.style_name }} · <a href="/newsite/styles/">View all 15 designs</a></div>
+    <header class="header">
+      <a class="brand" href="#top">NCBO</a>
+      <nav class="nav" aria-label="Main navigation"><a href="#season">Season</a><a href="#story">Our Story</a><a href="#support">Support</a></nav>
+    </header>
+    <main>
+      <section class="hero" id="top">
+        <div class="hero-main"><div class="season">North Carolina · 15th Anniversary Season</div><h1>{{ page.hero_line_1 }}<br>{{ page.hero_line_2 }}</h1></div>
+        <div class="hero-copy"><p>Music with a past, played for the present. Experience the vivid sound of period instruments across the Carolinas.</p><a class="button" href="#season">Explore the season</a></div>
+        <div class="ornament" aria-hidden="true">{% if page.concept == "editorial-score" %}15{% endif %}</div>
+      </section>
+      <section class="programs" id="season">
+        <div class="section-head"><h2>On Stage</h2><p>Historically informed performances that bring the color, intimacy, and electricity of baroque music into the room.</p></div>
+        {% assign grouped_events = site.data.events | group_by: "heading" %}
+        <div class="event-grid">
+          {% for group in grouped_events limit:3 %}{% assign first = group.items.first %}{% assign last = group.items.last %}
+          <article class="event"><div class="event-date">{{ first.eventmonthyear }} · {% if first.eventday == last.eventday %}{{ first.eventday }}{% else %}{{ first.eventday }}–{{ last.eventday }}{% endif %}</div><h3>{{ group.name }}</h3><p>{{ group.items | map: "venue" | uniq | join: " · " }}</p></article>
+          {% endfor %}
+        </div>
+      </section>
+      <section class="manifesto" id="story"><blockquote>Old instruments.<br><em>New electricity.</em></blockquote></section>
+    </main>
+    <footer class="footer" id="support"><div><strong>North Carolina Baroque Orchestra</strong><br><small>A donor-supported 501(c)(3) organization</small></div><a href="mailto:ncbaroqueorchestra@gmail.com">Join our list →</a><a href="https://www.paypal.com/donate/?hosted_button_id=XZN23PSLH2SHQ">Support NCBO →</a></footer>
+  </div>
+</body>
+</html>

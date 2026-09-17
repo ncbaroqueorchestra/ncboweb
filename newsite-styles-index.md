@@ -1,11 +1,46 @@
 ---
 layout: newsite-styles-index
 title: Color & Type Options — North Carolina Baroque Orchestra
-description: Ten color scheme and typeface variations on the new NCBO homepage design.
+description: Fifteen homepage design directions for the North Carolina Baroque Orchestra.
 permalink: /newsite/styles/
 sitemap: false
 robots: noindex
 styles:
+  - slug: editorial-score
+    name: "Editorial Score — New Layout"
+    ink: "#161616"
+    paper: "#f2efe5"
+    accent: "#f24b35"
+    font_head_name: "Archivo Black"
+    font_body_name: "Space Grotesk"
+  - slug: velvet-nocturne
+    name: "Velvet Nocturne — New Layout"
+    ink: "#100d18"
+    paper: "#f5eee2"
+    accent: "#d6a85f"
+    font_head_name: "Italiana"
+    font_body_name: "Manrope"
+  - slug: living-manuscript
+    name: "Living Manuscript — New Layout"
+    ink: "#35291e"
+    paper: "#f3ead8"
+    accent: "#9e3127"
+    font_head_name: "EB Garamond"
+    font_body_name: "Libre Franklin"
+  - slug: modern-tempo
+    name: "Modern Tempo — New Layout"
+    ink: "#111111"
+    paper: "#f7f4ed"
+    accent: "#c9ff31"
+    font_head_name: "Syne"
+    font_body_name: "DM Sans"
+  - slug: carolina-arches
+    name: "Carolina Arches — New Layout"
+    ink: "#193043"
+    paper: "#f7f4ec"
+    accent: "#b75d43"
+    font_head_name: "Instrument Serif"
+    font_body_name: "Outfit"
   - slug: forest-gold
     name: "Forest & Gold"
     ink: "#1b3328"
