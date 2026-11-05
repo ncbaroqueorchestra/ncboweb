@@ -163,6 +163,7 @@
   heading: 'Music of J.S. Bach and Kuhnau: NCBO Chamber Players'
   mapurl: https://maps.app.goo.gl/cPZAFrrswAzBmNjW9
   sortdate: 1797800400
+  ticketurl: https://stjohnssav.org/sjc-events/4-p-m-music-on-madison-square-st-johns-choir-christmas-concert/?occurrence=2026-12-20&time=1797782400
   venue: St. John Church (Episcopal)
 - address: 520 Summit Street, Winston-Salem
   description: Performances of baroque chamber music preceding three Christmas Eve
@@ -204,7 +205,7 @@
   venue: Trinity Episcopal Cathedral
 - address: 310 Exploration Blvd., Denver, NC
   description: Fun and exciting chamber music performed by Frances Blaker, recorder,
-    David Wilson, violin, and Barbara Blaker Krumdieck, cello.
+    David Wilson, violin, Barbara Blaker Krumdieck, cello, and Barbara Weiss, harpsichord.
   eventdate: 02/05/2027
   eventday: '5'
   eventmonthyear: February 2027
@@ -215,7 +216,9 @@
   sortdate: 1801861200
   venue: Trilogy at Lake Norman
 - address: 307 W Gay Street, Lancaster, SC
-  description: Baroque chamber music performed by the NCBO Chamber Players.
+  description: 'A fun program of chamber music performed by Ensemble Vermillian: Frances
+    Blaker, recorder, David Wilson, violin, Barbara Blaker Krumdieck, cello, and Barbara
+    Weiss, harpsichord.'
   eventdate: 02/07/2027
   eventday: '7'
   eventdetailsurl: http://lcshp.org/cultural-arts-center-concerts-events
