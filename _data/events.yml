@@ -205,7 +205,9 @@
   venue: Trinity Episcopal Cathedral
 - address: 310 Exploration Blvd., Denver, NC
   description: Fun and exciting chamber music performed by Frances Blaker, recorder,
-    David Wilson, violin, Barbara Blaker Krumdieck, cello, and Barbara Weiss, harpsichord.
+    David Wilson, violin, Barbara Krumdieck, cello, and Barbara Weiss, harpsichord.
+    The concert will be held at the Event Center at Twin Mills Club, contact the concierge
+    at 704 585-8780 for tickets.
   eventdate: 02/05/2027
   eventday: '5'
   eventmonthyear: February 2027
@@ -217,7 +219,7 @@
   venue: Trilogy at Lake Norman
 - address: 307 W Gay Street, Lancaster, SC
   description: 'A fun program of chamber music performed by Ensemble Vermillian: Frances
-    Blaker, recorder, David Wilson, violin, Barbara Blaker Krumdieck, cello, and Barbara
+    Blaker, recorder, David Wilson, violin, Barbara Krumdieck, cello, and Barbara
     Weiss, harpsichord.'
   eventdate: 02/07/2027
   eventday: '7'
@@ -243,7 +245,11 @@
   sortdate: 1805054400
   venue: Trinity Episcopal Cathedral
 - address: 310 Exploration Blvd., Denver, NC
-  description: Chamber music of the baroque.
+  description: 'Chamber music of the baroque.
+
+
+    The concert will be held at the Event Center at Twin Mills Club, contact the concierge
+    at 704 585-8780 for tickets.'
   eventdate: 03/19/2027
   eventday: '19'
   eventmonthyear: March 2027
@@ -323,18 +329,6 @@
   eventweekday: Fri
   heading: 'SC Baroque Music Festival: Heartland Baroque'
   sortdate: 1809126000
-  venue: ''
-- address: ''
-  description: NCBO performs orchestral music of the baroque as part of the South
-    Carolina Baroque Music Festival, presented by SC Bach. Time and venue TBD.
-  eventdate: 05/02/2027
-  eventday: '2'
-  eventdetailsurl: https://scbach.org/
-  eventmonthyear: May 2027
-  eventtime: 03:00 PM
-  eventweekday: Sun
-  heading: NCBO at the South Carolina Baroque Music Festival
-  sortdate: 1809284400
   venue: ''
 - address: ''
   description: As part of the SC Baroque Music Festival, NCBO joins SC Bach in a performance
