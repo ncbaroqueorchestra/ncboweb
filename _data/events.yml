@@ -285,16 +285,32 @@
   sortdate: 1806708600
   venue: Davidson College Presbyterian Church
 - address: 100 N. Main Street, Davidson, NC
-  description: As part of the Davidson Bach Festival, NCBO performs Bach's Brandenburg
-    Concerto No. 4, an Organ Trio Sonata, and more.
+  description: 'As part of the Davidson Bach Festival, Organ at Davidson presents
+    a recital by organist John Richardson.
+
+
+    This is a free concert.'
   eventdate: 04/03/2027
   eventday: '3'
   eventmonthyear: April 2027
-  eventtime: 05:00 PM
+  eventtime: 03:00 PM
+  eventweekday: Sat
+  heading: Davidson Bach Festival - Organ at Davidson presents John Richardson
+  mapurl: https://maps.app.goo.gl/ytVxzhZqPVkFzuMT6
+  sortdate: 1806778800
+  venue: Davidson College Presbyterian Church (Sanctuary)
+- address: 100 N. Main Street, Davidson, NC
+  description: As part of the Davidson Bach Festival, NCBO is joined by the Davidson
+    College Choir for a concert which includes Bach's Brandenburg Concerto No. 4,
+    a motet with the choir, the Concerto for Two Violins, and a trio sonata.
+  eventdate: 04/03/2027
+  eventday: '3'
+  eventmonthyear: April 2027
+  eventtime: 07:30 PM
   eventweekday: Sat
   heading: Davidson Bach Festival - NCBO
   mapurl: https://maps.app.goo.gl/ytVxzhZqPVkFzuMT6
-  sortdate: 1806786000
+  sortdate: 1806795000
   venue: Davidson College Presbyterian Church
 - address: ''
   description: Heartland Baroque presents a concert of French Baroque music as part
