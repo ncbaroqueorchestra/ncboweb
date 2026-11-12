@@ -1,14 +1,3 @@
-- address: 2310 Augusta Street, Greenville, SC
-  description: Marlon Hurst directs Mozart Missa Brevis in D minor, K.65
-  eventdate: 11/08/2026
-  eventday: '8'
-  eventmonthyear: November 2026
-  eventtime: 04:00 PM
-  eventweekday: Sun
-  heading: Vespers
-  mapurl: https://maps.app.goo.gl/Z9gZjxTApDuNPMBV9
-  sortdate: 1794171600
-  venue: Westminister Presbyterian Church
 - address: 1100 Sumter Street, Columbia, SC
   description: Members of NCBO join the musicians of Trinity Episcopal Cathedral in
     Columbia, SC for a Vespers service featuring baroque music for voices and instruments.
@@ -179,18 +168,6 @@
   mapurl: https://maps.app.goo.gl/CeSTJM9Ugn5TRqZh7
   sortdate: 1798140600
   venue: St. Paul's Episcopal Church
-- address: 1739 Perth Road, Mooresville, NC
-  description: Members of NCBO will perform at this monthly meeting of the Newcomers
-    Club.
-  eventdate: 01/06/2027
-  eventday: '6'
-  eventmonthyear: January 2027
-  eventtime: 10:00 AM
-  eventweekday: Wed
-  heading: NCBO Presentation for The Mooresville/Lake Norman Area Newcomers Club
-  mapurl: https://maps.app.goo.gl/r8pjvvyoLsWUcRFq6
-  sortdate: 1799247600
-  venue: Rocky Mount United Methodist Church
 - address: 1100 Sumter Street, Columbia, SC
   description: NCBO joins the musicians of Trinity Cathedral for a Vespers service
     featuring Bach's cantata "Ich habe genug," BWV 82.
