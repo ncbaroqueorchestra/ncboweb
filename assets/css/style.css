@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #432222;
   overflow-y: auto;
 }
 #header .profile img {
@@ -144,8 +144,8 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   color: #a8a9b4;
-  padding: 12px 15px;
-  margin-bottom: 8px;
+  padding: 8px 15px;
+  margin-bottom: 4px;
   transition: 0.3s;
   font-size: 15px;
 }
@@ -983,7 +983,7 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #040b14;
+  background: #432222;
 }
 #footer .copyright {
   text-align: center;

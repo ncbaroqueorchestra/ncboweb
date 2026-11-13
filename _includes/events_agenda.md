@@ -52,7 +52,6 @@
   <div class="container">
     <div class="section-title">
       <h2>Upcoming Events</h2>
-      <p>Agenda</p>
     </div>
 
     {% assign current_month = '' %}
